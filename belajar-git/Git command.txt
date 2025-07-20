@@ -9,31 +9,31 @@ $ git branch
 $ git help
 
 
-cara commit
+# cara commit:
 git commit -m "menambahkan file baru"
 -m artinya tambah message
 
 
 
-commit semua file tanpa satu satu ketik
+# commit semua file tanpa satu satu ketik nama filenya:
 git add .
 
 
 
-cek Riwayat git
+# cek Riwayat git:
 git log		nunjukin semua Riwayat
 git log -3	nunjukin 3 Riwayat terakhir
 
 
 
-cek Riwayat file secara spesifik
+# cek Riwayat file secara spesifik
 git log -- style.css
 -- artinya spesifik
 
 
 
 
-ngembaliin perubahan yg sebelumnya
+# ngembaliin perubahan yg sebelumnya, mau ke versi yang lama aja
 git checkout 7463y -- style.css
 7463 adlh hash perubahannya yg mengarah ke file style.css
 
@@ -49,24 +49,25 @@ git checkout 7463y -- style.css
 
 
 
-Branch di git
-git branch		nampilin ada cabang apa aja
-git branch dosen	buat branch baru nama dosen
+# Branch di git
+git branch		    -->       nampilin ada cabang apa aja
+git branch dosen	-->       buat branch baru nama dosen
 
 
-cara liat visualisasi branchnya
+# cara liat visualisasi branchnya
 git log --all --decorate --online --graph
 
-klo mau manggil lagi, tapi gk mau  ribet
+klo mau manggil lagi, tapi gk mau ribet
 alias graph="git log --all --decorate --oneline --graph"
 
-cara pindah branch
-git checkout dosen		pindah branch ke dosen 
+# cara pindah branch
+git checkout dosen	-->    	pindah branch ke dosen 
 
 
 
 
-jenis merge
+# jenis merge ada 2, yg terhubung ke jalur langsung (fast formard) dan yang cabangnya gak terhubung (tree way merge)
+
 fast forward = branch yang mau digabungin, nyambung jalannya
 
 1. pindahin dulu */head ke master
@@ -74,13 +75,13 @@ fast forward = branch yang mau digabungin, nyambung jalannya
 3. udah selesai
 
 
-cara hapus branch
-git branch -d dosen 	hapus branch dosen
-
+# cara hapus branch
+git branch -d dosen         -->  	hapus branch dosen
+atau....
 git branch --merged	branch mana yg udah di merged
 
 
-klo  mau hapus branch tanpa perlu merge
+klo  mau hapus branch tanpa perlu merge, brti branchnya emg gak dipakai
 git branch -D staff
 
 
@@ -95,24 +96,46 @@ tree way merge = merge + commit baru
 
 
 
-Git remote
+# Git remote
 
 repo github --->  vscode
 1. ganti direktori yg mau disimpen
 2. git clone https.......
-3. git remote   (lihat file remotenya)
-4. git remote -v        (-v verpouse    lihat lebih detil lagi)
+3. git remote           -->    (lihat file remotenya)
+4. git remote -v        -->    (-v verpouse    lihat lebih detil lagi)
 
 
-git push        -> kalau mau ngirim perubahan ke repo github
-
-
-
-
-git config --list   -> lihat username git, isi configurasi git
+git push                -->      kalau mau ngirim perubahan ke repo github
+git config --list       -->      lihat username git, isi configurasi git
 
 
 
+# Kasus punya folder lokal    ->      ke github
+1. di git bashnya, masuk ke foldernya dulu contoh "belajar lagi"
+2. jadiin repo dulu, pakai git init
+3. buka text editor, masuk ke folder "belajar lagi"
+4. edit aja tambahin file apapun
+5. kembali ke git bash, ketik ls (buat tau isinya apa aja)
+   git add . (buat tambahin)
+   git commit -m "pesannya buat penjelasan" (commit ke repo)
+
+   kalau sudah mode modified bisa pakai ini,
+   git commit -am "pesan kasih lagi"
+
+6. saatnya unggah ke github,
+   buat repo dengan nama folder yang sama yg ada di lokal "belajar lagi"
+   jangan centang bagian buat file 'README.md'
+
+   disana ada notif pilihan buat nge-push file lokal ke github, pakai command line
+
+   contoh: ini  mau unggah lokal ke github
+   masuk ke bash git
+   git remote add origin https://github.com/nama akun username github/belajar lagi.git
+   (origin)     nama default bawaan
+   git remote
+
+   masukin kode lokal ke github:
+   git push -u origin master        (-u upstream)   biar kedepannya tinggal ketik git push aja
 
 
 
@@ -121,8 +144,46 @@ git config --list   -> lihat username git, isi configurasi git
 
 
 
+
+
+
+
+
+
+Kasus 3, di github ada, di lokal dah ada, 
+aku edit yg lokal, eh yg di github di edit orang lain nih.., ternyata edit file yang sama, baris yang sama pula, 
+
+cerita:
+    udah edit, udah add, mau commit, eh ada pesan "pushnya gagal/ ditolak"
+    cara ngatasinnya:
+    masuk bash git, ketik git fetch
+    fungsinya, repo yang ada di remote udah sampai mana commitnya, beda gak sama yang aku punya, ngecek yang di remote dah sampai mana
+
+    cek di graph, ternyata terbentuk 2 cabang, brti harus di merge commit
+
+    pull dulu yang ada di remotenya,
+    ketik bash git, git pull, nanti dikasih tahu ada merge conflict
+    setelah itu nanti akan muncul masalah kodingnya di text editor
+    tinggal edit mana baris code yang mau dipakai
+
+    git status (klo mau cek statusnya) / bisa langsung
+    git add .
+    git commit -m "menyelesaikan konflik"
+    git push
+
+
+
+
+
+
+
+
+
+
+        basic cmd
 
 pwd (print working directory) kita lagi ada dimana
 ls (lihat ada apa aja)
 cd (change directory) spasi (nama folder) kyak klik open foldr
 cd ..       (kalo mau keluar folder)
+mkdir       membuat direktori baru/ folder baru
