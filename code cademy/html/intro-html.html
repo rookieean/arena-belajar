@@ -1,0 +1,247 @@
+<!--
+                                     Membuat Forms Input
+-->
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <title>HTML Forms</title>
+  </head>
+  <body>
+    <section id="overlay">
+      <img src="https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_burger-logo.svg" alt="Davie's Burgers Logo" id="logo">
+      <hr>
+
+
+
+
+
+      <!-- Bagian yang akan membuat form -->
+      <form>
+			<h1>Login to start creating a burger!</h1>
+			<label for="username">username</label>  <!-- form dgn nama 'username' -->
+            <input type="text" name="username" id="username"> <!-- bagian input dengan tipe text, nama username, dan id username-->
+
+            <span>Rare</span>
+		       <!-- Membuat sebuah volume min dan max-->
+            <form>
+                <label for="volume">Volume Control</label>
+                    <input id="doneness" name="doneness" type="range" min="0" max="5" step="0.5">
+            </form>
+            <span>Well-Done</span>
+      </form>
+      
+
+
+
+
+
+
+      <!--      Membuat Checkbox  (yang memberikan banyak pilihan)   -->
+          <section class="toppings">
+              <span>What toppings would you like?</span>
+              <br>
+              <!--Add your code below for the first checkbox-->
+					        <input id="lettuce" name="topping" type="checkbox" value="lettuce">
+					        <label for="lettuce">Lettuce</label>
+              <!--Add your code below for the second checkbox-->
+					        <input id="tomato" name="topping" type="checkbox" value="tomato">
+                  <label for="tomato">Tomato</label>
+               <!--Add your code below for the third checkbox-->
+				        	<input id="onion" name="topping" type="checkbox" value="onion">
+                 <label for="onion">Onion</label>
+          </section>
+
+
+
+
+
+
+
+
+          <!--        Input tombol Radio (pilihan true false)       -->
+            
+        <section class="cheesy">
+              <span>Would you like to add cheese?</span>
+              <br>
+	        <!--Add your first radio button below-->
+              <input type="radio" id="yes" name="cheese" value="yes">
+              <label for="yes">Yes</label>
+	        <!--Add your second radio button below-->
+              <input type="radio" id="no" name="cheese" value="no">
+
+               <label for="no">No</label>
+        </section>
+
+
+
+
+
+           <!--                 menu dropdown                      -->
+
+        <section class="bun-type">
+					      <label for="bun">What type of bun would you like?</label>
+          <!--Add your code below-->
+                <select id="bun" name="bun">
+                        <option value="sesame">Sesame</option>
+                        <option value="potato">Potato</option>
+                        <option value="pretzel">Pretzel</option>
+                </select>
+          
+        </section>
+
+
+
+
+
+
+        <!--                 DataList        < user bisa ketik)            -->
+
+          <section class="sauce-selection">
+					    <label for="sauce">What type of sauce would you like?</label>
+                <input type="text" list="sauces" id="sauce" name="sauce">
+          <!--Add your code below-->
+					          <datalist id="sauces">
+                         <option value="ketchup"></option>
+                         <option value="mayo"></option>
+                         <option value="salt"></option>
+                     </datalist>
+        </section>
+
+
+
+
+
+        <!--      TEXT AREA         -->
+        
+        <form>
+          <label for="blog">New Blog Post: </label>
+          <br>
+            <textarea id="blog" name="blog" rows="5" cols="30">
+             </textarea>
+        </form>
+
+
+
+
+
+        <!--        TOMBOL KIRIM FORMULIR         -->
+
+        <form>
+          <input type="submit" value="Send">
+        </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--      BIKIN VALIDASI FORM         -->
+        <form action="/example.html" method="POST">
+            <label for="allergies">Do you have any dietary restrictions?</label>
+            <br>
+           <input id="allergies" name="allergies" type="text" required>
+             <br>
+            <input type="submit" value="Submit">
+        </form>
+
+
+
+
+
+
+
+
+
+        <!--      Menetapkan min dan max dalam validasi input     -->
+              <form action="/example.html" method="POST">
+                  <label for="guests">Enter # of guests:</label>
+                  <input id="guests" name="guests" type="number" min="1" max="4">
+                  <input type="submit" value="Submit">
+              </form>
+
+
+
+
+
+
+
+
+        <!--     MEMERIKSA PANJANG TEKS          -->
+
+        <form action="/example.html" method="POST">
+            <label for="summary">Summarize your feelings in less than 250 characters</label>
+             <input id="summary" name="summary" type="text" minlength="5" maxlength="250" required>
+             <input type="submit" value="Submit">
+        </form>
+
+        <!--
+              menggunakan minlength=""
+              maxlength = ""
+        -->
+
+
+
+
+
+
+
+
+
+        <!--             MENCOCOKKAN POLA                -->
+
+        <form action="/example.html" method="POST">
+             <label for="payment">Credit Card Number (no spaces):</label>
+             <br>
+             <input id="payment" name="payment" type="text" required pattern="[0-9]{14,16}">
+             <input type="submit" value="Submit">
+        </form>
+
+
+        <!--
+                Menggunakan     pattern=""
+        -->
+
+
+
+
+
+
+
+
+
+        <!--                           -->
+
+
+
+
+
+
+
+
+
+
+    </section>
+  </body>
+</html>
