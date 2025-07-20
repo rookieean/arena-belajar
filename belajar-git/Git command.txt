@@ -1,0 +1,127 @@
+Git command
+
+$ git init		foldernya dibikin repo sama git
+$ git add <file(s)>	cara commitnya git add index.html
+$ git status		lihat filenya dah di commit lom
+$ git commit		
+$ git config		register akun k git
+$ git branch
+$ git help
+
+
+cara commit
+git commit -m "menambahkan file baru"
+-m artinya tambah message
+
+
+
+commit semua file tanpa satu satu ketik
+git add .
+
+
+
+cek Riwayat git
+git log		nunjukin semua Riwayat
+git log -3	nunjukin 3 Riwayat terakhir
+
+
+
+cek Riwayat file secara spesifik
+git log -- style.css
+-- artinya spesifik
+
+
+
+
+ngembaliin perubahan yg sebelumnya
+git checkout 7463y -- style.css
+7463 adlh hash perubahannya yg mengarah ke file style.css
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branch di git
+git branch		nampilin ada cabang apa aja
+git branch dosen	buat branch baru nama dosen
+
+
+cara liat visualisasi branchnya
+git log --all --decorate --online --graph
+
+klo mau manggil lagi, tapi gk mau  ribet
+alias graph="git log --all --decorate --online --graph"
+
+cara pindah branch
+git checkout dosen		pindah branch ke dosen 
+
+
+
+
+jenis merge
+fast forward = branch yang mau digabungin, nyambung jalannya
+
+1. pindahin dulu */head ke master
+2. git merge dosen
+3. udah selesai
+
+
+cara hapus branch
+git branch -d dosen 	hapus branch dosen
+
+git branch --merged	branch mana yg udah di merged
+
+
+klo  mau hapus branch tanpa perlu merge
+git branch -D staff
+
+
+tree way merge = merge + commit baru
+
+
+
+
+
+
+
+
+
+
+Git remote
+
+repo github --->  vscode
+1. ganti direktori yg mau disimpen
+2. git clone https.......
+3. git remote   (lihat file remotenya)
+4. git remote -v        (-v verpouse    lihat lebih detil lagi)
+
+
+git push        -> kalau mau ngirim perubahan ke repo github
+
+
+
+
+git config --list   -> lihat username git, isi configurasi git
+
+
+
+
+
+
+
+
+
+
+
+
+pwd (print working directory) kita lagi ada dimana
+ls (lihat ada apa aja)
+cd (change directory) spasi (nama folder) kyak klik open foldr
