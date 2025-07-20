@@ -125,3 +125,4 @@ git config --list   -> lihat username git, isi configurasi git
 pwd (print working directory) kita lagi ada dimana
 ls (lihat ada apa aja)
 cd (change directory) spasi (nama folder) kyak klik open foldr
+cd ..       (kalo mau keluar folder)
