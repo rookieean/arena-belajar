@@ -58,7 +58,7 @@ cara liat visualisasi branchnya
 git log --all --decorate --online --graph
 
 klo mau manggil lagi, tapi gk mau  ribet
-alias graph="git log --all --decorate --online --graph"
+alias graph="git log --all --decorate --oneline --graph"
 
 cara pindah branch
 git checkout dosen		pindah branch ke dosen 
