@@ -1,10 +1,45 @@
+catatan video pembelajaran dari sandikagalih, web programming unpas
+
+
+
+                      3 area repo git
+
+---------------------    ---------------|   ----------|
+                    |                   |             |
+                    |                   |             |
+  Working Tree      |    staging area   |   history   |
+                    |                   |             |
+                    |                   |             |
+                    |                   |             |
+                    |                   |             |
+                    |                   |             |
+                    |   ----------------|   ----------|
+--------------------
+
+
+working tree = tempat nyimpen file
+staging area = 
+
+sudah buat folder, lalu dibuat repo git, maka git akan pantau  folder itu ada perubahan atau tidak, kalau ada perubaha simpan ke staging area, pakai
+git add,
+kalau udah di staging simpan ke history area, pakai
+git commit
+
+
+
+
+
+
+
+
+
 Git command
 
-$ git init		foldernya dibikin repo sama git
-$ git add <file(s)>	cara commitnya git add index.html
-$ git status		lihat filenya dah di commit lom
+$ git init		        foldernya dibikin repo sama git
+$ git add <file(s)>	    cara commitnya git add index.html
+$ git status		    lihat filenya dah di commit lom
 $ git commit		
-$ git config		register akun k git
+$ git config		    konfigurasi git
 $ git branch
 $ git help
 
