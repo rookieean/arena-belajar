@@ -1,0 +1,194 @@
+cara menghubungkan html dengan css,
+
+<link href="style.css" rel="stylesheet">
+ 
+akan ke file style.css yang sudah diedit
+
+
+
+bentuk anatomi css
+
+p {
+    color: blue;
+}
+
+artinya:
+p                =   bagian yang akan dikasih css    (selector)
+{}               =   deklarasi blok      (declaration)
+color: blue;     =      deklarasi nama grup  (declaration block)
+color            =  Bagian pertama deklarasi yang menandakan karakteristik visual elemen yang akan dimodifikasi  (property)
+blue             =  Bagian kedua dari deklarasi yang menandakan nilai properti (value)
+
+
+
+
+bisa menggunakan gaya sebaris:
+<p style='color: red;'>I'm learning to code!</p>
+
+kalau mau panjang
+<p style='color: red; font-size: 20px;'>I'm learning to code!</p>
+
+
+
+stylesheet
+agar bisa pakai fitur itu, harus di tempatkan di html
+<head>
+  <style>
+
+
+  </style>
+</head>
+
+lalu lanjut dengan ini.....
+
+<head>
+  <style>
+    p {
+      color: red;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+
+
+
+
+lembar gaya eksternal:
+
+Anda dapat menggunakan
+<link>
+
+Elemen untuk menghubungkan berkas HTML dan CSS. <link>Elemen ini harus ditempatkan di dalam kepala berkas HTML. Ini adalah tag yang dapat menutup sendiri dan membutuhkan atribut berikut:
+
+href— seperti elemen jangkar, nilai atribut ini harus berupa alamat, atau jalur, ke file CSS.
+
+rel— atribut ini menjelaskan hubungan antara berkas HTML dan berkas CSS. Karena Anda menautkan ke stylesheet, nilainya harus ditetapkan ke stylesheet.
+
+
+jika filenya bentuk url
+<link href='https://www.codecademy.com/stylesheets/style.css' rel='stylesheet'>
+
+jika filenya di direktori
+<link href='./style.css' rel='stylesheet'>
+
+
+
+
+
+
+
+
+
+
+
+
+                                   BAB II SELECTORS
+
+1. type selectors 
+h1      berfungsi untuk menargetkan style yang akan digunakan
+
+h1 {
+
+}
+
+
+
+
+2. universal selectors
+dia akan menargetkan ke setiap eleman di html
+
+* { 
+  font-family: Verdana;
+}
+
+
+
+
+3. class
+
+yang ada di HTML
+<p class='brand'>Sole Shoe Company</p>
+
+di file cssnya akan 
+.brand {        menggunakan titik lalu nama class
+
+}
+
+
+
+
+
+4. beberapa kelas
+menambahkan lebih  dari satu sekaligus
+<h1 class='green bold'> ... </h1>
+
+
+.green {
+  color: green;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+
+
+
+
+5. ID
+
+di html
+<h1 id='large-title'> ... </h1>
+
+di css
+#large-title {
+
+}
+
+
+
+
+6. atribut html (href, src, id, )
+
+[href]{
+   color: magenta;
+}
+semua href akan diberi style tersebut
+
+
+
+
+kalau mau spesifik?
+
+<img src='/images/seasons/cold/winter.jpg'>
+<img src='/images/seasons/warm/summer.jpg'>
+
+
+img[src*='winter'] {        kasih style ke img dengan string winter
+  height: 50px;
+}
+
+img[src*='summer'] {
+  height: 100px;
+}
+
+
+
+
+
+7. pseudo class selector (:focus, :visited, :disabled, dan :active )
+saat kamu klik tautan, trus warnanya berubah?
+
+
+p:hover {
+  background-color: lime;
+}
+
+Dalam kode di atas, setiap kali mouse diarahkan ke elemen paragraf, paragraf tersebut akan memiliki latar belakang berwarna kapur.
+
+
+
+8. classes dan id class
+
+
