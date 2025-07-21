@@ -231,11 +231,137 @@
 
 
 
-        <!--                           -->
+
+
+
+        <!--                 SEMANTIC HTML                -->
+        <!-- untuk memberikan makna, juga agar html tersusun rapi -->
+
+
+        <!--        HEADER DAN NAVBAR       -->
+        <!-- non semantic -->
+        <header>
+          <h1>
+             Everything you need to know about pizza!
+          </h1>
+        </header>
+        
+        
+        <!-- semantic -->
+        <div id="header">
+          <h1>
+             Everything you need to know about pizza!
+          </h1>
+        </div>
+
+
+        <!--       NAVBAR          -->
+        <header> 
+            <nav>
+               <ul>
+                 <li><a href="#home">Home</a></li>
+                 <li><a href="#about">About</a></li>  	
+               </ul>
+             </nav>
+        </header>
+
+
+        <!--        MAIN DAN FOOTER         -->
+<main>
+  <header>
+    <h1>Types of Sports</h1>
+  </header>
+  <article>
+    <h3>Baseball</h3>
+    <p>
+      The first game of baseball was played in Cooperstown, New York in the summer of 1839.
+    </p>
+  </article>
+</main>
+    <!-- MAIN ntuk inti dari file tersebut  -->                      
+
+
+<!--         FOOTER          -->
+<footer>
+  <p>Email me at Codey@Codecademy.com</p>
+</footer>
 
 
 
 
+<!--      SECTION DAN ARTICLES      -->
+<section>
+  <h2>Fun Facts About Cricket</h2> 
+</section>
+
+<!--    ARTICLE   -->
+<section>
+  <h2>Fun Facts About Cricket</h2>
+  <article>
+    <p>A single match of cricket can last up to 5 days.</p>
+  </article>
+</section>
+
+
+
+
+<!-- HALAMAN SAMPING /  ASSIDE-->
+<!--
+  DAFTAR PUSTAKA, CATATAN AKHIR, KOMENTAR, DLL
+  memberikan catatan buat code yang utama
+-->
+<article>
+  <p>The first World Series was played between Pittsburgh and Boston in 1903 and was a nine-game series.</p>
+</article>
+<aside>
+  <p>
+   Babe Ruth once stated, “Heroes get remembered, but legends never die.” 
+  </p>
+</aside>
+
+
+
+<!--      FIGURE DAN FIGCAPTION     -->
+<!-- Figure  =  merangkum media,gambar ilustrasi, dll-->
+<figure>
+  <img src="overwatch.jpg">
+</figure>
+
+<!--  Figcaption  = menambahkan keterangan gambar -->
+<figure>
+  <img src="overwatch.jpg">
+  <figcaption>This picture shows characters from Overwatch.</figcaption>
+</figure>
+
+
+
+
+<!--      AUDIO DAN ATRIBUT     -->
+<audio>
+  <source src="iAmAnAudioFile.mp3" type="audio/mp3">
+</audio>
+<!--     akan diputar otomatis    -->
+<audio autoplay controls>
+
+
+
+<!--     VIDEO DAN SEMATKAN    -->
+<!--
+controls = menambahkan tombol putar dan jeda
+loop     = akan berulang ulang
+autoplay = akan diputar otomatis setelah laman dimuat
+-->
+<video src="coding.mp4" controls>Video not supported</video>
+<!--
+pesan video not supported akan ada ketika video tidak bisa dimuat
+-->
+
+
+
+<embed src="download.gif"/>
+<!--
+dapat menyematkan gif, konten media apapun, berkas audio, etc
+-->
 
 
 
