@@ -80,6 +80,40 @@ git checkout 7463y -- style.css
 
 
 
+# GIT MERGE CONFLICT
+Karena mengerjakan di baris yang sama,
+harus di solve
+mau pakai yang di branch A atau di branch B
+
+ada dua branch
+dev
+master
+
+....cara bikin branch
+git branch namaBranch
+
+....ganti pointer 
+git checkout namaBranchYangMauDiganti
+
+
+.... klo file untrack, pakai add
+.... klo file modified, pakai commit
+
+mau merge..
+git merge branchyangmaudimerge
+
+nanti akan ada notifikasi konflik gitu 
+
+
+
+cara kembali ke versi sebelumnya
+git checkout hash 7 digit yang ada di git log
+
+
+
+
+
+
 
 
 
