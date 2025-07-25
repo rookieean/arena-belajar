@@ -1,1 +1,42 @@
 terhubung ke beberapa remote sekaligus
+
+repo orang mau diremote ke lokal?
+
+akun bambang -> akunku -> tapi diremote di lokal Pc
+pengennya sinkron ketiga-tiganya nih..
+
+1. fork, nanti akan otomatis copy ke repo  aku
+2. clone aja
+3. simpan di folder lokal yang aku mau
+4. yang di bash terminal, masuk ke repo yang tadi
+5. eits... pengen sinkron ketiga-tiganya nih..
+6. git remote -v (cek status originnya)
+7. git remote add anjar (nama = nama remote, boleh apapun) spasi alamatnya dimana repo  asli,
+
+    git remote add anjar https://github.com/abanaca/simple.git
+
+8. graph (cek arah pointer)
+    cuma ada dua doang, kan maunya tiga-tiganya.
+    git fetch anjar (nama remote aku)
+
+
+
+akun utama di edit, tapi aku pengen update...
+biar tahu..
+
+1. git fetch abanaca
+2. graph
+3. biar sama lagi, merge yang lokal sama dengan di github
+4. git merge abanaca/master
+5. graph
+
+repo akun yang digithub ku belum sama
+
+1. git push -u origin master
+2. graph
+
+baru sama lagi...
+
+
+
+catatan: emang harus satu-satu dulu berarti ya
