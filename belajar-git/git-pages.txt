@@ -1,0 +1,49 @@
+                     Fitur Github pages
+
+hanya bisa untuk tampilan web static, mencakup html, css, js
+
+tidak menyediakan Sql dan web apache server
+
+
+
+buat repo terlebih dahulu,
+dengan format nama
+namaakun.githhub.io
+
+contoh: anjar.github.io
+
+masuk ke folder lokal, klik kanan pakai git bash
+jadiin repo dulu, git init
+masukin repo ke repo github.io, git remote add origin https://github.com/namaakun/anjar.github.io.git
+
+commit dulu ya..
+git add .
+git commit -m "  "
+
+
+lalu push folder lokal ke github, karena ini pertamakali pak -u
+git push -u origin master(nama branch)
+
+
+tinggal akses online aja siiip...
+
+
+
+
+
+
+
+                                    kasus 2
+                            subdomain github pages
+
+git init, add, commit --- dsb
+
+bikin nama repo bebas
+lalu di push ke github
+
+masuk ke settings, scrool bawah pergi ke github pages, pilih branchnya, lalu akan otomatis ngebikin pagesnya 
+
+
+klo filenya cuma pthon, bisaaa
+pakai fitur pilih tema di bagian github pagesnya
+
