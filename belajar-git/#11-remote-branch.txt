@@ -1,0 +1,24 @@
+membuat branch di lokal, mau request ke yang pemilik asli agar diterima.
+
+1. buka text editormu di bash
+    code .
+2. sebaiknya yang master jangan diubah, kalau mau  ubah di branch yang lain aja.
+3. checkout +  bikin branch baru, 
+    git checkout -b
+    atau satu satu dulu..
+    git branch namaBaru
+    git checkout namaBaru
+
+4. git status
+5. git commit -am "---"
+6. graph
+7. git push origin namaBaru
+8. lokal udah, github udah
+
+lakuin pull request
+buka github dulu
+buka akunku
+masuk ke repo,
+masuk ke branch namaBaru
+nanti ada compare dan pull request
+
