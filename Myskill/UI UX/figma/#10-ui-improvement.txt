@@ -10,3 +10,5 @@ gunakan plugin figma "ui interaction"
 
 svgator.com -> untuk membuat ilustrasi ui interaction
 
+
+
