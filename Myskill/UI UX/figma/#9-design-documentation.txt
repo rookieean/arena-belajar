@@ -1,0 +1,14 @@
+design documentation
+mencatat dan mengkomunikasikan semua aspek design
+
+
+wireframe yang perlu di dokumentasikan
+style guide 
+design system
+figma prototype
+
+
+
+figma manajemen handover
+manajeman design harus ditata rapi, baik  segi frame letak dan juga dokumentasikan
+

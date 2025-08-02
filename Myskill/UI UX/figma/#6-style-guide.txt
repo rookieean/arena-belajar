@@ -1,0 +1,19 @@
+Style guide meliputi:
+
+identitas brand
+cara brand memberikan insight baru bagi user
+
+warna
+warna apa saja yang akan digunakan pada design
+
+typography
+font apa yang akan digunakan, heading, sub heading dll
+
+ikon
+ikon dan elemen grafis yang akan berinteraksi dengan pengguna
+
+
+tools tambahan
+tint and shade generator
+figma community
+

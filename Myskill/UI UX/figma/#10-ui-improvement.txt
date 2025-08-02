@@ -1,0 +1,12 @@
+gradient warna
+memberikan gradasi warna pada design ui
+
+shadow 
+bayangan pada setiap elemen ui
+
+micro interaction
+interaksi ui dengan para pengguna
+gunakan plugin figma "ui interaction"
+
+svgator.com -> untuk membuat ilustrasi ui interaction
+
