@@ -6,5 +6,27 @@ untuk brainstrooming ide bersama secara online
 
 
 affinity mapping -> mengelopokan ide-ide dari peserta diskuis
+dibagi per kategori
+
+
+How Might We -> pertanyaan untuk diri kita sendiri ketika menghadapi sebuah permasalahan, respons terhadap permasalahan
+
+
+Crazy Eight & Voting
+menuangkan ide secara cepat, tulisan ide secara kasar
+
+
+user flow -> perjalanan user dalam melakukan interaksi apps
+task flow -> satu arah 
+
+
+
+
+
+dashboard UI
+Landing Page
+Onboarding
+Checkout Proses
+Profile Page
 
 
