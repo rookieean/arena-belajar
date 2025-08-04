@@ -1,0 +1,108 @@
+UX Writing
+seni menulis teks yang membimbing pengguna berinteraksi dengan produk digital. dengan kata-kata yang  tepat, ux writer membantu menciptakan pengalaman bagi pengguna.
+
+agar pengguna merasa dekat dengan produk/ branding
+
+
+perbedaan:
+copywriting -> konten menarik, pemasaran
+content design -> produk dirancang, 
+ux writing -> menggunakan kata-kata sederhana, tak bisa kerja sendiri
+
+
+
+
+
+behaivor membaca di apps/web
+
+- pemindaian cepat
+- tidak membaca semua konten
+- F-pattern
+- visualisasi penggunaan
+- penyederhanaan bahasa
+- scrolling
+
+
+
+
+behaivor gerak mata:
+- heat map version
+- Fpattern
+- z pattern
+- layer cake pattern
+- spotted pattern
+- marking pattern
+- commitment pattern
+
+
+
+
+
+
+Prinsip utama UX Writting
+1. Clear
+    mudah dipahami
+    menghindari keraguan dan kebingungan
+    agar pengguna memahami tampilan
+
+2. Concise (ringkas)
+   kata-kata padat
+   mengurangi beban pikiran panjang user
+   meningkatkan daya ingat
+
+3. Consistent 
+   mempertahankan gaya bahasa
+   menentukan suara dan nada
+   menghindari perubahan yang membingungkan
+
+
+
+
+
+
+
+
+mengenal Microcopy
+teks pendek yang mendorong user atau memberikan panduan
+
+contoh Microcopy:
+- Call to Action
+- form field text
+- confirmation message
+- loading text
+        dsb...
+
+
+
+
+
+
+
+
+
+Related stakeholders:
+developers -> mengimplementasikan tulisan UX writer
+designers -> menyelaraskan ui dan teks
+produk managers -> pemahaman bisnis dan visi produk kepada UX writer
+marketing team -> menggunakan teks agar pemasaran sesuai
+
+
+pembagian peranan UX Writing:
+ux writer -> bertanggung jawab terhadap teks
+ux researchers -> penilitan perilaku user
+ux analysts -> memahami efisiensi teks
+design team -> merancang ui
+
+
+Skillset UX writer
+pengamat    -> perhatikan lingkungan dengan cermat
+pendengar   -> mendengarkan percakapan orang dibrbgai situasi
+curious     -> kemampuan menangkap inspirasi dari berbagai referensi
+peneliti    -> tidak hanya terpaku pada kata-kata juga pada efisiensi
+berpusat pengguna -> kebutuhan memberikan
+selaras dengan company -> menyelaraskan strategi perusahaan
+
+
+
+
+
