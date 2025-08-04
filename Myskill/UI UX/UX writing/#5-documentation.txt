@@ -1,0 +1,88 @@
+UX Writting testing 
+menguji teks dalam UI sudah mencapai tujuannya atau belum
+UX Writting adalah bagian UX
+
+
+proses pada testing:
+1. menentukan tujuan dari copy
+2. menetapkan & mencari target user
+3. memilih metode $ membuat skenario
+4. menguji UX Writting yang dibuat
+5. mengumpulkan data dan analisa
+6. melakukan monitoring dari perbaikan
+
+bisa melakukan testing
+sebelum rilis / setelah rilis
+
+
+tools testing
+google forms, user testing, figma, UX copy (melihat secara langsung)
+
+contoh pengujian
+berikan prototype apps, lalu lihat feedbacknya
+
+
+
+
+
+
+
+
+UX Writting TESTING METHOD
+1. cloze testing
+    menghapus kata-kata tertentu, lalu meminta user mengisi teks kosong tersebut. menguji pemahaman keseluruhan dari teks yang dibuat. 
+
+2. highlighter tes
+   warna A untuk menandai teks yang mudah dimengerti
+   warna B untuk teks yang kurang paham
+
+3. comprehension survey
+   menampilkan teks kepada user, lalu tanya apa yang mereka pahami dari teks tersebut.
+
+4. A/B testing
+   membandingkan dua versi teks kepada responden, lalu tanya mana yang mudah dipahami
+
+5. Task completion test
+   memberikan tugas kepada responden lihat traffic mereka
+
+6. Journey & tone test
+     melihat kembali tujuan dari setiap  tulisan, serta menyelaraskan dengan brand tone dan voice
+
+7.  Content inventory & audit
+      dokumentasi / inventory yang rapi. agar kita bisa auditing atau kroscek setelahnya
+
+
+hindari memaksa user ketika melakukan feedbacknya
+
+
+
+
+
+
+
+
+
+
+REPORTING 
+Membuat laporan setelah testing, 
+
+kerangka REPORTING
+overview     -      findings      -     next steps
+
+
+
+
+
+
+
+
+
+UX Writting DOCUMENTATION
+panduan/ aturan yang perlu diketahui saat melakukan dokumentasi
+
+documentation -> memberikan guideline terhadap brand, tone, voice do dan do.
+inventory -> mencatat seluruh copy yang dibuat pada produk secara detail. objective, tipe copy, components, hingga output. 
+
+
+contoh dokumentasinya bisa dilihat dari beberapa brand yang sudah launching, shopyfy, duolingo, google, 
+

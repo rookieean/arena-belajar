@@ -1,0 +1,53 @@
+UI Components
+
+1. input controls
+   button, text fields, checkbox, toggle, list & drop down list, radio buttons
+
+2. navigational Components
+   bottom navigation, sidebar, tab bar, breadcrumb, tags, pagination
+
+3. informational Components
+   tooltip, progress bar, pop-up / dialog, 
+
+4. containers
+   cards, accordion, carousel,
+   
+
+
+Ragam kondisi dari UI componentas
+
+1. action
+
+2. empty state
+
+3. question
+
+4. error message
+
+5. confirmation
+
+6. information / guidance
+
+menguasai SPOK juga perlu dilatih
+
+
+
+
+
+
+
+
+UX Writting strategy
+
+metode yang digunakan dalam membangun ux writting agar produk bisa nyaman
+
+- penggunaan active voice
+- kalimat sederhana
+- pola kalimat positif
+- konsisten
+
+
+penggunaan kata ganti pada percakapan
+sesuaikan karkter per Components
+buat style guide sesuai brand
+
