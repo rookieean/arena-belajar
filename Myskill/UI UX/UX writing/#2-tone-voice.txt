@@ -1,4 +1,76 @@
 Tone and Voice in UX W ritting
-
+membantu identitas branding kuat dan dapat dikenali oleh user 
 
 tone and Voice
+Voice       -> karakteristik id branding
+tone        -> perasaan melalui teks. bagi branding
+
+
+contoh:
+BCA Mobile      -> tone voice yang baku agar memberikan rasa profesionalisme
+e-commerce      -> fokus fashion agar menarik dan mudah
+
+
+
+
+pentingnya tone of voice
+1.  konsistensi brand
+    agar pesan yang disampaikan jelas 
+    menciptakan kesan kohesif pengguna
+
+2.  pengaruh emosional
+    koneksi pengguna terbangun
+
+3.  user engagement
+    agar user lebih terlibat dengan pesan yang disampaikan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding brand
+
+brand voice     -> karakter yang akan ditujukan pada brand
+
+pahami audiens persona 
+
+
+
+
+
+
+tahapan membuat tone and voice
+1. riset dan pemahaman
+   pemahaman target audiens, tujuan, dan brand dari produk aplikasi atau website
+
+2. tone and voice
+    dari riset bisa dipakai untuk mulai membuat karakter tone and voice yang seperti apa
+3. guideline & dokumentasi
+    perlu untuk di dokumentasikan, agar memastikan konsistensi dalam pengguna tone and voice oleh tim dan pemangku kepentingan
+
+4. pengujian dan refining
+    mengasah tone and voice yang telah dikembangkan, agar menghasilkan pengalaman pengguna yang diinginkan
+
+
+
+
+
+MAPPING USER EMOTIONS
+memetakan emosi pengguna
+
+happy, unhappy, netral, curious, assured (keyakinan user pada produk)
+
+
