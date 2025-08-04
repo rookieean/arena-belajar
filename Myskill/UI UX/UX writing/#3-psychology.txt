@@ -1,0 +1,71 @@
+User Psychology dalam UX Writting
+agar menarik emosi pengguna dalam sisi psikologis, baik  dalam penentuan UI 
+
+User    -   ux Writting     -   Brand
+
+agar saling menjembatani 
+pilih kata yang cepat dipahami dan mendorong tindakan
+
+
+
+prinsip dasar UX 
+1. Intuitive Process
+    memahami interaksi ui dengan User
+
+2. Generation of patterns
+   mengenali pola dalam informasi yang mereka terima
+
+3. dont make users overthink
+   menghindari para user berpikir keras
+
+4. Hicks Law
+   waktu yang dibutuhkan seseorang untuk membuat keputusan
+
+5. social proof
+   cenderung memandu tindakan mereka berdasrkan oleh apa yang dilihat atau dilakukan oleh orang lain.
+
+6. Loss Aversion
+   user sensitif terhadap kerugian daripada keuntungan
+
+7. tension system
+   jika ada hambatan pada apps, bisa mengurangi user performa
+
+8. effects of serial postion 
+   cara user mengingat informasi berdasarkan urutan
+
+
+
+
+
+
+
+
+
+
+NUDGE IN UX Writting
+Dengan mengatur elemen-elemen design tertentu, kita dapat mempengaruhi perilaku user tanpa ada paksaan
+
+agar user melakukan tindakan
+
+
+
+
+
+
+
+
+
+RESEARCH IN UX Writting
+1. Link ditulis beda warna & underline
+2. journey umum untuk checkout
+3. sign in dan sign up saat registrasi
+4. ada error message jika salah form
+
+
+metode riset ux Writting
+- unmoderated surveys
+- quick exsposure tests
+- competitor analysis
+- A/B testing
+
+
