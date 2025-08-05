@@ -204,9 +204,9 @@ git config --list       -->      lihat username git, isi configurasi git
    git remote
 
    masukin kode lokal ke github:
-   git push -u origin master        (-u upstream)   biar kedepannya tinggal ketik git push aja
+   git push -u origin main        (-u upstream)   biar kedepannya tinggal ketik git push aja
 
-
+ada panduan di githubnya jika ada error pas nge push
 
 
 
