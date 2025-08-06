@@ -1,0 +1,249 @@
+pemrograman adalah proses mengubah ide menjadi instruksi yang dapat dipahami dan dieksekusi oleh komputer.
+
+bug adalah ketika sesuatu yang tidak terduga terjadi
+
+crash adalah ketika program berhenti lebih awal atau macet
+
+
+
+
+membuat program seperti membuat resep kue
+jika baking soda di ganti garam, ya kuemu gak akan ngembang
+jika tepungnya kurang dari takaran, kuemu gak akan jadi
+resep kue punya bahan-bahan, langkah, takaran, agar kue yang kamu mau beneran jadi
+ketertiban pada langkah penting agar kuenya jadi
+
+
+ini semua tentang memberi komputer instruksi yang tepat dan urutan langkah yang benar untuk menghasilkan hasil yang diinginkan. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    II
+
+saat mau memberikan instruksi ke komputer, kamu akan menggunakan 'bahasa pemrograman'
+ratusan, ribuan,
+punya aturan syntax sendiri-sendiri
+punya gaya bahasa sendiri-sendir pada setiap bahasa pemrograman
+
+kenapa gak satu aja?
+.. karena masing-masing punya kekuatan dan kelemahannya sendiri.
+ada yang cocok dengan device kecil memori terbatas,
+ada juga yang cocok untuk komputasi mtk yang rumit. 
+
+terlepas dari bahasa apa yang dipilih, pada akhirnya bahasa itu harus dipecah menjadi satu-satunya yang dipahami komputer, bahasa mesin.
+
+
+bahasa mesin sangat rumit, terdiri serangkaian angka 1 0
+Profesor Mike DeHaan membandingkan kode mesin dengan molekul DNA. apakah kamu terbayang membaca urutan atom DNA satu demi satu?
+pasti lama
+itulah kami punya bahasa tingkat tinggi.
+mereka lebih dekat dengan bahasa manusia, terdiri kata kunci, struktur, dan sintaks yang lebih mudah di pelajari. 
+
+
+
+
+
+
+
+
+
+
+
+
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    III
+source kode -> kode sumber bisa berupa ratusan
+teks editor untuk edit kode
+
+
+translate ke bahasa mesin
+ada 3 cara utama menerjemahkan kode sumber ke bahasa mesin
+1. kompilasi. compile it
+2. menafsirkan. interpret it
+3. kombinasi keduanya
+
+
+compile
+kamu menulis surat kepada seseorang dengan bahasa mandarin, tapi tak bisa bahasa inggris sama sekali.
+caranya?
+kamu tulis suratnya ke bahasa inggris dulu, 
+gunakan translator ke mandarin.
+orang itu gak akan tahu teks bahasa inggrismu.
+hanya bahasa mandarin
+
+mengambil bahasa tingkat tinggi  lalu diubah ke kode mesin tingkat rendah. 
+
+C, C++, Objective-C
+
+
+interpreted
+surat bahasa inggrismu tetap dikirim ke bahasa inggris
+teman mandarinmu mencari teman yang bisa berbahasa inggris untuk menerjemahkan setiap baris ke bahasa mandarin. 
+jadi teman mandarinmu tahu isi suratmu.
+
+memproses kode sumber menjadi bahasa terjemahan
+
+PHP, Javascript
+
+
+kombinasi Java, C#, Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    VI
+integrated development enviroments
+IDE -> alat untuk menulis, men-debug, dan mengkompilasi kode.
+
+dalam surat word juga punya tata bahasa, ejaan, pemformatan.
+
+dalam koding kita menggunakan IDE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    V
+cara menjalankan python di cmd
+
+1. buka pythonshell
+>> 2 + 2
+........
+........
+>> exit()
+
+langsung ketikan programnya
+
+syntax -> aturan dalam setiap bahasa program
+
+
+lewat cmd
+1. pastikan di file yang ada file python
+2. paling cepat drag folder ke cmd langsung
+3. cara eksekusi ketik ----> python namafile.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    VI
+
+memilih interpreted di vscode python
+1. Ctrl + Shift + P
+2. Python interpreted
+3. Pilih penerjemahnya
+
+
+penyorotan pada sintaks kode program
+gimana vscode bisa tau mana yang perlu di highlight?
+lewat format file
+
+
+PEMDAS
+P- parentheses first ()
+E- exponents pangkat
+MD- Multiplication and divison X dan /
+AS- addition and subtraction + -
+
+
+
+
+
+Kategori error
+
+1. syntax - kamu melanggar aturan bahasa
+2. Runtime - komputer tidak bisa mengeksekusi kode
+3. semantik - output program tidal seperti yang diharapkan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                VII
+variabel = wadah yang ada di memory komputer
+nilai = isi yang dimasukin wadah
+
+toples = kacang
+
+
+kode kondisi
+
+saya akan bawa payung kalau kelihatan hujan
+sama di koding
+if(age > 13):
+  print("hei")
+
+
+
+fungsi
+ajari komputer sekali, selanjutnya hanya tinggal panggil  nama
+
+
+
+
+
+
+

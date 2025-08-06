@@ -1,0 +1,36 @@
+codespace github = virtual koding
+
+cara run python di terminal
+>> python namafile.py
+
+
+
+main.py
+NAMA = ['JOHN', 'PAUL', 'GEORGE', 'RINGO']
+AGES = [21, 24, 26, 27, 27]
+
+cara akses list
+JOHN = NAMA[0]
+
+
+JOHN_PAUL = NAMA[:2] akses 2 item dari list
+GEORGE_RINGO = NAMA[2:] 2 dari belakang
+REVERSE = NAMES[::-1] artinya [start:stop:step-1]
+EVERY_OTHER = NAMES[::2] gak ada awal/akhir hanya 'langkah 2x'
+
+
+
+
+
+
+for name, age in zip(NAMES, AGES):
+    print(f"{name} {age})
+
+zip -> tidak membuat memori baru
+
+
+cara print sekalian indeksnya
+pakai enumerate
+for i, name in enumerate(NAMA):
+     print(f"{i} {name}")
+
