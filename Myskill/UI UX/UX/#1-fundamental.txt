@@ -1,0 +1,83 @@
+Memahami user:
+who
+what
+why
+how
+
+UX Designer     -> mempelajari dan menciptakan pengalaman untuk sebuah produk
+
+
+
+Role dan responsibility
+
+memastikan pengguna merasa puas, dan user bisa dengan lebih cepat, mudah dan menyenangkan.
+
+research               Design
+- user utama         - convert ke figma, user persona
+- usability test     - 
+
+
+Framework 
+1. User Research
+   empati dan memahami user skala prioritas
+
+2. creative & critical thinking
+   menemukan solusi dari permasalahan user
+
+3. Information Architecture
+   mengatur informasi berdasarkan hierarki
+
+4. visual design
+   memilih balance ikon, warna, layout
+
+5. wireframing
+   membuat sketches & design 
+
+6. prototyping
+   membuat simulasi visual
+
+7. user testing
+   memvalidasi design to user agar mendapat umpan balik
+
+
+
+
+
+
+Skill yang perlu dikuasai
+1. Interview
+   google sheets
+   google docs
+   google meet
+   zoom
+
+2. affinity mapping & ideation
+   miro
+   figjam
+   coret kertas b aja
+
+
+3. wireframing & prototyping
+   figma
+   sketch
+   adobe xd
+
+4. usability testing
+   usabilityHub
+   Maze
+
+
+
+
+
+soft skill:
+empati      // untuk user
+komunikasi      // antar tim, user, presentasi
+rasa penasaran      // terhadap banyak hal
+fleksibel       // beradaptasi dalam banyak project, dan budaya company
+
+
+
+
+
+

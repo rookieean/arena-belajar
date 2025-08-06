@@ -1,0 +1,110 @@
+Define Product Before Design
+
+
+Project Objective
+seperti kompas yang akan mengarahkan langkah
+
+bisa mulai dengan
+ - solusi baru kah?
+ - tingkatin efisiensi?
+ - kasih pengalaman?
+
+
+Definisikan User
+siapa yang akan pakai nih produk
+apa kebutuhan mereka?
+produk kamu dan masalah user bisa match
+
+
+Bisnis vs pengguna
+bedakan tujuan bisnis dan tujuan pengguna
+gimana produk bisa ngembangin bisnis?
+gimana produk bisa solve problem user?
+
+
+menciptakan nilai tambah
+gimana produk bisa kasih manfaat ekstra
+
+
+mulai dengan PRD (product requirement document)
+panduan membuat produk
+asal-usul, masalah, konteks,
+
+
+
+
+
+
+
+
+
+Memahami user
+
+mengenal user profile
+kita tahu apa yang mereka butuhkan, prioritas ada di user
+
+Caranya?
+- wawancara
+  bisa langsung / online
+
+- observasi
+  mengamati mereka
+
+
+
+
+
+
+
+
+
+
+Determining 
+menentukan prioritas
+pengguna vs bisnis
+
+
+mencapai tujuan bisnis?
+memenuhi kebutuhan?
+
+contoh:
+apps pesan online
+
+kebutuhan pengguna: kemudahan efisiensi
+tujuan bisnis: menghasilkan keuntungan lebih banyak
+
+
+Gimana kalau keduanya berlawanan?
+1. prioritas yang urgent
+   mana yang kasih manfaat pengguna dan bisnis
+
+2. kompromi
+   bicara dengan tim, 
+   "..eh bisa gak gini ya?.."
+
+
+
+
+
+
+
+
+
+
+
+Product metric succes
+mengukur kesukseksan produk adalah langkah penting. 
+
+apa itu?
+key performance indicator
+biasanya olahan data yang dapat dianalisa dan dilacak bagi keberhasilan produk.
+
+penting why?
+paham bisnis berkembang,
+memudahkan mengambil keputusan.
+kita tahu kapan user unhappy,
+set target succes.
+
+
+contoh data driven design:
+artikel dari BagusPrasetyo, permasalahan di dokumentasiin
