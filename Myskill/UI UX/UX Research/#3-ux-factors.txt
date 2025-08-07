@@ -1,0 +1,81 @@
+Faktor ux yang berhasil
+
+- berhasil memposisikan sebagai user dan mempermudah jalan menuju produk
+  mereka mau ngapain sih disini?
+
+
+3 hal yang perlu diingat ux design
+
+1. user x is what they think and feel
+2. depends on the context ini which the product is used
+3. ux may change over time, shld flexibility
+
+
+contoh ux bagus
+spotify
+Airbnb
+duolingo
+
+
+
+
+
+
+
+
+
+7 Faktor ux design
+
+1. useful
+   punya tujuan
+
+2. usable
+   mudah digunakan, intuitif, adaptasi
+
+3. findable
+   mudah ditemukan, fitur, konten
+
+4. credible
+   kredibilitas brand
+   
+5. desirable
+   gambar, id visual
+
+6. accessible
+   bisa diakses dengan mudah, setiap kalangan
+
+7. valuable
+   memberi manfaat
+
+
+
+
+
+
+
+
+
+
+
+
+understanding usability
+
+menggunakan produk kita seefektif mungkin
+elemen  dalam usability
+
+1. effectiveness
+   membantu user selesaian tujuannya
+
+2. efficiency
+   user selesain tugas mereka dengan singkat
+
+3. engagement
+   user merasa mudah menggunakan
+
+4. error tolerance
+   seberapa mudah user dapat kembali ketika menemui error
+
+5. ease of learning
+   mudah mempelajari produk
+
+

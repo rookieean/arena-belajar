@@ -1,0 +1,88 @@
+design proses
+meningkatkan dan memperbaiki designmu
+
+
+fokus ke tujuan: membantu user mencapai tujuannya
+proses menyesuaikan
+
+clear sama masalahnya user dulu
+
+design proses yang umum
+- design sprint
+- design thinking
+- double diamond
+
+intinya..
+pahami masalah      ->   brainstorming    ->    validasi solusi
+
+
+
+
+
+
+
+
+
+
+
+various kind of design proses
+
+1. design thinking
+   
+   empati   >   define  >   ideate  >   prototype     >   test
+
+how..
+empati = user interview, form survey, riset kompetitor
+define = analisa riset, data clustering, double diamond
+ideate = brainstorming, storyboard, scamper, lofi, crazy eight
+prototype = hi fi, mockup prototype
+test = usability testing
+
+
+
+2. design sprint
+   
+   map      >      sketch   >   decide  >   prototype   >   test
+
+
+   
+
+3. lean ux
+
+think   >   make     >       check
+
+
+4. double diamond
+
+explore problem |   decide what to fix        test 
+
+
+
+
+
+
+
+
+
+
+
+stakeholder in our process
+
+yang akan terlibat dalam proses
+
+ui ux designer   product manager     developer       Quality Assurance     sponsor/klien
+
+proses umum dengan stakeholder
+produk planning  > solution ideation > final design  > mulai devlop > produk release
+
+
+mengelola stakeholder
+bangun networking
+rutin konsultasi
+memahami concern mereka
+kemampuan komunikasi
+
+koordinasi, dokumentasiin, terbuka, 
+
+dokumentasiin
+notion, figma bisa, 
