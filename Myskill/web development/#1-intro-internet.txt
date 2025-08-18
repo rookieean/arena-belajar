@@ -1,0 +1,186 @@
+Internet    ->  kumpulan jaringan yang tersebar luas di seluruh dunia, memungkinkan pertukaran data secara cepat
+
+server  -> penyedia informasi
+client  -> perangkat yang aku pakai
+nod -> interaksi server ke client
+ISP -> penyedia Internet
+TCP/IP -> protokol lalu lintas Internet
+
+
+client + server - switch - router - modem - Internet
+                                     isp -> google, web
+
+
+
+
+
+
+
+
+
+
+
+
+
+web browser
+menyajikan, menjelajahi konten informasi
+
+www     ->  world wide web (memungkinkan pertukaran informasi tanpa batasan perangkat, os, dll)
+dulu cuma terbatas komputer yang sama, pakai www bisa akses beda perangkat
+
+browser -> convert informasi ke bahasa mesin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protocol    ->  aturan gimana data bisa diantar
+
+
+
+network Protocol
+ethernet    =   komputer satu jaringan kabel, lan, wifi
+IP          =   alamat jaringan 
+TCP         =   transmission control protocol komunikasi reliable
+HTTP        =   mengatur pertukaran data html,xml, json
+
+
+
+OSI Model   -> standard komputer saat bertukar data
+
+TCP/IP Model            Protocols and services          OSI Model
+                                                        application
+                        HTTP, HTTPS, FTP, DHCP, PNG     presentation
+application                                             session
+
+-------------------------------------------------------------------
+
+Transport               TCP, UDP                        Transport
+
+------------------------------------------------------------------
+
+Internet                IP, ARP, ICMP                   network
+
+
+------------------------------------------------------------------
+
+Link                    ethernet, wifi                  datalink
+                                                        phsyical
+
+
+
+
+https:           //www.contoh.com       /news       /index.html
+protocol            domain/IP           path        domain
+
+
+
+bedanya         HTTP        dan             HTTPS
+         protokol akses URL             http + ssl dengan dua sistem enkripsi
+
+
+lets encriypt https gratis
+
+
+
+SMTP    ->      Protokol untuk e-mail
+FTP     ->      protokol untuk file, filezila, winscp
+
+paling cepet pakai git 
+
+SSH     ->      protokol cmd
+
+
+Application protocol port number
+port number     apk protokol
+22              SSH
+80              http
+443             https
+23              telnet
+53              DNS 
+...
+
+penanda ini protokolnya jalan atau enggak sih, dan pembeda client dan server
+
+apps 1          apps 2
+port 80         port 81         ini bisa jalan
+
+apps 1          apps 2
+port 80         port 80         malah bentrok, mana yg mau pakai 80 duluan nih?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Domain  Name  server
+
+hubungkan URL   ->    IP 
+DNS ubah URL ke bentuk IP Address
+
+
+
+
+
+
+
+
+HOST, CLIENT DAN server
+
+
+HOST       ->   semua komputer yang berpartisipasi dalam jaringan
+server      ->  yang ngasih informasi
+client      -> komputer yang kamu pakai
+
+
+apk client  -> mozilla, chrome dll
+apk server  -> apache, nginx, email = exim, sendmail
+
+
+server  -> komputer jarak jauh
+web server  -> sistem teknologi yang digunakan untuk akses website
+
+
+domain  -> id website  com, id, org
+hosting     -> lahan buat bangun website
+
+I CANN -> yang ngatur domain nama
+
+domain (rumah)   hosting (lahan)
+
+
