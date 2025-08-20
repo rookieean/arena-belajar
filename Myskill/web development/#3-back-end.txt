@@ -31,7 +31,33 @@ mysql
 RDBMS -> software database
 selain mysql ada oracle database, mongoDB, SQLServer
 
-bahasa PHP
+PHP
+connect MYSQL 
+select MYSQL 
+
+python
+connect MYSQL
+select MYSQL 
+
+node.js 
+connect MYSQL
+select MYSQL 
+
+
+
+
+
+
+backend framework
+kerangka kerja tools yang bisa membantu
+
+
+php     -   laravel
+python  -   django
+node js -   express
+
+
+
 
 
    
