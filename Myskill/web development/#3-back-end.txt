@@ -1,0 +1,37 @@
+Backend role in website
+backend yang bekerja di balik layar baik web/android/ios
+ia bekerja dengan basis data
+
+
+role
+
+mobile development
+backend development
+frontend development
+qa testing
+
+
+
+backend programming language with database
+
+2 tipe bahasa:
+1. markup language
+    bahasa statis
+    html, md, xml
+
+2. programming language
+   bahasa dinamis
+   javascript, 
+
+
+database
+data yang terorganisir tersimpan
+mysql
+
+RDBMS -> software database
+selain mysql ada oracle database, mongoDB, SQLServer
+
+bahasa PHP
+
+
+   

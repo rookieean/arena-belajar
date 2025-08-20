@@ -1,0 +1,105 @@
+website development
+membuat program basis web 
+
+
+jenis website:
+1. statis
+   data statis halaman sederhana aja
+   personal blog, portfolio page
+
+2. dinamis
+   perubahan informasi web di lakukan di database
+   ecommerce, portal berita 
+
+
+Bahasa
+Bahasa program  -> javascript, php, python, ASP.NET, Ruby, java 
+
+Styling     -> HTML, CSS
+
+
+
+tahap web development:
+waterfall metodology
+
+
+
+
+
+
+
+
+
+HTML and Document Object Model
+
+html    -> pembentuk struktur web 
+
+DOM -> representasi struktural dokumen HTML, XML, XHTML
+       elemen utama DOM
+
+       elemen nodes
+       mewakili <div> <p> <ul>
+
+       atribut nodes
+       id, class, src 
+
+       text nodes
+       dalam <p> <span>
+
+
+
+
+
+
+
+
+CSS
+
+percantik suatu web
+
+macam:
+inline style sheet
+css ditulis langsung pada tag HTML
+
+internal style sheet
+css ditulis pada bagian head html
+
+external style sheet
+ditulis dalam file diluar file html
+
+
+
+
+
+
+
+
+
+
+Client side dan server side
+
+dalam web development ada 2 rendering (pemrosesan)
+1. server side rendering SSR 
+    kode html diproses di server
+    javascript, html, css
+
+2. Client side rendering
+   kode html di proses di browser
+   php, node.js, ruby, java 
+
+
+
+
+
+
+
+
+
+interactive website using javascript
+
+interactive web
+web yang bisa lebih hidup dengan animasi, dll
+
+
+
+   
