@@ -60,4 +60,69 @@ node js -   express
 
 
 
+
+
+Program Paradigm:
+    teknik yang digunakan untuk menyelesaikan masalah program 
+
+    contoh:
+    1. Imperatif (prosedural)
+   
+
+    2. OOP
+
+
+
+
+HTTP & RESTful API:
+    api -> jembatan database ke ui
+
+
+    metode HTTP
+    1. GET = meminta, memanggil, menampilkan data dari server
+    2. POST = mengirim data ke server 
+    3. PUT = mengubah data di server
+    4. DELETE = menghapus data ke server 
+
+
+
+
+laravel Concept:
+    framework php
+
+
+Routing:
+
+
+Middleware:
+    request url     ->      app (middleware)    -> database 
+    block user ketika gak punya akses ke halaman tersebut
+
+
+Migration:
+    memudahkan dalam membuat database 
+
+Eloquent ORM:
+    tak perlu menggunakan SELECT 
+
+Blade Templating:
+
+
+Basic Security (CSRF Protection):
+
+
+
+
+
+CRUD -> CREATE, READ, UPDATE, DELETE 
+
+apps yang bisa melakukan crud ke database 
+
+Laravel CRUD: part 1
+1. membuat apk sederhana dengan bantuan bootstrap css 
+2. pastikan komputer terpasang php dan server 
+3. pastikan composer terinstal 
+4. jalankan laravel dalam komputer 
+   
+
    
