@@ -1,0 +1,167 @@
+Intoduction to API
+API memungkinkan apk bisa saling berinteraksi
+
+
+monolithic architecture  -> ui + business logic + data acces layer 
+microservices architecture 
+
+backend -> tukang masak
+front end -> meja tamu
+api -> waiters
+
+
+
+jenis API 2:
+RESTful API vs SOAP API 
+
+1. Representational state transfer (RESTful API )
+menggunakan metode standar CRUD untuk berinteraksi 
+
+kelebihan
+- ringan
+- mudah dimengerti
+- mudah dibuat
+- menggunakan HTTP metode 
+
+kekurangan
+- pemanggilan tidak on-point
+- bergantung pada HTTP 
+- tidak konsisten
+
+
+    GET,POST,PUT,DELETE
+WEB     ------------     REST API   ---------- server
+        JSON data 
+
+
+
+
+
+
+
+2. simple object access protocol (SOAP API)
+    protokol basis XML menggunakan protokol HTTP atau HTTPS 
+
+
+kelebihan
+- mudah digunakan 
+- standard WSDL
+- distributed computing
+
+
+kekurangan
+- susah ketika konfigurasi
+- complex susah dikembangkan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTTP and Endpoints
+
+protokol lintas server HTTP 
+
+
+
+
+code response:
+
+code    meaning
+100     continue
+101     switching protocols
+200     OK
+201     created
+404     not found: the requested..
+500     internal server error
+...
+
+
+endpoints
+titik akhir yang digunakan untuk mengakses layanan dalam web service
+
+https:          //api.twitter.com/2/nanana
+protocol         endpoint/route
+
+penulisan endpoint yang baik adalah konsisten:
+contoh:
+/pengguna/123/s 
+/pengguna/id/123/s 
+...
+
+
+
+
+
+
+
+
+
+
+Data Structure - JSON vs XML
+
+    data Structure
+    struktur web yang akan ditampilkan nantinya
+
+    Array   -   object
+    Xml     -   JSON 
+
+
+    array + object = JSON/xml 
+
+    data structure:array,json,hierarchy,
+
+
+
+    JSON
+    format standard Javascript 
+
+    XML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authorization - Basic Auth, API Key and OAuth
+
+    # authorization 
+        memberikan izin kepada seseorang
+
+        metode
+        1. token based auth
+            kombinasi toke acak 
+            encoded - decoded
+
+        2. OAuth
+           apk ketiga mengakses dengan izin 
+
+        3. role based access control
+           admin akses penuh admin
+           pengguna akses pengguna 
+
+        4. berinteraksi dengan data 
+        
+        5. API Keys
+           kode yang dikasih ke pengguna agar bisa akses API 
+
+    # 
+
+
+
