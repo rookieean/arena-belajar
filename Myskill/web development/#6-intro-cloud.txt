@@ -1,0 +1,67 @@
+Introduction to cloud computing
+
+cloud computing
+ketersediaan sumber daya komputasi sesuai permintaan internet
+penyimpanan diluar eksternal
+punya komputer basis internet 
+
+
+Deployment
+proses penerapan apk ke lingkungan yang sesuai oleh pengguna akhir
+perilisan apk ke publik disebut deployment 
+
+
+
+Explore cloud computing
+
+benefit
+- cost savings
+- scalability
+- security
+- reliability
+
+
+
+deployment models
+- public cloud
+    dijalankan oleh pihak ketiga
+
+- private cloud
+    dimiliki satu perusahaan
+
+- hybrid cloud
+    gabungan public + private 
+
+
+
+service model cloud computing
+- Saas
+    apk yang berjalan pada infrastruktur cloud 
+
+- PaaS 
+    enviroment untuk proses deployment apk 
+
+- IaaS
+    membangun dan mengelola infrastruktur cloud 
+
+
+cloud computing company
+google cloud, aws (amazon), azure (microsoft)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

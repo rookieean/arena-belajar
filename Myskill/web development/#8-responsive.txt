@@ -1,0 +1,30 @@
+responsive web design
+menyesuaikan setiap layar entah, smartphone, tablet, desktop dll
+
+
+prinsip dasar
+- fleksibilitas
+- media queries
+- grid fleksibel
+- gambar responsive
+- component yang fleksibel
+
+
+
+adaptive web design 
+design yang menyesuaikan tampilan dan fungsionatasnya
+
+
+responsive                vs          adaptive
+tampilan tetp 3 dimna                   tergantung devicenya apa 
+aja
+
+
+
+develope responsive design 
+- menggunakan media queries
+- flexbox yang fleksibel
+- grid yang fleksibel
+- gambar responsive
+- pengujian banyak device 
+

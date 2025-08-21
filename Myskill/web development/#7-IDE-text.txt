@@ -1,0 +1,9 @@
+Fitur Utama IDE
+
+code editor -> menulis kode
+compiler dan interpreter -> menjalankan
+debugger -> deteksi, analisis, memperbaiki kesalahan kode
+testing -> menguji kebenaran dan kinerja program
+
+
+ESLint

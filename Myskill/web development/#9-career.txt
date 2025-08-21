@@ -1,0 +1,12 @@
+Peralihan digital
+kebutuhan semakin tinggi
+
+website development
+frontend                      backend                 full stack
+HTML, CSS, JavaScript        PHP, JavaScript, GO 
+
+
+entry level programmer
+Repl.it CodePen
+
+
