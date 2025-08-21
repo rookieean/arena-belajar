@@ -1,0 +1,31 @@
+How website development works
+
+# mekanisme cara kerja web
+client - API - server
+request - response 
+
+
+HTTP  response
+succes          client error        server error 
+200 ok          400 bad request     500 internal server
+201 created     401 unauthiorized   error
+202  accepted   403 forbidden       502 bad gateway
+203 non-auth    404 not found       503 service unav
+204 no content  409 conflict        504 gatewat timeout
+                                    599 network timeout
+
+
+
+
+Frontend React.js
+
+frontend framework
+kerangka kerja dalam pemrograman
+
+react.js fundamental
+instalasi
+konfigurasi
+styling
+data banding
+push merge
+
