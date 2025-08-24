@@ -1,0 +1,48 @@
+################## Browser, HTTP, DNS, and Hosting ################
+
+------------------ Bab 1 How internet works ------------------
+
+Definisi internet
+    jaringan yang saling terhubung
+
+Browser
+    menampilkan web
+
+HTTP
+    response dan request
+
+
+-------------------          Hosting         ----------------------
+
+Hosting
+    layanan menyimpan website secara publik
+
+Cara kerja
+    1. company menyediakan server hosting 
+    2. pengunjung mengetikan domain
+
+Jenis web hosting
+    1. Shared Hosting 
+        kamu berbagi server dengan pengguna lain
+    2. VPS Hosting
+        kamu berbagi ke pengguna lain. tapi, sdmnya bersifat dedikasi
+    3. Cloud Hosting
+        Website disimpan di beberapa server 
+    4. WordPress Hosting
+        bagi pengguna WordPress
+    5. Dedicated Hosting 
+        satu server utk satu pengguna 
+
+
+
+
+--------------------            DNS              -------------------
+
+Pengertian DNS 
+    sistem yang mengkonfigurasi nama domain menjadi IP 
+    jembatan domain untuk menemukan situs web yang dituju
+
+
+
+
+
