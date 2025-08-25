@@ -1,0 +1,15 @@
+CSS Framework
+    1. Bootstrap
+    2. Foundation
+    3. Tailwind
+    4. Materialize (Google)
+
+
+CSS Box Model
+    semua yang ditampilkan CSS berbentuk Box
+
+Debugging
+    proses mencari bug error
+
+    tools:
+    - Google DevTools
