@@ -1,0 +1,111 @@
+=========== Pseudo
+
+tanpa harus menambahkan lebih banyak tag html
+
+
+
+========== First Letter
+
+    color
+    background
+    border
+    float
+    font properties
+    text properties
+
+
+    p::first-letter {
+        color: white;
+    }
+
+    hanya berlaku untuk block container
+    inline gak berlaku 
+
+
+
+
+============= Before After 
+
+    before-
+    .my-element::before {
+        content: "";
+    }
+
+    after-
+    .my-element::after {
+        content: "";
+    }
+
+
+
+
+
+========= First-line
+
+menata baris pertama teks 
+
+p::first-line {
+    color: goldenrod;
+    font-weight: bold;
+}
+
+    - color
+    - background properties
+    - font properties
+    - text properties
+
+
+
+
+
+
+
+========== Marker
+
+menata poin atau angka untuk daftar
+
+::marker {
+    color: hotpink;
+}
+
+
+
+
+
+
+============ Selection
+
+memungkinkan untuk mengatur tampilan teks yang dipilih
+
+::selection {
+    background: green;
+    color: white;
+}
+
+ngatur warna pas kita nge-block
+
+- color
+- background color
+- text
+
+
+
+
+============== Place Holder
+
+menambahkan petunjuk pembantu 
+sebelum ngisi form nah.. itu yang kita lihat
+
+input::placeholder {
+    color: darkcyan;
+}
+
+
+- color
+- background
+- font
+- text
+
+ada form, kita klik, nah style itu yang kita lihat
+
+
