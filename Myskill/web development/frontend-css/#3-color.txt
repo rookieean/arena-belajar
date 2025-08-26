@@ -1,0 +1,62 @@
+================== Color Explanation
+
+color pallet sangat penting bagi CSS
+pemilihan warna bagi web
+
+
+
+
+
+
+
+================== Hex Color 
+
+Hex color
+    jenis sintaks warna yang paling populer
+    contoh:
+    - #b71540
+    - #60a3bc
+    - #cdcd
+
+    hex gak harus 6 huruf
+
+
+
+
+
+=============== RGB (Red, Green, Blue)
+
+RGB
+    angka yang berada dalam kisaran 0-255 / 0% dan 100%
+    contoh:
+    - color: rgb(96, 163, 188)
+    - color: rgb(96, 163, 187, 200%)
+
+
+
+
+
+================ HSL (Heu, Saturation, Lightness)
+
+HSL
+    Nilai pada roda warna, dari 0 - 360 
+    contoh:
+    color: hsl(344, 90%, 50% )
+
+
+
+
+
+
+================ Color Keyword
+
+nama paling populer
+    - goldenrod
+    - hotpink
+    - aliceblue
+
+
+
+
+
+
