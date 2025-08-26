@@ -13,3 +13,119 @@ Debugging
 
     tools:
     - Google DevTools
+
+
+
+
+Jenis Selector
+    1. Universal
+        * {
+
+        }
+        semua HTML akan berada dalam style tersebut
+
+    2. Type
+
+        footer {
+
+        }
+        cocok untuk tipe HTML langsung
+
+    3. Class
+
+        .nama {
+
+        }
+        cocok yang menerapkan jenis kelas tersebut 
+
+    4. ID
+
+        #my-id {
+
+        }
+        selector unik
+
+    5. Attribute
+
+        [nama] {
+
+        }
+        nilai untuk attribute tertentu
+
+
+
+
+CASCADE
+ bagaimana browser akan memilih ada 2 aturan CSS yang sama 
+ 
+
+ misal:
+
+ button {
+    color: red;
+ }
+
+ button {
+    color: blue;
+ }
+
+ browser akan memilih yang blue, karena yang terbaru
+ 1. POA: melihat urutan kemunculan
+ 2. Specifity: algoritma yang memilih CSS mana yang lebih cocok
+ 3. Origin: urutan munculnya dari mana, browser? atau dari file
+ 4. Importance: beberapa CSS lebiih penting dari yang lain
+
+
+======= Bab 1 POA (position and order of appearance) melihat urutan kemunculan
+
+ibarat lomba yang terakhir yang justru menang,
+style yang terakhirlah yang akan dipilih 
+
+
+======= Bab 2 specificity algoritma yang menentukan selector CSS 
+
+<h1 class="my-element"> Heading </h1>
+
+.my-element {
+    color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+dari contoh diatas mana yang akan dipakai? my-element? atau h1?
+class tentunya.... karena lebih spesifik itu daripada tag h1 sendiri
+
+jadi kalau ada class lebih diutamakan
+
+misal ada tag + class + id, mana yang akan dipilih?
+id.. jawabannya
+
+
+
+====== Bab 3 Origin memperhitungkan asal usul CSS
+
+- CSS bawaan browser
+- style yang ditambahkan oleh ekstensi browser atau os
+- CSS yang kita buat
+
+dilihat dari yang terakhir kali dilihat
+
+
+==== BAB 4 Importance
+
+dari yang tidak diutamakan sampai yang paling diutamakan
+- jenis rules, font, latar belakang, warna prior 4
+- jenis rules animation prior 3
+- !Importance mengikuti aturan Origin prior 2
+- jenis rules transition prior 1
+
+
+dalam kasus transition/animation, tingkat prior lebih tinggi daripada rules !Importance
+
+
+cascade = peringkat mana yang akan dilihat duluan dalam sebuah web
+
+
+
