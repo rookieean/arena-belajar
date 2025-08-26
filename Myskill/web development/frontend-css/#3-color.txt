@@ -60,3 +60,30 @@ nama paling populer
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===================== Spacing
+
+<br>             dan        <hr>
+jeda baris             garis horizontal
+
+Margin top, right, bottom, left
+
+padding 
+
+
+
