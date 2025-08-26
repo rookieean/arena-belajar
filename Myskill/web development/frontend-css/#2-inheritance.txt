@@ -1,0 +1,83 @@
+---------------------- Inheritance (pewarisan)
+
+=============== Bab 1 Inheritance Flow
+menggunakan pewarisan untuk style CSS
+
+body {
+    color: yellow;
+}
+a {
+    color: inherit;
+}
+
+<body>
+    baris pertama
+    <a> baris anak </a>
+</body>
+
+a akan mewarisi warna dari induk yaitu yellow 
+
+
+
+============== Bab 2 Inherit keywoard
+
+.my-com {
+    font-weight: bold;
+}
+
+.my-com strong {
+    font-weight: inherit;
+}
+
+
+body
+    <div class="my-com">
+        pertama
+        <strong> kedua </strong>
+    </div>
+body 
+
+
+
+
+
+========= Bab 3 Initial keywoard
+
+strong defaultnya adalah bold, emg dah dari sananya
+sedang initial dapat menyetel ulang properti ke nilai default awal
+
+aside strong {
+    font-weight: initial;
+}
+
+<aside>
+    pertama
+    <strong> kedua </strong>
+</aside>
+
+seharusnya "kedua" akan bold, tapi enggak karena ada "aside strong"
+
+
+=========== Bab 4 Reset keywoard
+
+    Unset keywoard
+    mutus style parent
+
+    p {
+        margin-top: 2pm;
+        color: blue;
+    }
+
+    aside p {
+        margin: unset;
+        color: unset;
+    }
+
+    <body>
+        <p> this </p>
+        aside
+            <p>beda</p>
+        aside
+    </body>
+
+"beda" akan punya warna yang beda sama parent
