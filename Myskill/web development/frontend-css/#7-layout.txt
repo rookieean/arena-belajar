@@ -1,0 +1,73 @@
+============ Display Property
+
+- Box modelnya inline atau blok
+
+1. inline
+    berperilaku seperti kata-kata dalam sebuah kalimat
+
+    .my-element {
+        display: inline;
+    }
+
+2. block
+    elemen blok tidak duduk berdampingan. mereka membuat baris baru untuk diri mereka sendiri
+
+    .my-element {
+        display: block;
+    }
+
+3. Flex 
+    menentuka bagaimana child berperilaku
+
+
+
+
+
+
+
+
+
+
+============ Flexbox and Grid
+
+1. Flex
+mekanisme tata letak untuk tata letak satu dimensi. tata letak melintasi satu sumbu, baik secara horizontal maupun vertikal
+
+.my-element {
+    display: flex;
+}
+
+
+2. Grid
+memungkinkan menulis rules tata letak pada elemen
+
+.my-element {
+    display: grid;
+}
+
+
+
+
+
+
+============ Flow Layout
+
+1. Inline block
+    box yang memiliki karakteristik elemen level block, tetapi masih mengalir sejajar dengan teks
+
+    display: inline-block;
+
+
+
+2. Floats
+    elemen untuk floating ke arah yang ditentukan
+
+    float:  left;
+
+
+3. multicolumn Layout
+    dapat membaginya menjadi beberapa kolom untuk membantu mengatasi kedua masalah ini 
+
+    column-count: 2;
+
+    
