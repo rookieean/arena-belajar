@@ -1,0 +1,109 @@
+============== Sizing Unit
+
+mengontrol dimensi untuk UI 
+- %
+- em
+- vh
+- px
+- rem
+- vw
+
+
+
+
+
+
+
+============== Numbers
+
+menentukan opacity, line-height
+    1, 2, 3
+
+    contoh:
+    line-height: 2;
+    font-weight: 24px;
+
+
+
+
+
+
+
+
+
+============== Percentages
+
+perlu mengetahui bagaimana presentase dihitung. lebar dihitung sebagai presentase dari lebar yang tersedia di elemen induk
+
+contoh:
+
+div {
+    width: 300px;
+}
+
+div p {
+    width: 50%;
+}
+
+300 x 50 = 15000 ukuran box
+
+
+
+
+
+
+
+
+
+============== Absolute Length
+
+panjang yang jelas, 10 ya 10
+
+membuatnya dapat diprediksi dimana pun mereka digunakan di CSS
+
+1px = 0.03cm = 0.75pt
+
+300px   |
+        |
+        -------
+            600px
+
+
+
+
+
+
+
+
+
+
+=============== Relative Lengths
+
+bisa begini, bisa begitu, masih bimbang
+
+- em
+- lh 
+- cap
+- rem
+- rlh
+- ch
+
+
+
+
+
+
+
+============ Viewport relative units
+
+viewport (jendela browser)
+sebagai basis awal pengukuran
+
+- vw
+- vh
+- vmin
+- vmax
+
+
+
+
