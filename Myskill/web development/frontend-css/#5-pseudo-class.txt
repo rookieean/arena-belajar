@@ -1,0 +1,211 @@
+++++++++++++++++++++++++ CSS Pseudo Class
+
+================= Pseudo class intro
+
+memungkinkan menerapkan CSS berdasarkan perubahan status. Design dapat berekasi terhadap input
+
+
+================ Interactive States
+
+karena interaksi dengan pengguna
+
+1. hover
+    mouse berinteraksi dengan pengguna dan web
+
+    contoh:
+
+    a:hover {
+        background: black;
+    }
+
+
+2. active
+    elemen dipicu saat berinteraksi
+    klik dimulai - belum dilepaskan
+    elemen bakal kecil pas di klik -
+    ke semula pas dilepas
+
+    contoh:
+
+    .button:active {
+        transform: scale(0.5);
+        color: none;
+    }
+
+3. focus
+    bereaksi terhadap fokus
+    pas diklik langsung berubah bahkan walaupun klik dah dilepas 
+
+    .button:focus {
+        outline: 2px dashed blue;
+        outline-offset: 2px;
+        background-color: hotpink;
+    }
+
+
+4. focus-visible
+    navigasi yang pakai keyboard
+
+    button:focus-visible {
+        outline: 1px solid black;
+    }
+
+5. target
+    menargetkan css pada beberapa tertentu
+
+    #recipe:target {
+        background: white;
+    }
+
+
+6. historic states - link
+
+    a:link {
+        color: blue;
+    }
+
+    a:visited {
+        color: black;
+    }
+
+    diatas.. kalo link udah di kunjungi bakal hitam, klo belum warna biru
+
+
+
+
+
+
+
+
+
+
+
+
+================== Form States 
+
+1. diasbled dan enabled
+
+    button:disabled {
+
+    }
+
+    button:enabled {
+
+    }
+
+    button:disabled:hover {
+
+    }
+
+    elemen yang ditandai bisa dipakai atau tidak
+
+
+2. Checked
+    checkbox
+
+    :checked {
+
+    }
+
+
+============ validation states 
+dicek dah bener atau belum
+
+1. valid dan invalid
+    input:invalid {
+        border-color: red;
+    }
+
+    input:valid {
+        border-color: green;
+    }
+
+
+2. inrange
+    input min max
+
+    input:in-range {
+        background: green;
+        color: white;
+    }
+
+3. required and optional
+    yang wajib atau enggak
+
+    <input type="email" id="email required placeholder="Avalid email, like name@domain.com" aria-describedly="emailinfo" />
+
+    yang diinput dah bener atau belum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+============== Index dan order
+
+1. first-child dan last-child
+
+    p:first-child {
+        font-weight: bold;
+    }
+
+    ketika mau mencari item pertama atau terakhir
+
+
+2. only-child
+    cuma satu aja
+
+    li:only-child {
+        background: black;
+    }
+
+
+3. nth-child dan nth-of type
+    
+    li:nth-child {
+        background: white;
+    }
+
+    tr:nth-child(even) td{
+
+    }
+
+4. only-of-type
+    strong:only-of-type {
+        background: yellow;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========== empty states
+
+1. empty
+
+    .post :empty {
+        height:  100px;
+    }
+
+
