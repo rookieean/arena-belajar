@@ -1,0 +1,83 @@
+------------- Linier Gradients
+
+menghasilkan gambar dua warna atau lebih secara progresif
+
+.my-element {
+    background: linier-gradient(black, white);
+
+}
+
+
+------------ Radial Gradients
+------------ Conic Gradients
+------------ Repeat Gradients
+
+
+
+
+
+
+
+
+============= Animations
+
+------------- Keyframes
+Menetapkan animasi dalam satuan waktu
+
+@keyframes my-animation {
+    from{
+        transform: translateY(20px);
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+
+
+
+
+---------- Animations Property in CSS
+
+animation name
+
+.my-element {
+    animation-name: pulse;
+    animation-duration: 10s;
+    animation-timing-function: linier;
+
+}
+
+animation shorthands
+properti css bisa diperpendek
+
+
+
+@media (prefers-reduced-motion) {
+    .my-autoplaying-animation {
+        animation-play-state: paused;
+    }
+}
+
+prefers reduced motion 
+preferensi gerakan yang disukai, dideteksi dengan media query prefers...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+============== Filters
+
+1. blur()
+
+filter: blur (0.2em)
+

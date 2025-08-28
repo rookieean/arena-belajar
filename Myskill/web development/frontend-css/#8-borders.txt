@@ -1,0 +1,180 @@
+============== Borders
+============== Borders Properties
+
+1. border-style-property
+    - dotted
+    - dashed
+    - inset
+    ...
+
+    tampilan di setiap browser akan berbeda
+
+2. border-top-style
+
+3. border-bottom-style
+
+...
+
+
+.my-element {
+    border: 1px solid red;
+    color: blue;
+    border-width: medium;
+}
+
+
+
+
+
+
+
+
+
+
+================ Logical Properties
+
+================ Border Radius
+
+digunakan ujung box menjadi tumpul (round)
+
+.my-element {
+    border-radius: 1em 2em;
+}
+
+border-radius: 78px / 89px;
+
+
+
+
+
+
+
+
+
+
+
+
+========== Border Image
+
+images slice
+menghasilkan gambar, offset
+border-image-slice: 57 39 94;
+
+
+images repeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================== Shadows
+
+------------------ Box Shadows
+menambahkan bayangan ke kotak HTML
+
+.my-element {
+    box-shadow: 5px 5px #89903;
+}
+
+
+
+
+inset
+bayangan berada didalam
+
+box-shadow: 7px 8px #7777;
+
+
+
+
+
+
+
+
+------------- Text Shadows
+bayangan pada Text
+
+text-shadow: 8px 9px hotpink;
+
+
+
+
+
+
+--------- Drop shadow
+bayangan untuk image
+
+filter: drop-shadow(0px 9px ) hotpink;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================ CSS Fokus
+
+Menentukan ke mana event keyboard pergi dihalaman pada saat tertentu
+
+
+menentukan fokus pada element
+<a>
+<button>
+..
+
+
+a:focus {
+    outline: 2px solid slateblue;
+}
+
+
+
+
+
+
+
+
+
+
+============== CSS Z index
+
+mana elemen yang akan berada ditumpukan atas? mana elemen yang akan berada ditumpukan bawah?
+
+<div class="stacked-items"
+    <div class="item-1"> item 1 </div>
+    <div class="item-2"> item 2 </div>
+</div>
+
+menentukan tumpukan HTML berdasarkan sumbu Z
+
+
+
+------------ Z Index negatif
+
+z-index: 1;
+
+
+---------- Stacking Content
+
+sekelompok elemen yang memiliki parent element yang sama dan bertumpuk
+
+
+
+
