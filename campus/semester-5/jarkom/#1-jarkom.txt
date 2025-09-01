@@ -1,0 +1,33 @@
+-------------------------------- Senin, 01 September 2025
+
+OSI
+TCP/IP
+
+media komunikasi Internet
+
+1. kabel
+    1 Faber optik                     - single mode (satu cahaya) dan multiple
+    2. Twice peer (berpilin ganda)    -  utp, stp, sctp, 
+    3. coarsial
+
+    8 isi kabel 
+
+    pemasangan kabel, standard TIA 
+    - warna: biru, hijau, kuning, dan coklat, putih
+    - urutan: 
+
+
+
+2. Tanpa Kabel (wireless)
+    
+    - bluetooth
+    - wifi
+    - infrared
+    - zigbee
+    - wimax
+    - laser
+    - gelombang mikro
+    - satelit
+
+    hotspot - zona yang menerima sinyal
+
