@@ -1,0 +1,7 @@
+Algoritma = prosedur yang akan memecahkan masalah
+Pseudocode = program diterjemahkan ke dalam bahasa manusia
+
+variabel dalam js
+- var (global variabel)
+- let
+- const
