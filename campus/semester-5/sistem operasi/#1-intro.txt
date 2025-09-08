@@ -1,0 +1,39 @@
+---------------- 8 September 2025 ----------------
+
+1. generation of computer has 5
+
+- vacuum
+- circuit
+- transistor
+- microprocessor
+- smart computer 
+
+
+2. how to protect ur computer from virus
+    - open task manager
+    - see the traffic
+    - CPU 100%..? something wrong, etc
+        something ruined overload in background without u see 
+
+
+
+3. Processing in OS
+   every OS has different to do task
+
+
+4. The main components in the OS
+
+
+
+
+// --------------    2
+
+1. layered approach
+
+    benefit
+    - 
+
+in personal ip usually use ip dynamic, so will change over time
+but server i's different
+
+
