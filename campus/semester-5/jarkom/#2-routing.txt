@@ -1,0 +1,70 @@
+--------------------- 08 September 2025 ---------------------------
+
+========= Routing
+
+basic network
+internet port
+
+
+ping google.com use for to know active or not
+
+
+- how to check ip personally
+    open MyIpAddress on google
+    finish
+
+    check location IP
+    IP2location
+
+
+the function see the traffic from task manager, bandwidth is to looking something strange
+
+
+IP ada 2 IPv4 dan IPv6
+
+1. IPv4                             Subnet mask
+    - class A 1 - 126               255.0.0.0
+    - class B 128 - 191             255.255.0.0
+    - class C 192 - 223             255.255.255.0
+    - class D 224 -                 255.255.255.255
+
+    127 for board that we use automatic
+
+
+
+
+
+the kind of number
+
+1. decimal = 10
+    12345678910
+
+2. octal = 8
+    01234567
+
+3. binary = 2
+    01
+
+4. hexadecimal = 16
+    0123456789abcdef
+
+
+Bit - binary digit = 01
+1 byte = 8 Bit
+
+kb
+
+
+ASCII code.... 127 sum
+
+convert binary to hexadecimal and then to char
+
+binary
+ 1 + 1 = 0 +- 1
+ 0 + 1 = 1
+
+
+firewall - for open and close port which is use and which is not
+
+if there's both different network use : BRIDGE
+
