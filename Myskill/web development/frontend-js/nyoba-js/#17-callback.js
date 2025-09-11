@@ -6,6 +6,12 @@
             Callback writting styles
 
 
+            Why are there callback
+            ada fungsi eksternal, 
+
+
+            function customization
+
 ```
 // callback example
 
@@ -35,3 +41,7 @@ const process = (callback) => { // fungsi pemanggil
 }
 
 process(greet); // melemparkan callback sebagai argumen
+
+
+
+
