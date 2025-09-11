@@ -25,3 +25,13 @@ processUserInput(greeting);
 
 
 // callback writting style
+const greet = (name) => { // deklarasi callback
+    alert('hai' + name);
+};
+
+const process = (callback) => { // fungsi pemanggil
+    var name = prompt('please enter : ');
+    callback(name);
+}
+
+process(greet); // melemparkan callback sebagai argumen
