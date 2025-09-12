@@ -1,3 +1,16 @@
+"""
+    'why i made this code?'
+
+    the story is, when sensei share his past story to code his reverse name in code program. he need to put into Array first, and then use 'for in' with initial, condition and the end initial point. so i was thinking in my head, 
+
+    '..using python is more easiest way, but i forgot the function to reverse something, filter? no! what it is..? ' 
+
+    even though, i just wanna be silly and came up here 
+
+"""
+
+
+
 #--------------------------------------- Part I
 
 # pembalik nama logika sederhana
