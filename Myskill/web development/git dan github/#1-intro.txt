@@ -1,0 +1,70 @@
+Membuat repo di git
+
+1. mkdir (nama file) make directory
+   mkdir learn_git
+
+2. cd (nama file) change direktori
+   cd learn_git
+
+3. git init
+
+
+
+
+
+
+fungsi git fetch
+- untuk ngasih tahu perubahan apa aja yang udah terjadi
+
+fungsi git pull
+- untuk menarik semua file awan ke lokal komputer kita
+
+fungsi git checkout
+- untuk keluar dari branch, (keluar dari versi)
+
+fungsi git switch
+- berganti branch
+
+fungsi git log
+- melihat riwayat hash, commit, perubahan 
+
+fungsi git status
+- melihat status git yang sekarang sedang terjadi
+
+fungsi git restore (nama file)
+- mengembalikan perubahan sebelumnya (kyak ctrl-z + harus udah commit)
+
+fungsi reset
+- menghilangkan commit 
+- file yang di repo, udah di commit, klo direset, dia akan kembali lagi ke file tempat kerja, ! ingat git reset hash file sebelumnya, misal
+mau ubah file 345678 (file yang mau diubah)
+aku harus git reset 67899 file sebelumnya
+bukan git reset 345678
+
+
+fungsi git reset hash --Hard
+- filenya bakal ikut hilang
+
+
+fungsi git stash
+- penyimpanan sementara, gak akan ganggu code yang ada di master
+- berguna ketika kita harus berpindah branch karena suatu case, namun kita sedang merubah file di branch lain 
+- git stash pop => menampilkan
+
+
+fungsi git init
+- menginisialisasi folder menjadi sebuah repo
+
+fungsi git add 
+- menambahkan file ke dalam stagging area
+
+fungsi git commit
+- menambahkan file ke dalam repo
+
+fungsi git push
+- mendorong file masuk ke repo github
+
+fungsi git pull
+- menarik file github ke dalam lokal
+
+
