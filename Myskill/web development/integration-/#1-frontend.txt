@@ -1,0 +1,29 @@
+frontend = keseluruhan antarmuka apk, implementasi dari UI itu sendiri
+ui       = design antarmuka aplikasinya
+
+
+
+
+Advanced frontend
+
+1. Program paradigm
+
+2. HTTP & RESTful API 
+
+3. Data Binding
+
+4. Auth Strategy
+
+5. Framework
+    - react.js
+    - angular
+    - vue.js
+    - svelte
+
+6. VCS
+
+7. Rendering
+
+8. Components
+
+9. Package/Library Manager
