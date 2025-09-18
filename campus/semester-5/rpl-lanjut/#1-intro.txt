@@ -1,0 +1,39 @@
+-------------- DFD
+Data Flow Diagram
+
+
+// External entity
+the object who show with the box and had a name
+
+
+// data flow
+path to send between two boxes (entity)
+
+
+// if one source == one output
+// but sometimes there's branch 
+
+
+# the concept flow data
+    1. diverging another boxes, depends on the entity
+    2. purpose of the data flow, 
+
+
+# the process had shape
+
+Input    ->    Output != "Black hole"
+if there's no output or input, we call it "black hole"
+
+
+she says, no reading at the presentation, but what the fuck!
+she doing it, f
+
+
+|----------------|
+|                |
+|   __     __    |
+|                |
+|       __       |
+|                |
+|----------------|
+
