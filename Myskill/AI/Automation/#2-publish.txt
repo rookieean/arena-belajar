@@ -1,0 +1,37 @@
+Publishing Web + AI for Free
+
+- Vercel -> hubungkan github secara domain
+- cloudfare
+- firebase
+
+
+pertama akan pakai domain bawaan,
+kalau mau pakai domain , .com my id, harus beli sendiri
+Idwebhost
+
+
+dapatkan domain gratis
+- domain.digitalplat
+
+
+
+
+
+
+
+
+
+
+
+AI No-Code Web Builder Basics
+
+
+Platform Web Builder
+1. Webflow
+2. Mobirise
+
+
+
+Automating Google Forms with n8n
+
+
