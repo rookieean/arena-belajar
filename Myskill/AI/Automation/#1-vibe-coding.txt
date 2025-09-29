@@ -1,0 +1,67 @@
+Vibe Coding: Pengembangan aplikasi dengan bantuan AI yang memungkinkan developer membuat aplikasi lewat instruksi natural language, minim penulisan kode
+
+Tools: 
+1. Lovable: UI dan logika aplikasi secara no-code dengan bantuan AI
+2. Supabase: untuk backend (database, autentikasi)
+
+
+
+
+
+
+
+
+
+
+
+
+Bantuan dengan automasi AI + n8n
+
+Automasi ->  proses mengotomatiskan tugas yang berulang menggunakan teknologi, 
+
+Prinsip Kerja -> 
+
+Trigger     -> Hooks                    -> Action           -> logic    
+titik awal      mekanisme pengiriman        tindak lanjut       alur logika
+
+
+
+Automation Tools:
+1. Zapier   = basis cloud
+2. Aotoma   = ekstensi web
+3. n8n      = open source automation platform
+
+
+Prinsip kerja n8n
+trigger -> node -> node -> Action
+
+node = bagian terkecil dari suatu aplikasi
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Integration: AI, Web Apps + n8n Automation
+
+Alur pembuatan aplikasi
+- Frontend
+- Backend 
+
+
+Kebutuhan Dasar dan flow
+- Lovable
+- chatgpt / gemini
+- n8n
+
+Backend vibe Coding
+- webhook
+
+study case:
+social media generator
