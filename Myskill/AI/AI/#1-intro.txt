@@ -1,0 +1,37 @@
+tools AI
+- Synthesia = format video
+- SoundRaw = format audio
+- Magic Design = format graphic
+
+
+website explore AI tools
+AI Scout
+
+
+
+cara kerja chatgpt
+dia tidak memahami teks seperti manusia, dia hanya memprediksi pola yang sudah dipelajari sebelumnya
+
+belajar dari teks dengan mengenali  dan memprediksi pola-pola.
+dia akan terus menyambung kata demi kata sampai tidak ada lagi prediksi kata selanjutnya.
+
+
+
+struktur dalam membuat prompt:
+
+1. mulai berikan peran bagi chatgpt
+    seorang guru mtk SD 
+
+2. berikan konteks tentang kebutuhan informasi yang kita inginkan.
+     misal sedang membuat silabus matematika untuk siswa kelas 3 SD tentang perhitungan
+
+3. lanjutkan dengan output
+    berikan detil tentang output yang diharapkan, misal 5 poin pembelajaran dari penjumlahan, pengurangan dll
+
+4. tutup dengan ketentuan
+    jelaskan tentang do's dan donts dari tulisan yang diinginkan, misal jelaskan mulai dari judul
+
+
+
+
+
