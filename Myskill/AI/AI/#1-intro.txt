@@ -35,3 +35,65 @@ struktur dalam membuat prompt:
 
 
 
+
+
+
+
+
+Note-Taking Using AI
+
+Tools 
+- docx
+- evernote
+- oneNote
+- notion
+- obsidian
+- mem 
+
+
+
+
+Maximizing the Use of AI Tools
+
+another tools
+- perplexity.ai 
+- 
+
+
+AI for Software Engineer
+
+AI Coding Assistant
+- github copilot
+- amazon
+- codegeex
+- coddy
+- ghost writer
+- blackbox
+- codeium
+
+
+Another tools
+- ChatGPT Code Review
+- what the diff
+
+
+
+AI for Content Marketing
+- copilot
+- copy.ai
+- write sonic
+- gemini
+- jasper
+- cloude
+
+
+AI for Spreadsheets
+- GPT for work by Talarian
+- GPT for work in GSheets
+
+
+gunakan format TSV untuk mengkonvert jawaban GPT ke excel
+
+lupa rumus excel, gunakan 
+
+mermaid.js -> diagram 
