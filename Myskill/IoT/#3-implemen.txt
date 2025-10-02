@@ -1,0 +1,5 @@
+IoT Implementation in Various Industry
+
+Fungsi IoT
+Remote monitoring, alert,otomtisasi pekerjaan, remote control
+

@@ -1,0 +1,157 @@
+IoT Architecture and Ecosystem
+
+
+
+4 bagian
+
+--------------------
+perception layer
+
+camera, robot, sensors, meter
+
+
+---------------------
+transport layer
+
+routing, wifi, bluetooth, transmision
+
+
+---------------------
+processing layer
+
+web service, data center, cloud
+
+
+----------------------
+application layer
+
+apk, 
+
+
+
+
+
+
+sistem hardware IoT
+- sensor -> pancaindra perangkat terhadap dunia nyata
+- microcontroller/microprocessor -> tempat pemrosesan dan komputasi
+- aktuator -> output/ alat gerak perangkat IoT dari dunia digital ke fisik 
+
+
+microcontroller vs microprocessor
+
+microcontroller -> internal memory & IO
+microprocessor -> external memory & IO 
+
+
+ekosistem hardware IoT (mikrokontroler)
+- ATMEL (ATMega, ATTiny, Arduino Uno, Arduino Nano, Arduino Mega, Teensy, dsb)
+- Espressif (ESP8266, ESP32, dsb)
+- STMicro (STM32 family)
+- Nordic Semiconductor (nrf family)
+- NXP Semiconductor (nxp family)
+
+
+ekosistem hardware IoT (mikroprosesor)
+- Raspberry Pi 
+- Nvidia Jetson
+- Odroid
+- BeagleBone
+- LattePanda
+
+
+ekosistem hardware IoT (peripherals)
+- RTC 
+- SDCard
+- USB
+- dsb
+
+
+ekosistem hardware IoT
+- PCB
+- Enclosure ( Duradus, Sonoff, electronic, junction Box )
+
+
+
+
+
+
+
+
+
+Sistem Software IoT & Ekosistemnya 
+
+- Hardware layer
+    sebagai firmware atau bootloader dari mikrokontroler
+
+- Processing layer
+    mengolah data di server 
+
+- application
+    menampilkan data-data IOT serta berinteraksi dengan user melalui dashboard pada web atau moblie apps
+
+
+
+
+
+Firmware IoT bergantung dengan hardware mikrokontroler ynag digunakan. 
+yang paling populer, 
+- Arduino
+- esp idf
+- Raspberry pi os
+...
+
+arduino -> software open source untuk sistem tertanam pada banyak mikrokontroler 
+
+PlatformIO -> IDE untuk memprogram perangkat keras 
+
+
+
+
+
+
+
+
+
+
+IoT networks dan Ekosistemnya
+
+jaringan komunikasi device iot ke internet 
+- 4g
+- wifi
+-..
+
+
+
+MQTT
+protokol pesan berbasis standar, atau seperangkat aturan, yang digunakan untuk komunikasi mesin ke mesin.
+kyak HTTP
+
+
+
+
+
+
+
+
+
+
+
+Platform IoT dan ekosistemnya 
+- ThingSpeak
+- Blynk
+- PTC ThingWorx
+- Antares by Telkom
+dsb.
+
+
+
+
+
+
+
+
+
+
+
+

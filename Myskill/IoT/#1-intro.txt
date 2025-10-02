@@ -1,0 +1,85 @@
+Internet of Things (IoT) Introduction
+
+# arti IoT
+benda fisik yang terkoneksi dengan internet,
+
+
+
+
+# karakteristik objek IoT 
+- Smart
+    memiliki kemampuan komputasi yang smart 
+
+- Connected
+    terhubung dengan device lain atau internet 
+
+- IoT Networks
+    berada dalam suatu jaringan IoT 
+
+
+
+
+# Contoh perangkat IoT 
+- SMART BULB
+- SMART LOCK
+- SMART CAMERA
+- SMART SPEAKER
+- SMART TV
+- SMART SENSOR
+- SMART WATCHES
+- SMART CAR 
+
+
+
+
+
+
+
+
+HISTORY OF IOT 
+1999, presentasi supply chain management di MIT Oleh Kevin Ashton
+RFID, 
+
+perangkat IoT pertama
+mesin vending coca-cola, agar ia bisa cek ketersediaan minuman. 
+
+
+
+# IoT bagian dari revolusi industri
+1.0 
+2.0
+3.0
+4.0
+
+
+
+# IoT Merupakan Inovasi revolusi industri
+IOT + IT Automation = Data-Driven Decision
+
+
+# Fokus IoT
+Kemampuan benda pada komunikasi dan saling terhubung, 
+skala IoT besar, AI bergantung juga pada IoT 
+dapat mengumpulkan data, 
+interaksi manusia dan perangkat,
+
+
+
+
+
+# fungsi IoT pada manusia
+- personal assistan yang bisa memberikan interaksi data secara real-time
+
+Perkembangan IOT di masa depan
+- Big Data
+- AIoT (AI + IoT)
+    IOT adalah sensor untuk AI yang digunakan untuk training
+- IoT Connectivity
+    5G
+    LoRaWAN
+- Edge Computing
+- Low-Power IoT
+- IoT security
+
+
+
