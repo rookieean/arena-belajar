@@ -1,0 +1,30 @@
+Digital Concept and Analog in Electronic and Its Interfacing with Microcontroller
+
+
+sistem digital 0 1
+untuk mengolah informasi
+
+hubungan digital dan Analog
+
+analog -> gelombang tidak stabil
+digital -> hanya ada 0 1 biner 
+
+
+ADC
+
+1. buka wokwiki untuk simulasi
+2. project baru, esp32 bordnya pakai contoh
+3. cari pointimeter
+4. sambung kabel ke esp32
+5. buat kode program
+
+mencari nilai tegangan yang masuk ke esp32  
+
+
+
+
+
+DAC Digital convert ke analog 
+
+
+PWM 

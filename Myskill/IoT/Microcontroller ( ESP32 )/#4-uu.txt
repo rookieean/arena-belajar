@@ -1,0 +1,38 @@
+Digital Input dan Microcontroller Output
+
+# Digital Input & Output
+esp32 dapat menerima input digital,
+3.3v == high level == true
+0v == low level == false
+
+dapat mengeluarkan digital output juga
+
+
+pull up resistor & pull down resistor untuk push button
+
+kode program button setup
+https://wokwi.com/projects/375466208433776641
+
+
+
+# Logic Level Converter
+
+
+
+
+
+
+# Multiplexer MUX 
+banyak komponen pin nya jadi terbatas, sedang input yang kita mau baca banyak, sedang pinnya dah habis
+pakai multiplexer,
+menggunakan berbagai pin secara bergantian
+sesuai dengan yang diinginkan
+
+
+
+
+
+
+# Shift Register
+beberapa pin bisa mengeluarkan output, 
+kebalikan dari multiplexer

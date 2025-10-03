@@ -1,0 +1,51 @@
+Arduino IDE and Wokwi Simulator
+
+
+# apa itu arduino?
+software untuk mikrokontroler
+
+# arduino ide 
+ide untuk mengembangkan firmware arduino 
+membuat kode program, kompile code dll
+
+
+
+
+# Wokwi Simulator
+online arduino simulator basis web 
+
+
+
+# program hello world di Wokwi
+
+2 bagian code program 
+
+void setup() -> jalannya hanya sekali di
+kode program
+
+void loop() -> melakukan pengulangan
+
+
+
+# platform IO dan vscode
+platform -> exstension vscode sebagai IDE untuk pengembangan sistem tertanam
+
+1. buka vscode 
+2. install platform IO exstension
+3. buka platform IO, buka project baru, 
+    - name project, terserah
+    - board, pakai yang kamu punya contoh ESP32
+    - framework, arduino
+    - finish
+
+4. cari folder 'src' buka file main.cpp
+5. bikin program di main.cpp 
+6. kompile, cek apakah ada error, di kanan bawah
+    nama 'build' (ingat udah sambung esp ke laptop)
+
+7. uplod, kanan bwah, untuk transfer ke espnya
+    tanda panah icon
+
+8. agar platformio monitornya berapa,
+    file platform io, monitor_speed = 11111 -> angka yg ada d kode program
+

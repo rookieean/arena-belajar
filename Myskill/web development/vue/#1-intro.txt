@@ -2,3 +2,6 @@ Vue Introduction
 Js framework untuk membangun user interfaces,
 declarative dan components based,
 
+vue vs react
+
+# 

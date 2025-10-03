@@ -1,0 +1,116 @@
+Introduction to ESP32
+ESP32 sebagai otak perangkat IoT. ESP32 dari Espressif merupakan mikrokontroler utama yang banyak digunakan dalam perangkat IoT.
+
+
+
+ESP32 otak IOt yang paling populer 
+
+# Spesifikasi ESP32
+adalah seri mikrokontroler buatan ESPRESSIF 
+
+
+
+# mengapa dia sangat populer 
+- low cost
+- kaya akan fitur konektivitas
+- dapat diprogram dengan arduino
+- compact & integreted system
+- low power
+- kaya akan fitur GPIO
+- dual core processor 
+
+
+
+# perbedaan ESP32 dan ESP8266
+dual core
+lebih cepat
+
+
+
+# Fitur GPIO pada ESP32
+GPIO -> pin pinya, general input/output 
+        bisa memberikan input dan output digital 
+
+
+
+# GPIO : Interrupt
+dapat digunakan sebagai pin interrupt, berfungsi sebagai input pin agar program berjalan.
+
+
+
+#  GPIO : RTC (Real time clock)
+pin yang dapat bekerja dalam mode deep sleep
+
+
+
+# GPIO : ADC & DAC
+
+# GPIO : PWM
+dapat mengeluarkan sinyal PWM 
+
+
+# GPIO : Communication Protocols
+punya protokol komunikasi 
+
+
+# GPIO : Capacitive Touch Pins
+pin yang dapat touchpad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------
+Connectivity features in ESP32
+
+memiliki kemampuan konek ke WIFI, 
+punya dual mode, ( dapat bekerja sbgai bluetooth classic/low energy)
+
+Memory ESP32
+SUDAH MEMILIKI INTERNAL MEMORY 
+
+flash memory menyimpan kode programnya 
+SRAM -> menyimpan data-data variabel 
+
+
+
+flash memory
+menyimpan = bootloader, kode program, eeprom
+
+
+
+tersedia dalam 3 bentuk
+1. soc system on chip 
+2. module
+3. development board 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+Digital Serial Communication in Microcontroller
+
+konsep komunikasi Digital
+
+ketika udah ada banyak komponen gimana cara komunikasinya antar tiap komponent. 
+ketika rangkaiannya udah banyak, gimana cara komunikai antaranya
+
+
+# 2 jenis
+
+1. Serial
+    dikirim secara berurutan secara serinya
+    clocknya akan lama, hanya butuh 2 pin dan 2 kabel
+
+2. paralel 
+    dikirimkan secara bersamaan, 
+    waktu jadi lebih singkat,
+    terlalu banyak pin dan kabel
+
+
+
+# Synchronous serial comminication
+
+
+# asynchronous serial comminication 
+receiver tidak mendapatkan sinyal clock external
+sehingga harus memberikan clock yang sama kepada masing-masing transmiter 
+
+
+# arah komunikasi serial communication 
+simpel = 1 arah 
+half-duplex = dua arah namun bergantian
+full-duplex = dua arah bersamaan
+
+
+
+
+# UART Communication
+Universal Asynchronous receiver/transmitter (UART)
+adalah komunikasi serial async yang paling sering digunakan untuk komunikasi weired mikrokontroler
+pin RX () dan TX (transmitter)
+RX -> TX rx ketemu tx 
+GND harus selalu terhubung untuk mengukur tegangan antar device
+
+
+# Rules of asynch serial comminication
+- data bits -> bit data yang dipakai 
+- Synchronouszation bits -> penanda kapan mulai dan berakhir
+- parity bits   -> cek data yang dikirm sesuai, cek bit yang ganjil
+- baud rate -> 
+
+
+# UART Wiring
+
+
+
+
+
+
+
+
+
+
+
+# 12C Communication
+komunikasi ini umum digunakan untuk menghubungkan mikrokontroler utama ( master ) dengan sensor atau peripheral lainnya. 
+
+cukup menggunakan 3 pin untuk komunikasi
+- SDA serial data
+- SCL serial clock
+- GND
+
+
+# jaringan komunikasi 12C
+cara membedakan master dan slave?
+yang harus ngomong? yang denger?
+
+caranya menulis alamat yang ditujukan perintah ini,
+
+
+# hands on
+https://wokwi.com/projects/354748477679873025
+
+
+
+
+
+
+
+
+
+
+
+
+# SPI Communication
+seri peripheral interface
+
+untuk menghubungkan ke banyak mikrokontroller
+
+SCLK -> SCLK
+MOSI -> MOSI
+
+
+
+
+# Komunikasi standard industri lainnya
+
+- RS232
+    mengirimkan jarak agak jauh
+
+- RS485 ( Modbus )
+    mengirimkan dengan jarak yang lebih jauh
+
+- CAN BUS
+    membedakan target device yang ingin dikomunikasikan
+
+- Ethernet
+    kirim data kecepatan tinggi
+
+    

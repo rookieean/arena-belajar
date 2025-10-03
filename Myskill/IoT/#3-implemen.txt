@@ -3,3 +3,33 @@ IoT Implementation in Various Industry
 Fungsi IoT
 Remote monitoring, alert,otomtisasi pekerjaan, remote control
 
+
+
+IoT dalam industry manufaktur
+IOT membantu dalam bidang logistik dalam penyortiran barang dsb
+
+
+
+In Agritech
+iot akan membantu memonitoring dalam pertanian,
+peternakan iot juga sangat dibutuhkan,
+
+
+
+IoT in health and sustainability
+smartwatch memungkinkan tracking detak jantung, suhu, dll
+telemedicine bisa mengirim data ke sesama 
+
+monitoring kualitas udara, memudahkan seleksi sampah recycle, smart grid & iot watt meter 
+
+
+
+IoT in SmartLiving & smartcity
+Smart (PJU penerangan jalan umum), smart mobility & smart parking, smart traffic management system
+
+smart living,
+smart home, dll
+
+
+
+Iot Model Business
