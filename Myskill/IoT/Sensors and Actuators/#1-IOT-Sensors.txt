@@ -1,0 +1,34 @@
+# IoT Sensor
+
+# type of Sensor
+alat yang dapat mengukur fenomena dari dunia nyata, menjadi sinyal elektrik yang dapat diukur.
+
+
+# klasifikasi sensor 
+- analog vs digital
+- pasif vs aktif
+
+
+# pasif vs aktif
+    aktif -> mengeluarkan energi untuk mengukur, butuh power supply
+
+    pasif   ->  dapat langsung diukur tanpa alat eksternal
+
+
+
+
+
+# analog sensor
+
+sensor LDR & NTC
+https://wokwi.com/projects/375462509966619649
+
+
+
+# Digital Sensor
+- sensor DHT22 & Ultrasonic
+
+
+# pentingnya mendapatkan data sensor yang tepat dan akurat
+- jangan lupakan satuan unit setiap kali melakukan pengukuran untuk meminimalisir kesalahan.
+- 

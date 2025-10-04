@@ -1,0 +1,22 @@
+IoT Actuator
+
+# pengertian aktuator
+sebuah alat yang dapat mengubah sinyal menjadi suatu gerakan, getaran atau panas.
+
+
+# klasifikasi aktuator
+- elektromagnetik
+- relay
+- buzzer & speaker
+- linier motor
+
+
+# energi aktuator
+butuh energi untuk menggerakan, menggetarkan, atau memanaskan suatu hal.
+
+
+# aktuator elektromagnetik
+https://wokwi.com/projects/375463150299513857
+
+
+# otomatisasi tugas aktuator
