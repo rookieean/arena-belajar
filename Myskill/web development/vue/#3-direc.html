@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Menghubungkan vue ke html -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    <title>Belajar vue</title>
+</head>
+<body>
+    <div id="app">
+        <img v-bind:src="img" v-bind:alt="alt">
+        <a :href="my-link">go to google</a>
+        <p v-text="message"></p>
+        <p v-html="myhtml"></p>
+    </div>
+</body>
+    <script>
+        const App = {
+          data() {
+            return {
+                img: 'https://picsum.photos/id/1/200/300',
+                alt: 'image',
+                myhtml: '<strong>this is my html</strong>',
+                mylink: 'https://google.com',
+                message: 'Hello World!',
+                isItTrue: false,
+                myArray: [
+                    'my',
+                    'skill',
+                    'is',
+                    'awesome'
+                ]
+            }
+          },
+        }
+    </script>
+</html>

@@ -1,0 +1,40 @@
+# Troubleshooting
+    menyelesaikan masalah
+
+# Debugging
+    indettifikasi masalah
+
+    menemukan masalah di apk, lalu di selesaikan
+
+
+# proses Debugging
+    1. identifikasi error
+    2. mencari lokasi error
+    3. menganalisis error
+    4. membuktikan hasil analisis
+    5. menganalisis sistem yang terdampak
+    6. melakukan solusi dan membuktikan solusi berhasil
+
+
+# Apa itu Bug?
+    sebuah kasalahan dalam aplikasi
+
+# klasifikasi bugs
+    severity(keparahan) dan priority(prioritas)
+
+# contoh bug dalam aplikasi
+
+    Therac 25
+    Y2K Problem
+    The First Bug
+
+# pengalaman Pribadi
+    apk freeze/hang
+    notif telat
+    saldo gak terupdate
+    hasil pencarian tidak sesuai
+    urutan pesan tidak sesuai
+
+# gimana bug bisa terjadi?
+
+    

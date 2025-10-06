@@ -1,0 +1,80 @@
+# bugs pada HTML
+
+    - sifat asli syntax yang terlupakan
+    - html tidak tertutup
+    - semantic HTML, membantu lebih baik dalam SEO
+    - membantu merender saat browser aktif, mudah dicari oleh search engine
+
+# Debugging bugs in HTML
+
+    1. pahami fundamental
+        mayoritas karena ketidaktahuan developer,
+
+        sumber belajar:
+
+        mdn web docs,
+        developer mozilla,
+        w3school,
+
+    2. validasi penulisan
+        - validator.w3.org
+        - vscode html formatter
+        - prettier
+
+    3. browser compability
+        tidak semua HTML di support semua browser,
+        coba lihat di:
+        can I use dan MDN docs
+
+
+
+
+
+
+# Bugs pada CSS
+
+    - margin collapsing
+        margin ketumpuk dengan yang diatas, 
+        jangan pakai display box, pakai display flex/grid + 
+
+    - justify-between untuk konten dinamis
+        membagi div secara horizontal, 
+        kalau kontennya berubah, maka layout akan berantakan.
+        gunakan flex-gap, agar konsisten gapnya.
+
+    - menampilkan gambar
+        lihat lebar panjang gambar asli, 
+        object-fit: cover -> dia akan simpan rasionya, dan akan memenuhi kontainernya. object-position: 75%
+
+    - email template
+        tidak semua properti css disupport ketika membuat email template denga  HTML
+
+        can i email, tools
+
+
+
+    Z-index tidak sesuai
+    tidak ada responsive design
+    browser tidak compatibel
+    flex container vs flex item
+    overflow scroll vs auto
+    padding untuk table diata
+    styling ketika print halaman
+
+
+# debugging css
+
+    sering latihan
+    sering baca dokumen css,
+    css tricks
+    cari referensi: codepen, hyperplexed
+
+
+# tools untuk debugging
+
+    - Browser DevTools
+        fokus di element tabs, utuk css dan html
+    
+
+
+
