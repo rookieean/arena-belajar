@@ -1,0 +1,8 @@
+You might need not this effect
+dokumen yang dirilis oleh react untuk memandu agar mampu menggunakan 
+
+React dev tools
+ekstensi browser untuk debugging props dll
+
+redux devtools
+memudahlan untuk debugging pada redux

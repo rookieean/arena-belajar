@@ -1,0 +1,30 @@
+# Bug pada JavaScript
+
+    1. TypeError
+        tipe data yang tidak terduga dalam sebuah nilai atau ekspresi
+        kita berekspetasi akan muncul data tertentu, tapi ternyata tidak.
+
+    2. SyntaxError
+        salah penulisan 
+
+    3. ReferrenceError
+        melakukan referensi terhadap variabel yang diluar scope atau belum dinisialisasi.
+
+    4. RangeError
+        nilai argumen yang melebihi batas argumen dari suatu fungsi
+
+
+
+
+
+# Cara debugging di JavaScript
+
+    - perbanyak pengetahuan
+    - pakai TypeScript
+    - ESlint tools
+    - 
+
+# JavaScript network request
+
+    - simulasi pakai browser devTools network
+    
