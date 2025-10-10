@@ -1,0 +1,101 @@
+
+
+Justify-content
+    item akan disejajarkan secara horizontal
+
+    nilainya:
+
+    1. flex-start: dari sisi kiri kontainer
+    2. flex-end: dari sisi kanan kontainer
+    3. center: ditengah
+    4. space-between: ada jarak antar item satu sama lain
+    5. space-around: jarak lingkaran pada setiap item
+
+
+
+
+
+Align-items
+    item sejajar secara vertikal
+
+    nilainya:
+
+    1. flex-start: dari atas kontainer
+    2. flex-end: item sejajar dari bawah container
+    3. center: tengah
+    4. baseline: garis dasar kontainer
+    5. stretch: memperluas diri menyesuaikan kontainer
+
+
+
+
+flex-direction
+    menentukan arah item yang akan ditaruh dalam kontainer
+
+    nilainya:
+
+    1. row: ditempatkan sama seperti arah text
+    2. row-reverse: berlawanan dengan arah text muncul
+    3. column: sejajar atas ke bawah
+    4. column-reverse: sejajar bawah ke atas
+
+
+
+
+
+order
+    menentukan urutan visual
+
+    -3    -2    -1    0     1   2   3
+
+    semua berawal dari 0, lalu kita mau ganti yang keberapa tinggal ganti nilainya dengan angka positif atau negatif
+    kanan atau kiri ditentukan dari angkanya
+
+    order: 1;
+
+
+
+
+
+align-self
+    sama kyak align-items, dia hanya independet seorang
+
+    nilainya:
+
+    1. flex-start: dari atas kontainer
+    2. flex-end: item sejajar dari bawah container
+    3. center: tengah
+    4. baseline: garis dasar kontainer
+    5. stretch: memperluas diri menyesuaikan kontainer
+
+
+
+
+flex-wrap
+    dapat pindah ke baris baru ketika kontainer udah gak muat lagi
+
+    nilainya:
+
+    1. nowrap: setiap item dlm satu baris
+    2. wrap: dilanjutkan ke baris tambahan
+    3. wrap-reverse: lanjut ke baris tambahan secara terbalik
+
+
+
+
+
+
+flex-flow
+    perpaduan dari flex-direction dan flex-wrap
+    arah + nambah baris baru
+
+    caranya:
+
+    flex-flow: column wrap;
+                // column (membalik atas bawah)
+                // wrap ( membungkus )
+
+
+
+
+
