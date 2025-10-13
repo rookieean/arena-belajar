@@ -99,3 +99,22 @@ flex-flow
 
 
 
+align-content 
+    untuk mengatur jarak antar baris yang berurutan
+
+    nilainya:
+
+    1. flex-start: baris di bungkus di atas kontainer
+    2. flex-end: baris di bungkus di bawah kontainer
+    3. center: secara vertical
+    4. space-between: ditampilkan sejajar dengan jarak antara item
+    5. space-around: ditampilkan dengan jarak lingkaran pada item
+    6. stretch: melebar ke kontainer
+
+
+
+answer level 24:
+flex-direction: column-reverse;
+flex-wrap: wrap-reverse;
+align-content: space-between;
+justify-content: center
