@@ -1,0 +1,11 @@
+# e-commerce 28 oktober 2025
+
+- model bisnis e-commerce
+    - b2c (business to costmere)
+    - b2b (bisnis to bisnis)
+    - c2c (costemer to costemer)
+    - 
+
+
+- e-commerce security
+
