@@ -1,0 +1,25 @@
+03 November 2025
+
+
+    Management memory
+
+
+
+jenis memory:
+ROM, RAM, cache
+
+
+
+Cache = ada di processor
+
+analogi, 
+core  = taller
+cache = ruang tunggu
+    level 1, 2, 3
+
+
+
+
+
+
+Catches = 
