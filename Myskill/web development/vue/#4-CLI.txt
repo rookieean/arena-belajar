@@ -1,0 +1,31 @@
+CLI = package untuk terminal
+
+cara installnya, ada di vue dokumentasi 
+
+fokus di App.js dan Main.js
+
+
+cara installnya
+- npm create vue@latest
+- pilih opsinya
+
+# connect each component
+
+
+
+# Slots and Lifecycle
+
+Lifecycle hooks
+    kesempatan untuk menambahkan kode mereka sendiri pada tahapan tertentu.
+
+Lifecycle step
+
+    INIT -> beforeCreate -> created -> beforeMount -> mounted
+
+    update - beforeUpdate update
+
+    unmounted - beforeUnmount - Destroy
+
+
+
+Dynamic Component
