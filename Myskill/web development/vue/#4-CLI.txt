@@ -29,3 +29,14 @@ Lifecycle step
 
 
 Dynamic Component
+
+
+
+
+# Fragments and Custom Directives
+
+# Fragments
+    Gak perlu bungkus lagi
+
+# Sequence
+    

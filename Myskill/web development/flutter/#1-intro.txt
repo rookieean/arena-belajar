@@ -1,0 +1,55 @@
+
+
+# Jenis pengembangan aplikasi
+
+    1. Native
+
+    Swift   IOS
+    kotlin, java    android
+
+
+
+    2. Hybrid
+
+    IOS   dan Android  ->   Flutter, Dart
+
+
+
+    Kekurangan dan kelebihan
+    native -> berjalan langsung pada sistem operasi, sehingga lebih cepat dan responsif
+
+    hybrid -> satu basis kode digunakan untuk banyak platfrom
+
+
+
+
+
+# Kelebihan Flutter
+
+    - Hot Relod
+
+    - UI menarik dan fleksibel
+
+    - Skalabilitas
+
+    
+    -
+
+# setup for windows
+
+    1. setup flutter into your PC
+    2. Vscode
+    3. android studio
+    
+    open Vscode
+    - install flutter exstension
+    - install dart exstension
+    
+    flutter
+    - bin
+    - copy flutter path ke enviroment
+
+    android studio
+    - + click, import android sampel
+    - pilih device
+    - 
