@@ -1,0 +1,28 @@
+Size
+
+
+
+
+
+Absolute Units
+Unit absolut ditampilkan secara konsisten di semua perangkat dan ukuran
+
+px      Pixels           2px
+cm      Centimeters      2.4cm
+mm      Milimeter        2mm
+in      Innci            3in
+
+
+
+Relative Units
+Satuan relatif ditampilkan relatif terhadap elemen tertentu dalam mesin
+
+
+
+%       uk relative dengan parent element       90%
+vh      dengan tinggi perangkat                 20vh
+vw      dengan lebar perangkat                  3vw
+em      ukuran font element                     2em
+
+
+
