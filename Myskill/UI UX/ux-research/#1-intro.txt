@@ -1,0 +1,74 @@
+# Introduction to UX Research
+
+# User Experience
+mencakup semua aspek interkasi pengguna dengan layanan dan produk dari sebuah perusahaan.
+Bagaimana penngalaman pengguna
+
+
+# UI                              UX
+visual elemants               perasaan pengguna dalam 
+feel product typogr..         overal user friendliness
+more usable, aesthetically    delight user with a product that is efficient, journey from aspek
+
+
+
+# Importance of UX Research
+
+UX Research
+bertujuan untuk memahami perilaku, kebutuhan, motivasi dan frustasi pengguna terkait pengalaman atau interaksi mereka dengan desain.
+merefleksikan apa yang pengguna butuhkan.
+
+'Desain tanpa riset hanyalah karya seni yang cantik'    
+ Kevin Liang, Zero to UX
+
+produk yang hebat mengedepankan implementasi wawasan dan data penelitian
+
+
+
+# Roles of UX Researcher
+UX bertanggung jawab terhadap fase empathize, define, test dalam design thinkin process
+
+- Discovery Research
+    memahami  pengalaman dan kebutuhan pengguna
+
+- validation Research
+    menguji ide dan asumsi mencari tahu bagaimana pengguna berinteraksi dengan produk
+
+- 
+
+
+
+Bertanggung jawab terhadap kelima fase dalam design thinking process
+- empathize
+- ideate
+- define
+- prototype
+- test
+
+
+UX Writter  lebih bertanggung jawab terhadap prototype
+
+
+
+# UX Research methods
+
+- KUALITATIF
+    - in-depth interview
+    - focused group discussion
+    - usability testing
+    - ethnography diary study
+
+
+- KUANTITATIF
+    - survey
+    - experimental test
+
+
+
+- DESK RESEARCH 
+    - competitive analysis
+    - literature Research
+    - online Research
+    - case study Research
+
+

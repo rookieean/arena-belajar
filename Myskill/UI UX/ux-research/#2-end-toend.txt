@@ -1,0 +1,59 @@
+# End to End UX Research
+
+
+
+# Framework UX: Design thinking
+
+- Design thinking
+    empathize, define, ideate, prototype, test
+
+
+# peran ux dalam design thinking
+
+define:
+generative Research
+melakukan reserach eksploratif
+
+test:
+evaluate Research
+validasi keberhasilan dari suatu solusi
+
+
+
+# end to end UX Research
+
+# bagaimana proses melakukan ux research?
+
+- understanding
+    memahami konteks & diskusi dengan stakholder
+
+- planning
+    mempersiapkan perencanaan reserach
+
+    - background & objective
+    - methodology
+    - sample specification
+    - key information areas
+    - data collection tools
+
+
+
+- fieldwork
+    mencari responden & melakukan pengambilan data
+
+
+    qualitatife     - merekrut responden, melakukan sesi kualitatif (interview, UT, dll)
+    quantitatife    - menyebarkan survey
+
+
+- analysisi z7 reporting
+    analisis dan menyusuun report
+
+
+    - mengelompokan dan merabg
+- sharing the report
+    menyampaikan hasil reserach pada stakeholder terkait
+
+
+
+# 
