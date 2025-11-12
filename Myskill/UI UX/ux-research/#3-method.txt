@@ -1,0 +1,47 @@
+# Choose the Right Methodologies
+
+
+# UX Research Methods 
+
+1. Qualitative
+    memahami faktor 'why' melalui kata-kata, narasi, dan makna 
+
+
+    metode 
+    - in depth interview
+        diskusi secara one by one
+
+    - focus grup discussion
+        diskusi dalam kelompok
+
+    - usability testing
+        mengobservasi user ketika menggunakan produk
+
+
+2. Quantitative
+    memahami 'what' melalui angka
+    menganalisis perilaku user, 
+
+
+    - survey
+        menggunakan kuesioner
+
+    - A/B testing
+        menguji dua sampel berbeda
+
+    - Data analytics
+        mengukur metrik tertentu, seperti page view, click rate
+    
+
+3. Competitive Analysis 
+    mengevalusi produk kompetitor
+
+    menunjukan kekurangan dan kelebihan produk dibanding kompetitor
+    relatif cepat dan mudah dilakukan.
+
+
+# Cara memilih metode yang tepat
+
+    pilih yang mana yang cocok untuk kebutuhan project
+    
+
