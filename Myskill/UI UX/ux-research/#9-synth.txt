@@ -1,0 +1,90 @@
+Synthesizing Qualitative Data
+
+
+
+# data processing from in depth interview and FGD
+
+- flow analisis data kualitative
+
+    1. kumpulkan data
+
+        contoh pengelompoka data 
+
+        "belanja online jarang, paling kalau ada yang barang mau di beli" youth(18-22)
+        "pernah, tapi gak sering" old (30-45)
+        ...
+
+        lihat pola jawaban respondennya
+
+
+
+    2. analisis pattern dan buat temuan
+
+        - Tally Sheet
+            berapa banyak ||| saat dihitung sesuai kelompok
+        
+        - 
+
+    3. formulasi kalimat simpulan
+
+        menarik simpulan dari data yang didapatkan
+
+
+
+
+
+
+
+
+
+
+
+
+# Processing data from usability testing
+
+    - Tagging ( GUERILLA USABILITY TEMPLATE )
+        formula task yang akan diselesaikan
+
+
+    - lakukan prioritasi masalah kegunaan (usability problems)
+    seberapa banyak masalah a muncul
+    critically = severity + probability occurance
+    mendefinisikan tingkat keparahan
+
+
+
+
+
+
+
+
+
+
+
+# important things when processing qualitative data
+
+- jika memungkinkan, lakukan analisis bersama stakeholders
+   *stakeholders memungkinkan memiliki aksi dari hasil studi
+   *perubahan design bisa jadi lebih tepat
+
+- KJ Technique
+    - tentukan pertanyaan fokus
+    - atur grup
+    - masukan opini ke dalam sticky notes
+    - letakan sticky notes di dinding
+    - kelompokan item-item serupa
+    - beri nama setiap grup 
+    - memilih grup data yang paling penting
+    - memberi peringkat pada grup yang paling penting
+     
+
+
+
+
+
+
+
+
+# case study
+
+

@@ -1,0 +1,71 @@
+// Qualitative Research in UX
+
+
+# general methods of Qualitative Research
+
+- quantitative methods
+
+
+
+- qualitative methods
+
+    Usability Testing
+    bisa mendapatkan feedback dari pengguna tentang cara pengguna fitur atau produk
+
+    In-Depth Interview
+    mendapatkan pemahaman mendalam terhadap perilaku tertentu;
+
+
+
+
+
+# persiapan untuk kualitative riset
+
+1. rekrut responden
+
+    siapa?
+        orang yang sesuai dengan kriteria project
+
+    berapa?
+        5-7 interview, mini FGD 4-5, etc tergantung kebutuhan
+
+    bagaimana?
+        bisa gunakan email, pesan singkat, media sosial etc
+
+    dimana?
+        temukan responden dari penelitian sebelumnya, guerilla, relasi, atau outsourcing etc
+
+
+        
+
+2. menyusun discussion guide
+3. melatih cara  membawakan sesi riset kualitative
+4. melakukan persiapan teknis
+
+
+
+# persiapan Usability Testing
+  
+    usabiliity testing teknis:
+    laptop, ipad, smartphone, recorder, layar monitor, etc
+    ekspresi wajah direkam, suara, etc
+
+
+    indepth interview
+    smartphone, ipad, laptop, camera
+
+    1 moderator, 1 observer noteker, 1 responden
+
+
+    FGD
+    stickynotes, pena, pensil, ipad, camera, laptop, smartphone
+
+    cukupkan responden, janganterlalu banyak dalam satu ruangan, dan imbangi
+    cara agar responden merasa nyaman dan tidak terintimidasi
+    posisi duduk juga diatur,
+
+    
+
+
+# 
+

@@ -1,0 +1,77 @@
+Conducting A Qualitative Session
+
+# moderasi sesi kualitative
+
+1. perkenalan
+    izin merekam dengan sopan,
+
+2. sesi ice breaking
+    kenali responden dengan baik,
+    gimana cara bikin responden merasa nyaman (biar gak stranger)
+
+3. pembahasan topik utama
+    setel dalam mode mendengarkan
+
+4. penutup
+
+
+
+
+
+# spesifik untuk usability testing
+
+1. jelaskan maksud usability testing
+    kasih tahu, " bapak ibu diminta untuk lakukan apa yang saya instruksikan"
+    jangan ngjudge responden, leluasa untuk eksplorasi
+
+2. Think aloud protocol
+    minta responden untuk menggunakan apk sambil terus berpikir keras sampai menyelesaikan task
+    'gpp lama' 'coba lagi aja' 
+
+
+
+
+
+
+
+
+# do' s dan dont saat moderasi sesi kualitatif
+
+Do's
+- ciptakan welcoming atmosphere
+- fokus dan pasang mode mendengarkan
+- fokus pada si responden
+- biarkan si responden berpendapat
+- 
+
+
+Do'nt 
+- terburu-buru
+- menanyakan pertanyaan yang leading dari moderator
+- terlalu terpaku pada discussion guide
+- bercerita tentang diri sendiri
+- fokus mencatat dengan lengkap
+- hanya fokus pada responden tertentu
+
+
+
+
+
+# handling different types of responden
+
+- mulailah dengan sesuatu yang relevan dengan responden
+- beri respon untuk menunjukan empati
+- beri perhatian bagi responden
+
+
+
+
+# engage dengan stakeholders saat sesi kualitatif
+
+- berinteraksilah stakeholders dalam sesi research
+    batasi jumlah stakeholders, biar responden merasa nyaman
+
+- gak usah berikan status sosial agar responden tidak merasa terintimidasi
+
+- penataan ruangan
+- 
