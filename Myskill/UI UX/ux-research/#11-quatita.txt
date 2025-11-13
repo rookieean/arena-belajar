@@ -1,0 +1,62 @@
+Quantitative Research in UX
+
+
+
+# Survey Usage Introduction
+
+- Tujuan Survey
+    pertanyaan yang ditujukan untuk para koresponden
+    sampai mendapatkan simpulan yang membantu project
+
+
+- advantages & disadvantages dari Survey
+
+
+- tantangan menggunakan survey 
+    menentukan kriteria target responden yang tepat,
+    mendapatkan response rate yang cukup,
+    menrancang pertanyaan kuesioner yang netral dan tidak bias
+
+
+
+- penggunaan utama survey
+    sizing,
+    prioritization,
+    measurable feedback
+
+
+
+- proses pelaksanaan survey
+    1. planning
+    2. questionere development
+    3. survey blast
+    4. technical analysis
+    5. reporting
+    6. sharing the report
+
+
+
+
+
+# Tools and Resources for Survey 
+
+- kuesioner(1/2)
+    pertanyaan yang sudah memiliki opsi
+
+- Tools survey
+    google form, surveymonkey, qualtrics
+
+- survey blast media
+    social media, email, app notif
+
+- incentive
+    pay per response, lucky draw
+
+- 
+
+
+
+
+
+
+
