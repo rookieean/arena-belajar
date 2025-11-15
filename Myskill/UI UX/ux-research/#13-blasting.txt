@@ -1,0 +1,23 @@
+// Blasting for a Survey
+
+# Mempersiapkan survey form: Do's & Dont'survey
+
+- luangkan waktu & fokus
+- uji coba pengisian survey terlebih dahulu
+- hindari membuat terlalu banyak halaman
+- mempersiapkan survey media
+
+
+
+# setelah datanya terkumpul
+
+- lakukan data cleaning!
+    di review kembali data yang hadir.
+
+
+- coding open ended response
+    mengkategorikan respon dari para koresponden
+
+
+
+

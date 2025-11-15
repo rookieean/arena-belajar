@@ -8,8 +8,37 @@ Preparing for a Survey
     - key information areas
     - methodology
     - sample specification
-    - timeline & budgetquestionnaire draft
+    - timeline & budget questionnaire draft
     
 
 
+
+
+
+
 # sampel spesification, timeline and budget
+
+1. sample criteria
+    mencari kriteria responden yang sesuai dengan project
+
+2. Sampling Technique
+
+    - probability Sampling
+        setiap responden memiliki peluang yang sama untuk terpilih dalam survey
+
+    - non-probability sampling
+        setiap responden tidak memiliki peluang yang sama untuk terpilih dalam survey
+
+3. Sample Size
+    sample calculator untuk menghitung sample size dengan mempertimbangkan population size, confidence level, dan margin of error
+
+
+
+
+
+
+
+# Study case: Arrange Research Plan for Survey 
+
+
+

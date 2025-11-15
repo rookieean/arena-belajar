@@ -1,0 +1,43 @@
+#
+
+# tipe variabel dan data
+
+variabel -> aspek yang dihitung
+data -> isi dari variabel
+
+
+tipe variabel
+
+- kategorikal
+    lokasi, pekerjaan, usia
+
+- numerical
+    pengeluaran perbulan, usia
+
+
+
+tipe-tipe data:
+
+nominal, ordinal, interval, ratio
+
+
+
+# Descriptive Statistic
+
+- Descriptive Statistics
+    mendeskripsikan atau menyampaikan informasi yang didapatkan dari data
+
+- Inferential Statistics
+    mendapatkan informasi dari suati sampel agar bisa digeneralisir ke keseluruhan populasi
+
+
+
+
+# Pivoting and Charting
+
+- Pivoting
+    merangkum data dalam spreedsheet
+
+- Charting
+    visualisasi data bentuk Charting
+
