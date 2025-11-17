@@ -1,0 +1,9 @@
+// Input/Output 
+
+
+RPM -> rotation per minute
+Piringan akan selalu berputar ketika computer menyala
+
+
+// Defrag
+
