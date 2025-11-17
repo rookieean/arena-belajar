@@ -1,0 +1,19 @@
+// Firewall dan Intrusion detection/prevention (IDS/IPS)
+
+# firewal -> tembok api yang berguna untuk sebagai pelindung dalam jaringan
+
+
+
+# Idiom OSI
+    A nak   application
+    P ak    presentation
+    S oleh  
+    T idak 
+    N akal 
+    D an
+    P intar  phsiycal
+
+
+# Generasi Firewall
+
+
