@@ -1,0 +1,21 @@
+// Crafting a Questionnaire
+
+
+
+# Questionnaire structure
+
+    - Opening
+        perkenalkan diri, jelaskan maksud survey ini dan penggunaan datanya. sebutkan juga durasi untuk menyelaraskan ekspektasi, dan sebutkan reward jika ada
+
+    - Questions
+        seluruh pertanyaan dalam reserach ini
+
+    - Closing
+        ucapan terima kasih untuk apresiasi responden
+        
+
+# Question types of Questionnaire
+
+# do's and don'ts when arrange a Questionnaire
+
+# study case: Arrange Questionnaire
