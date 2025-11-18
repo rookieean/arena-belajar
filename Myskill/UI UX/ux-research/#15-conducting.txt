@@ -1,14 +1,63 @@
 Conducting A Competitive Analysis
 
+
+
 # Planning: Identifying the competitors & defining the aspects
 
 1. Planning
 
     Understanding the objective(s)
+        - seberapa luas jangkauannya
+            tipe kompetitor
+
+        - apa saja fitur journey yang ingin dilihat?
+            siapa kompetitor dan target fiturnya
+
+        - aspek apa yang perlu ditelusuri?
+            daftar aspek dan pertanyaan yang akan difokuskan
+
+
     Identify the competitors
+        - Direct competitors
+            menawarkan produk dan layanan serupa ke target market yang sama. biasanya terdapat kompetisi dalam pricing.
+            Grab food
+        
+        - Indirect competitors
+            menaungi target market yang sama dengan tipe produk atau layanan yang berbeda, sehingga berkompetisi untuk menarik perhatian user
+            GoFood
+
+        - Other relevant competitors
+            memiliki target market dan tipe produk atau layanan yang berbeda, tetapi memiliki konsep yang relevan.
+            GoFood's recommendation algorithm
+
+            Tips
+            - list down semua kompetitor yang memiliki produk/fitur kamu saat ini dan sesuai dengan tujuan research
+            - prioritaskan 3-4 kompetitor
+            - x jangan dilist semua 100% dong
+
+
     Define the aspects
-    Choose a formar
-    
+    breakdown tujuan dan layanan yang sudah ditemukan menjadi aspek-aspek yang akan dilihat dan dibandingkan dengan kompetitor.
+        - fitur/journey
+
+        - aspek
+
+    Choose a format
+    memilih format Competitive Analysis akan kembali lagi ke tujuan research 
+
+
+
+
+
 2. Data Collection
+
+# Desk research
+
+    - eksplor apk competitors
+    - tak snapshot klo ada yang menarik 
+
+
+
+
 3. Reporting
 
