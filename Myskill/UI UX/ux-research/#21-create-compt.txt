@@ -1,1 +1,91 @@
 // Creating A Quantitative Research Report
+
+
+# Structure and Content Report
+
+1. Introduction
+
+    - background
+    - methodology
+    - demography
+    - key takeways
+
+2. Insights
+
+    memaparkan semua temuan data & insight yang sudah kita kumpulkan
+
+3. Recommendation
+
+    action items yang bisa dilakukan berdasarkan findings
+
+
+
+
+
+
+# kenapa kita perlu membuat report?
+
+- itu cara kita mengkomunikasikan temuan ke para stakeholders
+
+
+
+
+# part 1: Introduction
+
+- background
+    - alasan dilakukannya reserach ini dan data atau fakta pendukungnya
+    - jelaskan dalam paragraf singkat
+
+
+- objective
+    - tuliskan reserach objective yang sudah ditentukan dari tahap planning
+    -  sebaiknya dipecah menjadi beberapa point, tapi tidak lebih dari 5
+
+- methodology
+
+    - reserach methodology
+        metode yang digunakan
+        tools dan metode blast yang digunakan
+        periode pengumpulan data
+
+    - respondent criteria
+        karakteristik responden yang ditetapkan berdasarkan planning
+        total responden yang berhasil diperoleh dari survey
+
+    
+- Demography 
+
+    contoh:
+    range umur
+
+    key takeaways
+    rangkuman insight  utama dari temuan research kita.
+
+
+
+
+
+
+
+
+
+
+
+
+# part 2: Insights
+
+- Findings 
+    hal-hal yang kita deskripsikan berdasarkan observasi dari data yang diperoleh dari research
+
+
+- Insight
+    hasil interpretasi atau pemaknaan dari findings yang sudah ada.
+
+
+
+
+
+
+
+
+# part 3: Recommendation
