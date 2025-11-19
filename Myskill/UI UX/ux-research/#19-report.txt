@@ -14,8 +14,85 @@
         ucapan terima kasih untuk apresiasi responden
         
 
+
+
+
 # Question types of Questionnaire
 
+    - text block
+    - single choice
+    - multiple choice
+    - open ended
+    - NPS
+    - Raing
+    - single choice matrix
+    - multiple choice matrix
+    - open ended matrix
+    - slider
+    - form
+    - drop down list
+    - drag and drop
+    - ranking
+    - points allocation
+    - file
+    - number
+    - email
+    - date
+
+
+    // tipe pertanyaan: single answer & multiple answer
+
+    Single answer
+    "dari beberapa pilihan fitur berikut, fitur mana yang paling kamu sukai?"
+
+    Multiple answer
+    "Dari beberapa pilihan fitur berikut mana saja fitur yang pernah kamu gunakan?"
+
+
+
+    // tipe pertanyaan: Rating Scale
+        opsi skala dari range tertentu (1-4, 1-5, 1-10)
+
+    skala genap
+    "sangat tidak puas - tidak puas - puas - sangat puas"
+
+    skala ganjil
+    "sangat tidak setuju - tidak setuju - netral/biasa saja - setuju - sangat setuju"
+
+
+
+    // tipe pertanyaan: matrix
+
+    matrix
+    mengetahui tingkat kepuasan seseorang terhadap beberapa tipe fitur
+
+
+
+
+    // tipe pertanyaan: ranking
+
+    Ranking 
+    mengetahui urutan kepentingan dari keberadaan beberapa aspek dalam suatu fitur
+
+
+
+    // Tipe pertanyaan: number & open-ended
+
+    number
+    mengetahui rata-rata pengeluaran user untuk membeli makanan dalam sebulan
+
+    open-ended
+    "mengapa anda rutin menggunakan fitur tersebut?"
+
+
+
+
+
+
+
+
 # do's and don'ts when arrange a Questionnaire
+
+
 
 # study case: Arrange Questionnaire
