@@ -1,0 +1,64 @@
+// Competitive Analysis
+
+// Competitive Analysis Introduction
+
+
+- penggunaan Competitive Analysis
+    menangkap produk kompetitor dan membandingkannya dengan produk kita 
+
+
+- When to do 
+
+    - Tahap discovery
+        mendapatkan fitur baru
+
+    - Tahap testing
+        bisa juga melakukan usability testing, bisa juga menguju produk serupa milik kompetitor 
+
+    - Setelah product launching
+        memantau fitur kita dibandingkan kompetitor dan mengidentifikasi apabila muncul kompetisi baru
+
+
+- Steps to do
+
+    - Planning
+        - background & objective
+        - list of competitors
+        - aspek yang akan dibandingkan
+
+    - Data Collection
+        - mengumpulkan data terkait kompetitor
+        - analisis persamaan, perbedaan, atau ide yang muncul
+
+    - Reporting
+        - rangkum menjadi insight dan action items yang bisa dilakukan
+
+
+
+
+
+
+
+
+
+
+
+// Competitive Analysis Types
+
+1. Desk reserach
+
+data didapatkan dari mencoba menggunakan produk kompetitor dan menganlisis perbedaannya
+
+    - user journey comparison
+
+    - comparison chart
+        menyajikan fitur kompetitor secara side by side
+
+    - SWOT Analysis
+
+
+
+2. Desk reserach + primary data Collection to user
+
+data didapatkan dari menggunakan produk kompetitor, menganalisis perbedaannya, dan menanyakan pendapat user terhadap perbedaan tersebut.
+user suka fitur yang mana 

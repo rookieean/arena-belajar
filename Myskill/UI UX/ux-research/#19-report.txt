@@ -95,4 +95,71 @@
 
 
 
+// Do's 
+
+- tentukan tipe pertanyaan yang paling tepat
+    contoh:
+    ingin mengetahui topik pembelajaran yang diminati user dalam e-learning
+    pakai multiple answer, agar lebih banyak opsi 
+
+
+- gunakan bahasa umum yang mudah dipahami user
+    contoh:
+    ingin mengetahui presepsi user terhadap materi generasi soft  skill
+
+    "bagaimana pendapat kamu terhadap adanya materi general soft skill dalam dunia pekerjaan di platform e-learning
+
+
+- mulai dari pertanyaan yang lebih umum terlebih dahulu
+    baru kemudian mengerucut ke pertanyaan yang lebih spesifik
+
+- perhatikan durasi survey
+    sebisa mungkin hindari banyak pertanyaan
+
+
+
+
+
+// dont
+
+- hindari dua makna dalam satu pertanyaan 
+
+    salah:
+    "bagaimana pendapat kamu tentang opsi metode pembayaran dan kelancaran proses pembayaran dari aplikasi ini?"
+
+    baik:
+    "bagaimana pendapat kamu tentang opsi metode pembayaran dari aplikasi ini?"
+    "bagaimana pendapat kamu terkait kelancaran proses pembayaran di aplikasi ini?"
+
+
+- hindari leading question 
+
+    salah:
+    "apakah kamu akan kecewa jika fitur ini dihilangkan? ya/tidak"
+    "bagaimana perasaanmu apabila fitur ini dihilangkan? kecewa/biasa saja/senang"
+
+
+
+
+Membuat opsi jawaban: do's & donts
+
+- prediksi kemungkinan jawaban yang relevan dari responden
+
+- pastikan setiap opsi berdiri sendiri dan tidak saling redundant
+
+- jika perlu, sertakan opsi "lainnya" untuk membuka jawaban atau "tidak satupun di atas" jika ada pilihan jawaban yang mungkin tidak sesuai dengan responden
+
+- sebisa mungkin randomize posisi opsi jawaban
+
+x hindari memberi terlalu banyak opsi
+
+
+
+- Menggunakan Logic atau Routing jawaban
+
+
+
+
+
+
 # study case: Arrange Questionnaire

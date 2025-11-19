@@ -35,7 +35,70 @@ untuk mempermudah pendokumentasikan research impact, ada beberapa cara yang dapa
 
 
 
-Creating A Quantitative Research Report
+
+// Skills yang dibutuhkan seorang UX Researcher
+
+- Hard Skills
+    - pemahaman teori riset
+    - penguasaan teknik pengumpulan dan analisis data
+
+- Soft Skills
+    - komunikasi dan kolaborasi
+    - planning and organizing
+    - berpikir kritis
+
+
+
+
+
+
+// Learning Sources UX
+
+- Text Books
+
+    Observing the user experience
+    just enough research 
+    it's our research 
+
+
+- Medium artikel
+
+- YT
+    NNgroup, Kevin Liang 
+
+
+
+
+
+
+// UX Protfolio
+
+
+Komponen umum dalam UX Research
+
+- produk/klien
+- research question atau problem statement
+- hipotesis
+- metode dan proses riset
+- temuan riset
+- kesimpulan
+
+
+
+
+
+
+Sumber ide riset untuk Protfolio
+
+- masalah sehari-hari
+- review di google play atau app stakeholders
+- perbincangan di media sosial
+- surat pembaca
+- dsb
+
+
+
+
 
 
 
