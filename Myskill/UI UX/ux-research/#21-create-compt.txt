@@ -82,10 +82,16 @@
     hasil interpretasi atau pemaknaan dari findings yang sudah ada.
 
 
-
+- 
 
 
 
 
 
 # part 3: Recommendation
+
+- buat rekomendassi yang sesuai dengan research objectives atau menjawab apa yang dipertanyakan dalam research ini
+
+- refer kembali ke key takeaways atau insight yang ada, 
+
+- 
