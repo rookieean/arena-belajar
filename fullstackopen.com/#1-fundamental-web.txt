@@ -1,1 +1,25 @@
 // Fundamental of web app
+
+
+* Web dan server berkomunikasi melalui HTTP,
+  kita bisa melihat cara mereka berkomunikasi dengan:
+  - devtools inspect
+  - buka 'network'
+  - centang 'Preserve log' berguna untuk menyimpan log apk ketika dijalankan
+  - disana terlihat bahwa browser GET ke server, server RESPOND, web GET, dan sts
+
+
+* Ketika di render, browser akan langsung mengambil rincian dokumen HTML
+  
+* segera setelah browser mengambil tag skrip, kode langsung dieksekusi
+
+* Model Objek Dokumen, atau DOM , adalah Antarmuka Pemrograman Aplikasi ( API ) 
+  yang memungkinkan modifikasi terprogram pada pohon elemen yang sesuai dengan halaman web.
+
+* Peramban adalah frontend, dan JavaScript yang berjalan di peramban adalah kode frontend.
+  Di sisi lain, server adalah backend
+
+* pengembangan web full-stack berarti kita berfokus pada semua bagian aplikasi:
+  front-end, back-end, dan basis data.
+
+* 

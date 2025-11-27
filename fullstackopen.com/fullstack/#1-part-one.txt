@@ -1,0 +1,19 @@
+A. Introduction to REACT
+
+
+
+// masalah script disabled di windows
+
+ketik di terminal
+1. set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+2. Get-ExecutionPolicy 
+3. Get-ExecutionPolicy -list
+
+
+
+
+// masalah npm error enoent
+
+1. karena REACT nya belum di install...!!!
+2. Instal dulu 'npm create vite@latest nama-folder
+3.
