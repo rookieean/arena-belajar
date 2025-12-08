@@ -17,3 +17,66 @@
 # Generasi Firewall
 
 
+
+
+
+
+
+// Pertemuan 15
+
+Network Monitoring dan Optimization (Pemantauan dan OpƟmisasi Jaringan)
+
+*Netflow -> analisis jaringan dari cisco, utk memantau (router-switch)
+    yang menggunakan bandwith akan terlihat,
+    kapan puncak bandwith,
+
+
+*Topologi ( arsitektur jaringan )
+
+*Delay (latensi) -> pelambatan dalam jaringan 
+
+*Metrik apk -> kalkulator jaringan, ketikan ping dalam cmd,  
+    jika delay, sometims is not about server, i cs the length of networking itself, 100mb or just 1 gb
+
+*gathering -> data dari network 
+
+*eliminasi dan diagnosis -> 
+
+*NA, network administrator -> akan menganalisis keseluruhan laporan jaringan
+
+
+
+
+*Tools
+    1. Cmd -> ping 
+    2. traceroute -> dibawa ke mana saja packet data tersebut
+    3. wireshark -> menangkap data detilnya seperti apa 
+
+
+Dokumentasikan jaringan, melaporkan 
+Agar bisa di pelajari di kemudain hari
+
+
+bandwith optimization -> mengotomatisasi bandwidth dengan tepat
+
+Perencanaan jaringan, agar bisa teroganisir dengan baik.
+
+
+
+
+
+
+
+// Rekapitulasi setiap pertemuan 
+
+frekuensi hotspot, tidak bisa dari frekuensi yang berbeda.
+
+2 ghz == 2 ghz
+
+
+
+Database distributed, 
+basis datanya sama utk company, agar bisa diakses oleh si company
+intranet == company jaringan 
+
+
