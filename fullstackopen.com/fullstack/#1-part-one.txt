@@ -43,3 +43,26 @@ filosofi react, menyusun apk dari banyak komponent agar dapat digunakan kembali.
 
 
 * properti (prop) => meneruskan data ke komponent
+
+* Terus buka consol agar selalu uptodate tentang error yang terjadi di browser, 
+  dan bisa langsung hentikan menulis program, dan langsung mencari letak kesalahannya,
+  tanpa gpl coy
+
+* usahakan untuk console.log setiap menulis react,
+  
+* huruf pertama nama komponen React harus ditulis dengan huruf kapital 
+
+* ketika gak pakai div,
+  akan membuat pesan kesalahan, dan kode terlihat lebih jelek
+  ada solusi kalau gak mau  pakai  div, (elemen akar)
+
+
+* react hanya render isi angka dan string
+
+Kemajuan yang hati-hati dan bertahap mungkin tampak lambat, 
+tetapi sebenarnya itu adalah cara tercepat untuk maju. 
+Pengembang perangkat lunak terkenal Robert "Uncle Bob" Martin pernah menyatakan hal ini.
+
+"Satu-satunya cara untuk melaju cepat adalah dengan melaju dengan baik"
+
+
