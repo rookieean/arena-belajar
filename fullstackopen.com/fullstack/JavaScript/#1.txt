@@ -1,0 +1,12 @@
+// JavaScript
+
+Node adalah lingkungan runtime untuk JavaScript.
+Tidak semua browser bisa menjalankan JavaScript. cara paling mudah dengan transpiling dengan babel. 
+
+* cara compile dengan node adalah = node nama_file.js 
+
+// const, tetap bisa mengubah isi, tetap bisa memodifikasi. 
+  Analoginya, bayangkan seperti mengganti furnitur di dalam rumah, 
+  sementara alamat rumah tetap sama
+
+  

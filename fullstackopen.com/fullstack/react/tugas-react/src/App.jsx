@@ -55,6 +55,14 @@ const App = () => {
   }
 
 
+  // javascript
+  const js = () => {
+    return (
+      <p></p>
+    )
+  }
+
+
 
   // nampilin setiap komponent yang disusun sebelumnya
   return (
