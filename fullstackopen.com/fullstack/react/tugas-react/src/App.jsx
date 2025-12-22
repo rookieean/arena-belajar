@@ -1,77 +1,53 @@
 const App = () => {
-  const course = 'Half Stack application development'
-  const part1 = 'Fundamentals of React'
-  const exercises1 = 10
-  const partDua = 'Using props to pass data'
-  const exercisesDua = 7
-  const partTiga = 'State of a component'
-  const exercisesTiga = 14
-
-  // komponent Part
-  const Part = () => {
-    return (
-      <p>{part1} {exercises1}</p>
-    )
+  const course = 'Half Stack Application Development'
+  const parts = {
+    name: 'Fundamentals of React',
+    exercises: 10
   }
-
-  // komponent Part2
-  const PartDua = () => {
-    return (
-      <p>{partDua} {exercisesDua}</p>
-    )
+  const parts2 = {
+    name: 'Using props to pass data',
+    exercises: 7
   }
-
-  // komponent Part3
-  const PartTiga = () => {
-    return (
-      <p>{partTiga} {exercisesTiga}</p>
-    )
+  const parts3 = {
+    name: 'State of a component',
+    exercises: 14
   }
+  
 
-  // Komponent Content
-  const Content = () => {
-    return (
-      <div>
-        <Part part={part1} />
-        <PartDua part={partDua} />
-        <PartTiga part={partTiga} />
-      </div>
-    )
-  }
 
-  // Komponent Header
+
+// Header Komponent   
   const Header = () => {
     return (
       <h1>{course}</h1>
     )
   }
 
-
-  // Komponent Total
-  const Total = () => {
-    return (
-      <p>Number of exercises {exercises1 + exercisesDua + exercisesTiga}</p>
-    )
-  }
-
-
-  // javascript
-  const js = () => {
-    return (
-      <p></p>
-    )
-  }
-
-
-
-  // nampilin setiap komponent yang disusun sebelumnya
+// Kontent Komponent
+const Content = () => {
   return (
-    <div>
-      <Header />
-      <Content />
-      <Total />
-    </div>
+    <p>Materinya adalah {parts.name}, {parts2.name}, {parts3.name}</p>
   )
+}
+
+// Total komponent 
+const Total = () => {
+  return (
+    <p>Total exercises: {parts.exercises + parts2.exercises + parts3.exercises}</p>
+  )
+}
+
+
+
+
+// export isi App 
+return (
+  <div>
+    <Header course={course} />
+    <Content parts={parts} />
+    <Total exercises={parts.exercises + parts2.exercises + parts3.exercises} />
+  </div>
+)
 }
 
 export default App

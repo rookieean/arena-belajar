@@ -171,14 +171,40 @@
 
 // react juga bisa render array, selama itu angka/string,
 // walaupun hasilnya tidak  sesuai dengan yang kita inginkan
-const App = () => {
-  const friends = ['Peter', 'Maya']
+// const App = () => {
+//   const friends = ['Peter', 'Maya']
 
-  return (
-    <div>
-      <p>{friends}</p>
-    </div>
-  )
+//   return (
+//     <div>
+//       <p>{friends}</p>
+//     </div>
+//   )
+// }
+
+
+
+
+
+
+
+
+// latihan pakai this pada objek
+const arto = {
+  name: 'Ananda Kami',
+  age: 18,
+  education: 'High School',
+  greet: function() {
+    console.log('Hello, my name is' + this.name)
+  },
 }
+
+arto.growOlder = function() {
+  this.age += 1
+}
+
+console.log(arto.name)
+arto.growOlder()
+console.log(arto.age)
+
 
 export default App

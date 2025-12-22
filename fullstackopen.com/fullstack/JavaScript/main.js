@@ -83,4 +83,67 @@ const kotak = function (p, l) {
 console.log(kotak(2, 8))
 
 
-// 
+
+
+
+
+
+
+
+
+
+// latihan pakai this pada objek
+const arto = {
+  name: 'Ananda Kami',
+  age: 18,
+  education: 'High School',
+  greet: function() {
+    console.log('Hello, my name is' + this.name)
+  },
+  doAddition: function(a, b) {
+    console.log(a + b)
+  },
+}
+
+arto.growOlder = function() {
+  this.age += 1
+}
+
+const referenceToAddition = arto.doAddition
+referenceToAddition(10, 15)
+console.log(arto.name)
+arto.growOlder()
+console.log(arto.age)
+
+// mengatur waktu untuk dipanggil dalam menit yang tepat
+setTimeout(arto.greet, 1000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// simulasi kelas pakai js
+class Person {
+    constructor(name, age) {
+        this.name = name
+        this.age = age
+    }
+    greet() {
+        console.log('hello, my name is' + ' ' + this.name)
+    }
+}
+
+const adam = new Person('Adam', 20)
+adam.greet()
+
+const jj = new Person('Asiah', 20)
+jj.greet()
