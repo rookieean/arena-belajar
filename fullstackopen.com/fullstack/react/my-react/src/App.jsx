@@ -185,26 +185,79 @@
 
 
 
+// fungsi dalam fungsi react yang lumrah, ver aku bikin
+
+// const Hello = (props) => {
+//     const bornYear = () => {
+//         const yearNow = new Date().getFullYear()
+//         yearNow - props.age
+//     }
+
+// }
+
+
+// const App = () => {
+//     const name = 'Peter'
+//     const age = 25
+
+//     return (
+//         <div>
+//             <h1>Greetings</h1>
+//             <Hello name={name} age={age} />
+//         </div>
+//     )
+// }
 
 
 
-// latihan pakai this pada objek
-const arto = {
-  name: 'Ananda Kami',
-  age: 18,
-  education: 'High School',
-  greet: function() {
-    console.log('Hello, my name is' + this.name)
-  },
+
+// const Hello = (props) => {
+//   return (
+//     <div>
+//       <p>
+//         Hello {props.name}, you are {props.age} years old
+//       </p>
+//     </div>
+//   )
+// }
+
+
+
+
+
+
+// fungsi dalam fungsi, dari materi
+const Hello = (props) => {
+
+  const bornYear = () => {
+    const yearNow = new Date().getFullYear()
+    return yearNow - props.age
+  }
+
+  return (
+    <div>
+      <p>
+        Hello {props.name}, you are {props.age} years old
+      </p>
+
+      <p>So you were probably born in {bornYear()}</p>
+    </div>
+  )
 }
 
-arto.growOlder = function() {
-  this.age += 1
+const App = () => {
+  const name = 'Peter'
+  const age = 10
+
+  return (
+    <div>
+      <h1>Greetings</h1>
+      <Hello name="Maya" age={26 + 10} />
+      <Hello name={name} age={age} />
+    </div>
+  )
 }
 
-console.log(arto.name)
-arto.growOlder()
-console.log(arto.age)
 
 
 export default App

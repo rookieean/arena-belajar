@@ -9,4 +9,10 @@ Tidak semua browser bisa menjalankan JavaScript. cara paling mudah dengan transp
   Analoginya, bayangkan seperti mengganti furnitur di dalam rumah, 
   sementara alamat rumah tetap sama
 
-  
+
+
+* di js 'this' deidefinisikan berdasarkan cara metode tersebut dipanggil. 
+
+
+* js tidak memiliki kelas seperti dalam oop
+  tapi bisa melakukan simulasi kelas
