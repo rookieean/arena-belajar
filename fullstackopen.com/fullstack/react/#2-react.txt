@@ -8,3 +8,33 @@ dia lari ke mana aja,
 ngapain aja
 console.log -> biar kita tahu history perjalanan kodemu apa aja
 
+// tips debugging react
+1. console selalu terbuka, agar kita bisa memperbaikai error tepat waktu selama menulis kode.
+2. gunakan 'console.log' untuk melihat output kode
+3. cara menulis konsol yang baik, consol.log('ini yang keluar' , props) dripda console.log('ini' + props)
+
+4. cara lain, ketik 'debugger' di devtools agar bisa langsung menghentikan kode programnya, bisa ditulis dimana aja.
+   setelah  bugnya ketemu, bisa dihapus 'debugger' nya dan refresh halaman
+
+Debugger juga memungkinkan kita untuk mengeksekusi kode kita baris demi baris dengan kontrol yang terdapat di sisi kanan tab Sumber .
+Anda juga dapat mengakses debugger tanpa perintah debugger dengan menambahkan breakpoint di tab Sumber . Memeriksa nilai variabel komponen dapat dilakukan di bagian
+
+
+Sangat disarankan untuk menambahkan ekstensi React developer tools ke Chrome. 
+Ekstensi ini menambahkan tab Komponen baru ke developer tools. 
+Tab developer tools yang baru dapat digunakan untuk memeriksa berbagai elemen React dalam aplikasi,
+ beserta state dan props-nya:
+
+
+
+
+
+
+Sumpah Programmer Web
+Pemrograman itu sulit. Karena itulah, sebagai seorang pengembang, saya akan menggunakan segala cara yang mungkin untuk mempermudahnya.
+
+Saya akan selalu membuka konsol pengembang peramban saya.
+Saya akan maju selangkah demi selangkah, memastikan bahwa kode saya berfungsi di setiap langkahnya.
+Saya akan menulis banyak pernyataan console.log untuk memastikan saya memahami bagaimana kode tersebut bekerja dan untuk membantu mengidentifikasi masalah.
+Jika kode saya tidak berfungsi, saya tidak akan menulis kode lagi. Sebaliknya, saya akan mulai menghapus kode tersebut sampai berfungsi atau kembali ke keadaan di mana program saya sebelumnya berfungsi.
+Saat meminta bantuan di saluran Discord kursus atau di tempat lain, saya akan merumuskan pertanyaan saya dengan benar. Lihat bagian ini untuk mempelajari cara meminta bantuan.

@@ -1,5 +1,4 @@
 import { useState } from 'react'
-
 const App = () => {
 
   // state counter -> menetapkan nilai counter
@@ -41,5 +40,6 @@ const App = () => {
     </div>
   )
 }
+
 
 export default App

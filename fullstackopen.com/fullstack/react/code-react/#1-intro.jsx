@@ -141,4 +141,158 @@ const App4 = () => {
 
 
 
-// 
+// simulasi state, etc
+const App5 = () => {
+
+  // state counter -> menetapkan nilai counter
+  const [ counter, setCounter ] = useState(0)
+  console.log('melihat state', counter)
+  
+  // fungsi untuk mengubah state counter
+  const increaseByOne = () =>{
+    console.log('tambah di track', counter)
+    setCounter(counter + 1)
+  } 
+  const decreaseByOne = () => setCounter(counter - 1)
+  const setToZero = () => setCounter(0)
+
+  // komponennya
+  const Display = ({ counter }) => <div>{ 'penghitung mulai' + ' ' + counter}</div>
+  const Button = ({ onClick, text }) => (
+    <button onClick={onClick}>
+      {text}
+    </button>
+  )
+
+  return (
+    <div>
+      <Display counter={counter} />
+
+      <Button
+        onClick={increaseByOne}
+        text='plus'
+      />
+      <Button
+        onClick={setToZero}
+        text='zero'
+      />     
+      <Button
+        onClick={decreaseByOne}
+        text='minus'
+      />           
+    </div>
+  )
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+// aturan penggunaa hook, (yang udah pernah kita pelajari 'useState')
+const App6 = () => {
+  // these are ok
+  const [age, setAge] = useState(0)
+  const [name, setName] = useState('Juha Tauriainen')
+
+  if ( age > 10 ) {
+    // this does not work!
+    const [foobar, setFoobar] = useState(null)
+  }
+
+  for ( let i = 0; i < age; i++ ) {
+    // also this is not good
+    const [rightWay, setRightWay] = useState(false)
+  }
+
+  const notGood = () => {
+    // and this is also illegal
+    const [x, setX] = useState(-1000)
+  }
+
+  return (
+    <div>
+        //...
+    </div>
+  )
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// tidak menulis komponent di dalam komponent
+
+// This is the right place to define a component
+const Button = (props) => (
+  <button onClick={props.onClick}>
+    {props.text}
+  </button>
+)
+
+const App8 = () => {
+  const [value, setValue] = useState(10)
+
+  const setToValue = newValue => {
+    console.log('value now', newValue)
+    setValue(newValue)
+  }
+
+  // Do not define components inside another component
+
+  const Display = props => <div>{props.value}</div>
+
+  return (
+    <div>
+
+      <Display value={value} />
+      <Button onClick={() => setToValue(1000)} text="thousand" />
+      <Button onClick={() => setToValue(0)} text="reset" />
+      <Button onClick={() => setToValue(value + 1)} text="increment" />
+    </div>
+  )
+}
+
+
+// cara yang benar adlh taruh display di luar App 
+const Display = props => <div>{props.value}</div>
+
+const Button2 = (props) => (
+  <button onClick={props.onClick}>
+    {props.text}
+  </button>
+)
+
+const App9 = () => {
+  const [value, setValue] = useState(10)
+
+  const setToValue = newValue => {
+    console.log('value now', newValue)
+    setValue(newValue)
+  }
+
+  return (
+    <div>
+      <Display value={value} />
+      <Button onClick={() => setToValue(1000)} text="thousand" />
+      <Button onClick={() => setToValue(0)} text="reset" />
+      <Button onClick={() => setToValue(value + 1)} text="increment" />
+    </div>
+  )
+}
