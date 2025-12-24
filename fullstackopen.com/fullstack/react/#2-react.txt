@@ -1,0 +1,10 @@
+* menulis fungsi di dalam fungsi dalam javascript adalah lumrah, sedang tidak semua begitu
+  d\sedang di java akan lebih rumit
+
+
+fungsi console
+tracking apa aja yang dilakukan oleh kodemu,
+dia lari ke mana aja, 
+ngapain aja
+console.log -> biar kita tahu history perjalanan kodemu apa aja
+
