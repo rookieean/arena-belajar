@@ -1,0 +1,43 @@
+c. Mengambil data dari server
+
+* ketik di terminal, menggunakan JSON server
+
+npx json-server --port 3001 db.json
+
+untuk  mengaktifkan JSON server
+
+
+* indikator program menggunakan npm adalah, 
+  adanya file 'package.json' di root file
+
+* perintah npm harus selalu di jalankan di root file,
+  dimana file package.json bisa ditemukan
+
+
+
+
+// install npm
+
+1. install axios
+- npm install axios
+
+2. install json-server
+- npm install json-server --save-dev
+
+3. menjalankan server
+- npm run server
+
+
+
+// istilah
+
+fetch -> mengambil data dari server
+promise -> objek yang merepresentasikan proses asinkron yang belum selesai
+localhost -> komputer lokal yang digunakan sebagai server
+
+
+
+
+
+
+d. mengubah data di server

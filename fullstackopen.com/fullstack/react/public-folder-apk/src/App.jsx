@@ -1,45 +1,32 @@
 import { useState } from 'react'
-const App = () => {
+import Note from './components/Note'
 
-  // state counter -> menetapkan nilai counter
-  const [ counter, setCounter ] = useState(0)
-  console.log('melihat state', counter)
-  
-  // fungsi untuk mengubah state counter
-  const increaseByOne = () =>{
-    console.log('tambah di track', counter)
-    setCounter(counter + 1)
-  } 
-  const decreaseByOne = () => setCounter(counter - 1)
-  const setToZero = () => setCounter(0)
 
-  // komponennya
-  const Display = ({ counter }) => <div>{ 'penghitung mulai' + ' ' + counter}</div>
-  const Button = ({ onClick, text }) => (
-    <button onClick={onClick}>
-      {text}
-    </button>
+const App = (props) => {
+  const [notes, setNotes] = useState(props.notes)
+  const [newNote, setNewNote] = useState(
+    'a new note'
   )
+
+  const addNote = (event) => {
+    event.preventDefault()
+    console.log('button clicked', event.target)
+  }
 
   return (
     <div>
-      <Display counter={counter} />
-
-      <Button
-        onClick={increaseByOne}
-        text='plus'
-      />
-      <Button
-        onClick={setToZero}
-        text='zero'
-      />     
-      <Button
-        onClick={decreaseByOne}
-        text='minus'
-      />           
+      <h1>Notes</h1>
+      <ul>
+        {notes.map(note => 
+          <Note key={note.id} note={note} />
+        )}
+      </ul>
+      <form onSubmit={addNote}>
+        <input />
+        <button type='submit'>save</button>
+      </form>
     </div>
   )
 }
 
-
-export default App
+export default App 
