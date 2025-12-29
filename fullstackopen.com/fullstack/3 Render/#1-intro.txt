@@ -41,3 +41,19 @@ localhost -> komputer lokal yang digunakan sebagai server
 
 
 d. mengubah data di server
+
+
+--?
+
+
+janji fullstack
+Pengembangan full stack sangat sulit , oleh karena itu saya akan menggunakan semua cara yang mungkin untuk mempermudahnya.
+
+Saya akan selalu membuka konsol pengembang browser saya.
+Saya akan menggunakan tab jaringan pada alat pengembang browser untuk memastikan bahwa frontend dan backend berkomunikasi sesuai harapan saya.
+Saya akan terus memantau kondisi server untuk memastikan bahwa data yang dikirimkan oleh frontend tersimpan di sana sesuai harapan saya.
+Saya akan maju dengan langkah-langkah kecil.
+Saya akan menulis banyak pernyataan console.log untuk memastikan saya memahami bagaimana kode tersebut bekerja dan untuk membantu mengidentifikasi masalah.
+Jika kode saya tidak berfungsi, saya tidak akan menulis kode lagi. Sebaliknya, saya mulai menghapus kode tersebut sampai berfungsi atau kembali ke keadaan di mana semuanya masih berfungsi.
+Saat saya meminta bantuan di saluran Discord kursus atau di tempat lain, saya merumuskan pertanyaan saya dengan benar, lihat di sini cara meminta bantuan.
+Latihan 2.12.-2.15.

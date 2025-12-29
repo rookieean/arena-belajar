@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import Footer from './components/Footer'
 
 const App = () => {
   const [persons, setPersons] = useState([
@@ -19,6 +20,7 @@ const App = () => {
       </form>
       <h2>Numbers</h2>
       ...
+      <Footer />
     </div>
   )
 }
