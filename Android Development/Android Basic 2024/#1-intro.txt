@@ -1,0 +1,9 @@
+- Activity main = komponen fundamental yang merepresentasikan satu layar tempat pengguna berinteraksi dengan aplikasi Anda, 
+                  bertindak sebagai "wadah" untuk antarmuka pengguna (UI) dan logika di belakang layar, seperti menampilkan data, 
+                  menerima input pengguna (klik tombol, isi formulir), dan berpindah antar layar (layar masuk, layar detail, dll.). 
+                  Setiap aplikasi bisa memiliki banyak Activity, dan masing-masing memiliki siklus hidupnya sendiri (lifecycle), 
+                  mulai dari dibuat hingga dihancurkan. 
+
+
+- lifecycle main = siklus dari apk itu sendiri, dari start (ketika user buka), 
+                   dijalankan (running), sampai user destroy (menghapus dari memori sementara)
