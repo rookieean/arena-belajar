@@ -7,3 +7,18 @@
 
 - lifecycle main = siklus dari apk itu sendiri, dari start (ketika user buka), 
                    dijalankan (running), sampai user destroy (menghapus dari memori sementara)
+
+- SDK = software development kit, alat peralatan untuk membuat code tertentu
+
+- NPM = node package manager, kurir/ sistem distribusi yang mengambil kotak peralatan tersebut.
+
+Analogi NPM Unik:
+Analogi yang paling mudah untuk memahami NPM (Node Package Manager) adalah seperti Toko Bangunan atau Gudang Suku Cadang bagi seorang teknisi.
+Berikut adalah rincian analoginya:
+
+NPM Registry (Gudang Pusat): Bayangkan sebuah gudang raksasa yang berisi jutaan komponen siap pakai (seperti baut, engsel, pintu, hingga sistem alarm). Dalam pemrograman, komponen ini disebut package atau library.
+package.json (Daftar Belanja): Saat Anda ingin membangun rumah (proyek), Anda mencatat semua bahan yang dibutuhkan dalam sebuah daftar. File ini memberi tahu sistem barang apa saja yang harus diambil dari gudang agar proyek Anda bisa berjalan.
+Perintah npm install (Kurir): Ini adalah instruksi untuk memanggil kurir agar mengambilkan semua bahan yang ada di "Daftar Belanja" tadi dari "Gudang Pusat" dan mengantarkannya langsung ke lokasi proyek Anda.
+node_modules (Kotak Peralatan di Lokasi): Setelah kurir datang, semua bahan diletakkan di sebuah kotak besar di lokasi proyek. Anda tinggal mengambilnya dan memasangnya tanpa harus membuat baut atau pintu sendiri dari nol. 
+Intinya:
+Daripada Anda membuat fungsi rumit dari awal (seperti membuat ban sendiri saat ingin merakit mobil), Anda cukup mengambil "ban" yang sudah dibuat orang lain di NPM dan memasangnya ke "mobil" (kode) Anda.

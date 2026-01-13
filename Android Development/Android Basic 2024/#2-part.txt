@@ -1,0 +1,13 @@
+1. Memastikan Flutter
+
+- flutter doctor
+
+Agar kita tahu component apa yang sudah terpasang, seperti emulator, dll
+
+
+2. Membuat Project Flutter
+
+- flutter create nama_file_project
+- cd nama_file_project
+- code..
+- flutter run
