@@ -8,6 +8,19 @@ Agar kita tahu component apa yang sudah terpasang, seperti emulator, dll
 2. Membuat Project Flutter
 
 - flutter create nama_file_project
+    
+    logika apk ada di lib/main.dart
+
 - cd nama_file_project
 - code..
 - flutter run
+
+
+3. Jika Merah terus menerus
+
+- flutter clean
+- flutter pub get
+    fngsi: mengunduh semua library (package) yang dibutuhkan oleh Flutter agar kode tidak error
+
+    file pubspec.yml adalah 'daftar belanja' untuk mengunduh library bagi proyek codeku
+    tulis dibawah dependencies: ->
