@@ -85,7 +85,10 @@ fun main() {
 
 
 
-    // 
+    // concatenate in kotlin
+    var namaPertama = "Jono"
+    var namaTengah = "Asparin"
+    println("Nama tetanggaku adalah $namaPertama $namaTengah")
 
 }
 
@@ -94,6 +97,10 @@ fun main() {
     program harus di taruh di { }, diluar itu dia gak mau
     dia hanya berjalan di function main() jika ada fungsi lain di gak ngejalanin
     output code akan ada di 'Output' terminal, pakai ekstensi code runner 
+
+    klo pake $ gak perlu kuatir sama spasi deh..
+
+    
 
 */
 
