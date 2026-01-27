@@ -35,3 +35,31 @@ const duplikasi2 = JSON.parse(JSON.stringify(arrayBosSaya)) // cara ini juga bis
 
 console.log({arrayBosSaya})
 console.log({duplikasi})
+
+
+
+
+
+// array bisa berisi apa aja
+
+const arrayBisaApaAja = [
+    '🧑🏻',
+    {
+        tomato: function() {
+        console.log("ini function tomato")
+    },
+  },
+    ['eat', 'food'],
+ ]
+
+ // memanggil function tomato beserta isinya
+ arrayBisaApaAja[1].tomato
+
+
+
+
+
+
+
+
+ 
