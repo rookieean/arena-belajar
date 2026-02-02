@@ -1,0 +1,42 @@
+Saat pertama kali config project android studio
+
+1. Minimum SDK
+
+    Backward Compatible = aplikasi lama bisa jalan di HP baru, 
+    tapi aplikasi baru belum tentu bisa jalan di HP lama.
+    Artinya: 
+    klo pilih API 27 yang hp keluaran baru API 36 bisa jalan
+    klo pilih API 36 yang hp lama 27, 28 gak bakal bisa jalan.
+    nanti akan ada tulisan 
+    " Your app will run on approximately 30% of devices" artinya yang bisa pake appmu
+    cuma 30% di dunia.
+    "klo 100% semua orang bisa pake"
+
+
+
+
+
+2. Build configuration language
+
+    Ia bertugas mengatur library apa yang mau di-import,
+    versi Android yang disasar, hingga cara aplikasi dibungkus menjadi APK.
+
+    bahasa yang kamu gunakan untuk menulis file pengaturan proyek (file build.gradle).
+
+    ada 2 pilihan saat memilih
+
+    1. Kotlin DSL (build.gradle.kts)
+
+        menulis konfigurasi menggunakan bahasa Kotlin.
+        Ini pilihan default standar sekarang
+
+    2. Groovy DSL (build.gradle)
+
+        Menggunakan bahasa Groovy (mirip Java tapi lebih ringkas)
+        Ini versi lama
+
+
+
+
+
+3. 
