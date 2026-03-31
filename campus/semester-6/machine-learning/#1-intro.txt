@@ -1,0 +1,28 @@
+Pertemuan 3, 31 Maret 2026
+
+
+Machine Learning
+
+    6 langkah diagnosis data
+
+        - dimensi data
+        - statistik deskriptif
+        - distribusi fitur
+        - korelasi antar fitur
+        - identifikasi missing values
+        - distribusi kelas 
+
+
+    strategi dalam pengumpulan data
+
+    - median, narasumber warga sekitar, statistika model,
+    - selalu seimbangkan data, bisa saja ada satu model saja yang di simpulkan oleh mesin
+      
+    
+
+    Kesimpulan
+
+    dalam proses pengumpulan data memerlukan penanganan yang baik 
+    agar bisa memberikan hasil yang lebih optimal,
+    
+

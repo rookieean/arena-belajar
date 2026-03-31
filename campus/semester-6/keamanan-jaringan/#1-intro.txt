@@ -1,0 +1,66 @@
+Pertemuan ... 30 Maret 2026
+
+
+
+Cipher
+cryptography -> simetris dan asimetris
+128 bit versi
+
+
+~ Logika dalam algoritma cryptography
+
+- simetris = seimbang
+
+1. sub-bytes
+setiap karakter di ubah ke hexa 
+text -> hexa
+
+
+2. shift rows
+
+
+3. mixcolumns
+karakter dikalikan dengan array
+
+4. addround key
+setiap karakter di tambah dengan angka di round key
+
+
+
+
+
+Keamanan jaringan
+
+~ MTMT, DOS, DDOS
+
+~ Lanskap ancaman = serangan jaringan, software, sosial, dll
+
+~ Crawler, Google bot, spider =  It crawls billions of webpages daily, following links from page to page, similar to a search engine user, to build the searchable index
+
+~ optimalisasi web dengan SEM dan SEO
+
+~ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
