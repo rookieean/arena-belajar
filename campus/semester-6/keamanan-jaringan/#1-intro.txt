@@ -26,7 +26,7 @@ karakter dikalikan dengan array
 setiap karakter di tambah dengan angka di round key
 
 
-
+- asimetris 
 
 
 Keamanan jaringan

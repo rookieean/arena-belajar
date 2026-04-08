@@ -26,3 +26,9 @@ Machine Learning
     agar bisa memberikan hasil yang lebih optimal,
     
 
+    Cari data set sekitar
+    
+    - UC Machine Learning
+    - Kaggle
+    - 
+

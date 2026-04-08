@@ -1,0 +1,31 @@
+Pertemuan ... 01 Maret 2026
+
+
+
+4 akar masalah it tradisional
+
+- model kaku, arsitektur buruk, proses manual, politik silo
+- kerugian atas keterlambatan, para anggota tim yang menganggur panjang
+
+
+DevOps -> menjembatani sebuah kolaborasi tim
+contoh tools: docker, kubernetes, otomatisasi agile/CI
+
+
+framework DevOps dasar
+-alur
+-umpan balik
+-pembelajaran berkelanjutan
+
+
+DevOps memvisualisasikan simbol berkelanjutan dalam kerja tim
+
+Fase 1: rencana & pengkodean
+fase 2: pembangunan & uji otomatis 
+fase 3: penerapan konsisten
+fase 4: pemantauan secra berkelanjutan
+
+
+
+
+

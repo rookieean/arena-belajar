@@ -1,0 +1,26 @@
+Pertemuan ... 06 Maret 2026
+
+
+
+    Layer Defense
+
+    - perimeter security
+    - network security
+    - endpoint security
+    - application security
+    - data security
+    - identity
+    - response
+
+
+    Security controls
+
+    - signature based detection
+    
+
+    Machine learning for security prevention
+
+
+    
+
+
