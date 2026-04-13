@@ -1,0 +1,142 @@
+
+// Perbedaan cara kerja web dan android development
+
+    - web = kode dibaca dari atas ke bawah
+      analogi = seperti memasak resep, 1 -> 2 -> 3
+
+    - android = kode berjalan ketika user melakukan input
+      analogi = supir taksi yang menunggu penumpang, hanya jalan ketika penumpang
+                mengatakan akan ke sebuah tempat
+
+
+
+
+// Terkuak arti dari et, tv dan btn dalam penamaan variabel
+
+    - et = EditText
+    - tv = TextView
+    - btn = Button
+
+    fungsinya agar kita tahu itu tipe variabel apa
+
+
+
+
+// arti lateinit
+
+    artinya Late Initialization (Inisialisasi Terlambat)
+    variabel gak boleh kosong,
+    tapi disini bilang, "aku bikin wadahnya dulu, tapi nanti aku isi koq"
+
+
+
+
+// kenapa nulis variabelnya gak boleh x = 120
+
+    komponen UI kan dari variabel, isinya kan masih nunggu user
+    jadi gak bisa langsung di input nilainya,
+    harus di kosongin dulu wadah variabelnya
+
+
+
+
+// alasan ada : di private lateinit var etBaseAmount: EditText
+
+    arti : adalah tipe ( Type Annotation ) 
+    dikotak etBaseAmount hanya boleh di isi oleh tipe EditText sajaaa
+
+
+
+
+// makna dari override fun onCreate(savedInstanceState: Bundle?)
+
+    ibarat bilang ke android, Hei Android, saat kamu menjalankan fungsi onCreate standarmu,
+    tolong sertakan juga kode yang saya tulis ini ya!"
+    jadi antara kode standar android dan standarku bisa dijalankan bersamaan
+
+    Di Kotlin biasa, kamu memanggil fungsi. fun main()
+    Di Android, Sistem Android-lah yang memanggil fungsi kamu.  
+
+    itulah kenapa kotlin cuma bisa dijalankan di fun main(),
+    sedang di android studio gak ada fun main(), itu ada cuma di sistem bagian dalam
+    yang gak perlu di otak atik, cukup tulis langsung aja kodenya...
+
+
+
+
+// kenapa ada etBaseAmount = findViewById(R.id.etBaseAmount)
+
+
+    ini adalah kabel xml yang dihubungkan ke logika kotlin,
+
+    kenapa penulisan katanya gitu?
+
+    - etBaseAmount (Sisi Kiri): Ini adalah nama variabel (wadah)
+        yang kamu buat di bagian atas kelas MainActivity menggunakan lateinit var.
+
+    - = (Sama Dengan): Artinya "diisi oleh" atau "dihubungkan dengan".
+
+    - findViewById: Ini adalah fungsi pencari otomatis milik Android. 
+        Tugasnya menyisir seluruh file XML kamu untuk mencari benda tertentu.
+
+    - R.id.etBaseAmount (Sisi Kanan): Ini adalah alamat spesifiknya.
+
+        - R = Singkatan dari Resources (folder res).
+        - id: Menandakan kita mencari berdasarkan identitas unik.
+        - etBaseAmount: Nama ID yang kamu ketik di file XML (atribut android:id="@+id/etBaseAmount").
+
+
+
+
+
+// kenapa private const val TAG = "MainActivity"
+          private const val INITIAL_TIP_PERCENT = 15
+
+          ada di luar class MainActivity
+
+
+          Ibarat pengumuman di luar kantor, variabel yang berisi sebuah nilai yang tidak berubah 
+          sedang variabel yang ada di class MainActivity nilainya selalu berubah,
+          itu alasan kenapa di taruh di luar MainActivity class
+
+          kenapa susunan katanya adalah private const val...
+          private = hanya untuk proyek ini saja
+          const = nilainya tetap, konstanta
+          val = tipe jenis data
+
+          benefit:
+          - kompilasi cepat, karena komputer tidak perlu menghitung ulang
+          - efisiensi memori
+
+
+
+
+
+// bagian seekBarTip.progress = INITIAL_TIP_PERCENT
+          tvTipPercent.text = "$INITIAL_TIP_PERCENT"
+          updateTipDescription(INITIAL_TIP_PERCENT)
+
+    + seekBarTip.progress = INITIAL_TIP_PERCENT
+          ketika layar pertama kali dibuka, seek bar akan langsung nunjuk angka 15 di layar
+
+    + tvTipPercent.text = "$INITIAL_TIP_PERCENT"
+         text akan menunjukan angka 15 otomatis
+
+        knpa ada $?
+        String Templates, guna memasukan variabel ke teks. 
+        Jadi, daripada menulis "15", kita memanggil variabelnya 
+        agar jika nanti INITIAL_TIP_PERCENT diubah di bagian atas kode, teks ini otomatis ikut berubah.
+
+    + updateTipDescription(INITIAL_TIP_PERCENT)
+        Karena angka awalnya 15, maka fungsi ini akan langsung mengecek: "Eh, kalau 15 itu masuk kategori apa ya?". 
+        Karena 15 ada di rentang in 15..19, maka teks deskripsi akan langsung muncul tulisan 
+        "Good" dan warnanya berubah sesuai logika yang kamu buat.
+
+
+
+
+
+// 
+
+
+

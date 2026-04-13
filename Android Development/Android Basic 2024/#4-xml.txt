@@ -1,0 +1,4 @@
+tps android studio
+
+ - double shift -> ketik "reformat.." akan merapikan teks xml dengan cepat
+ - 
