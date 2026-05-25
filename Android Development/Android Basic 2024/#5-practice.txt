@@ -33,7 +33,7 @@
 
 // kenapa nulis variabelnya gak boleh x = 120
 
-    komponen UI kan dari variabel, isinya kan masih nunggu user
+    komponen UI kan dari variabel, isinya masih nunggu user
     jadi gak bisa langsung di input nilainya,
     harus di kosongin dulu wadah variabelnya
 
@@ -136,7 +136,77 @@
 
 
 
-// 
+// ini adalah sebuah listener (pendengar), yang di dalamnya ada 3 fungsi yang default menempel
+
+           seekBarTip.setOnSeekBarChangeListener(object: SeekBar.OnSeekBarChangeListener {
+
+            1. fungsi untuk menjaga seekbar 
+            override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) {
+                Log.i(TAG, "onProgressChanged $progress")
+                tvTipPercent.text = "$progress"   
+                computeTipAndTotal()       
+                updateTipDescription(progress)
+            }
+
+            2. fungsi untuk melakukan sesuatu ketika user menempelkan jari ke bulatan
+            override fun onStartTrackingTouch(seekBar: SeekBar?) {}
+
+            3. fungsi untuk menghentikan bulatan ketika user juga berhenti
+            override fun onStopTrackingTouch(seekBar: SeekBar?) {}
+
+        })
+
+        jika 2 dan 3 dihapus akan error, dan boleh kosong, secara analogi 3 fungsi memiliki peran 
+        1 = Menjaga kasir (onProgressChanged).
+        2 = Membuka toko (onStartTrackingTouch).
+        3 = Menutup toko (onStopTrackingTouch).
+
+
+
+
+        ini analogi cara kerjanya ya...
+        // 1. Panggil fungsi "pemasang sensor"
+        seekBarTip.setOnSeekBarChangeListener( 
+
+        // 2. Berikan "buku panduan" (Object) tentang apa yang harus diawasi
+        object: SeekBar.OnSeekBarChangeListener {
+
+        // 3. Fungsi ini otomatis jalan kalau digeser
+        override fun onProgressChanged(...) { 
+            // ISI LOGIKA KAMU
+        }
+        
+        // ... fungsi lainnya
+    }
+)
+        
+
+
+
+
+
+// definisi parameter :
+    parameter adalah informasi yang diberikan 
+    oleh sistem kepada fungsi agar fungsi tersebut tahu apa yang harus dilakukan.
+
+    ambil contoh fungsi 
+    
+            override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) {
+              ..
+            }
+
+    disini ada 3 parameter,
+    1. seekbar: SeekBar?
+        siapa yang harus di geser: seekbar?
+        knpa ada tanda ?, nullabel, artinya kemungkinan kecil bendanya tidak ada 
+
+    2. progress: Int
+        ada parameter bernama progress dengan tipe data Int
+
+    3. fromUser: Boolean
+        ada parameter bernama fromUser dengan tipe data Boolean
+
+    
 
 
 
