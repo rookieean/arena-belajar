@@ -1,0 +1,64 @@
+# Whats is Android?
+
+- based on linux
+- open and free
+
+
+
+
+# Android Versions
+
+Apple Pie - Cupcake - Donut - Eclair - Froyo - 
+Gingerbread - Honeycomb - Ice Cream Sandwich - 
+Jelly Bean - KitKat - Lollipop - Marshmallow - 
+Nougat - Oreo
+
+
+
+
+# Android Features
+
+Multitasking App, wireless, database, hardware support
+
+
+
+
+# Android Architecture
+
+1 Linux Kernel = display driver, camera driver, flash memory driver, binder driver, keypad, ...
+2 Libraries = surface manager, media framework, SQLite, OpenGL, FreeType, WebKit
+3 Android Runtime = Libraries Core, device virtula machine (ada di layer yg sama dgn libraries)
+4 Application Framework = Activity manager, window manager, content providers, view system, package manager ..
+5 Application = Home, Contacts, Phone, browser ..
+
+
+
+
+
+
+-------------------- Instalasi Android Studio ----------------------------
+
+# STEP
+
+- Instal Java SDK
+- Install Android Studio
+- Instal SDK PLATfrom di dalam android stuido = menyediakan alat, pustaka, sdm utk apk seluler
+    recomen = google play dan API system image
+
+
+
+
+
+
+-------------------- Introduction to Android Studio ----------------
+
+
+# Create Android Project
+
+- edit nama apk, company name domain utk apkmu = id unik bagi setiap apk di play store
+  path file - 
+
+- pilih device yang bakal kamu pakai, lalu pilih versi android
+- Activity mobile = layar pertama yang akan kamu lihat di device 
+- MainActivity = gimana logic apk berjalan
+- layout = gimana apk di susun (tampilan)
