@@ -62,3 +62,41 @@ Multitasking App, wireless, database, hardware support
 - Activity mobile = layar pertama yang akan kamu lihat di device 
 - MainActivity = gimana logic apk berjalan
 - layout = gimana apk di susun (tampilan)
+
+
+
+
+
+
+# Folder Introduction
+
+- Android -> app -> manifest(AndroidManifest.xml) 
+
+
+
+# Activity Lifecycle
+
+Apa yang terjadi dalam siklus apk tersebut
+
+Activity Launched -> onCreate() -> onStart() -> onResume()...
+
+Method onCreate.. akan otomatis ada di apkmu tanpa kamu perlu ketik lagi, 
+
+
+
+# praktik id di android Studio
+
+pas kita naruh string di xml, dia bakal kasih warning karena ini karakter yang gak dikenali,
+bisa aja kita abaikan aja, atau string yang kita pakai kita daftarkan ke 
+app > src > main > res > values > strings.xml
+
+bisa ketik manual dgn format:
+<string name="hint_id">please enter id number</string>
+
+ato shortcutnya dengan:
+- buka teks stringnya di file xml
+- click pada extract string resource
+- isi konfigurasinya, edit nama id, isi value stringnya lalu click tombol
+- nanti otomatis akan kesimpan di file strings.xml 
+
+
