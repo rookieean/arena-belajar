@@ -1,0 +1,96 @@
+########## 1
+
+    Kali linux 
+    os utk pentest
+
+    virtual machine, pakai vmware
+    file zip
+
+
+
+######### 2
+
+    Linux Fundamental 
+
+    sudo su 
+
+    mkadir = membuat direktori
+    ls = list utk lihat folder
+    cd = change direktori --> lakukan tab agar otomatis
+    pwd = kita ada di mana
+    touch = membuat file
+    cat = lihat isi file
+    nano nama file = edit file 
+
+
+
+######## 3
+
+    Scripting Bash Ping sweep
+
+    linux file system hierarchy
+
+    kenali playground 
+
+    bash dan python - utk scripting kali linux 
+
+    ping 
+    untk menemukan aktif host dalam sebuah jaringan
+    mencari ip yang aktif 
+
+
+
+
+
+####### 4
+
+    Google Haacking
+
+    pencarian info di google menggunakan queri tertentu
+    exploit database
+
+    site --> mencari informasi di domain tertentu
+    imurl --> informasi di keyword url
+    intext --> informal di keyword text
+    intitle -->
+    filetype
+    chace
+
+
+
+####### 5
+
+    Enumeration Tools : Nmap
+
+    Nmap --> scanning port
+    melalui 
+    nmap idn.id
+
+
+
+###### 6
+
+    Enumeration tools : Gobuster & Fuzz
+
+    directory search
+
+    gobuster --> mencari path yang tersembunyi dalam web
+    fuzzing --> pengujian secara masif
+
+
+
+
+
+
+
+##### 7
+
+    Burp Suite
+    web scanning
+
+    jembatan bagi browser klien dan browser yang sedang di uji
+
+    request klien bisa di tahan/di cek menggunakan burp Suite
+    lalu di teliti/di rubah
+
+    ~

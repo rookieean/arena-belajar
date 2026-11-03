@@ -1,0 +1,30 @@
+Pertemuan 5, 13 Maret 2026
+
+
+
+    Software untuk memantau jaringan
+    - GlassWire
+
+
+Pertemuan 6, 20 Maret 2026
+
+
+    IPS dan IDS 
+    mendeteksi sserangan jaringan yyang berbahaya,
+    memblokir paket yang mencurigakan,
+
+    Membuat web yang di dalamnya tertanam skrip anti robot,
+
+    http username dan password bisa kelihatan pakai wireshark,
+
+    me remote server agar lebih mudah dalam pemantauan,
+
+    Mac address filtering,
+    akses internet dibatasi dengan memfilter mac address tertentu yang hanya boleh akses,
+    mac address bisa di ubah 
+    
+
+
+
+
+    

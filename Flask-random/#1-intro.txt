@@ -1,0 +1,125 @@
+1. Membuat virtual enviroment di dalam python
+
+    Agar projectmu tidak bercampur ke hal lain
+
+    Analogi:
+    - Global Env = kotak perkakas umum, klo ada yang hilang, semua bingung
+    - Virtual Env = Kotak perkakas pribadimu sendiri yang sudah kamu sesuaikan dengan kebutuhanmu
+
+    Instalasinya:
+    python -m venv nama_folder / ato biasanya default .venv
+
+    Cara cek apakah sudah bekerja atau belum:
+    where pip -> klo mengarah ke .venv bagus sudah jalan
+
+    Arti . di depan:
+    setiap folder yang ada titiknya didepan akan di hidden, dan agar lebih rapi
+
+    Jangan masukin ke git/cloud:
+    - masukin ke gitignore agar tidak di masukin ke git ya..
+    - Jangan di edit manual
+    - klo ganti path, hapus aja, dan bikin yang bercampur
+    
+
+    Klo berbagi kode dengan teman:
+    kamu ketik:
+    - pip freeze > requirements.txt
+
+    temanmu ketik:
+    - pip install -r requirements.txt
+
+    Tandanya:
+    (.venv) PS D:\code\bla -> artinya kamu udah ada di ruang isolasi
+
+
+
+
+
+2. Install Flask
+
+
+    Instalasi:
+    pip install flask
+
+
+
+
+3. Buat file py
+
+    Lokasi:
+    Filenya bukan di dalam folder .venv, tapi diluar
+
+    >.venv
+    app.py
+
+
+
+
+4. Tulis Kode di dalam app.py
+
+    from flask import Flask
+
+    app = Flask(__name__)
+
+    @app.route('/')
+    def home():
+        return "Backend Flask pertama saya berhasil jalan!"
+
+    if __name__ == '__main__':
+        app.run(debug=True)
+
+
+
+
+5. Jalankan di terminal yang ada tanda (.venv)
+
+    Run:
+    python app.py
+
+
+
+
+
+// Penjelasan Kode
+
+   from flask import Flask
+
+    app = Flask(__name__)
+
+    @app.route('/')
+    def home():
+        return "Backend Flask pertama saya berhasil jalan!"
+
+    if __name__ == '__main__':
+        app.run(debug=True)
+
+    
+    - @app.route = resepsionis yang mengarahkan
+    - @app.route('/') = "resepsonis klo ada yang ke halaman utama (/) nanti ..
+    - def home():
+        ... = arahin ke fungsi ini ya..
+
+    - / = arti halaman utama
+
+    - app = Flask(__name__)	Inisialisasi: "Halo Python, tolong siapkan kerangka aplikasi di folder ini."
+
+        app = Flask(__name__) adalah momen kamu mendaftarkan izin usaha toko tersebut dan menentukan 
+        di mana lokasi fisiknya agar pengiriman barang (data) tidak salah alamat.
+
+
+    - if __name__ == '__main__':	Proteksi: "Hanya jalankan mesin kalau saya yang minta langsung lewat terminal."
+
+        Ini adalah satpam penjaga. Baris ini memastikan kode di bawahnya (yaitu menyalakan server) 
+        hanya jalan jika kamu menjalankan file tersebut secara langsung.
+
+
+    - app.run(debug=True)	Operasional: "Nyalakan servernya, dan tolong kasih tahu kalau ada yang salah!"
+
+        Ini adalah perintah untuk menyalakan mesin server.
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+# Intro
+
+Generative Ai -> lebih fokus ke satu linier Ai
+Agentic Ai - Ai bekerja seperti agent, bisa bekerja sendiri
+
+
+Agentic Ai
+- Proaktif
+- Autonomus - otomatis menjalankan tugas
+- connected - bisa terhubung ke berbagai akun
+
+
+- Neural Expressive = tampilan UI yang lebih freindly
+integrasi setiap akun google, (bisa membantu integrasi bahasa manusia)
+di tambahkan bahasa dialek
+
+- Daily Brief = Google tanam agent baru di dalam AI. mengecek setiap update di workspace
+
+- Gemini Omni = gambar
+
+- Spark = agent menavigasi aktivitas manusia
+
+
+

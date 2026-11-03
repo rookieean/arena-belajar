@@ -1,0 +1,29 @@
+dibalik foto itu terwakilkan oleh sebuah angka 01, karena komputer hanya memahami bahasa 0 dan 1
+
+sama dengan video yang merupakan sekumpulan bahasa 010101
+
+
+
+Algorithm
+
+input - ? - output
+
+algorithm = step by step instructions for solving some problem
+different languages will allow you to solve different problems and even save your time by being better tools for the job 
+
+its not just about writing correct code or getting the job done, but doing it well and doing it quickly using the least amount of CPU or computing resources, using the minimal amount of RAM, whatever contain resource is, solving problem better. 
+
+code is just an implementation and a language the computer understands of an algorithm
+
+
+
+
+Pseudo Code 
+
+functions are verbs or actions that really get some small piece of workd done for you. 
+
+conditions like a fork in the road, do i go this way? or this way?
+
+Boolean exspression, it just a question yes or no
+
+they wrote program to  make easier
