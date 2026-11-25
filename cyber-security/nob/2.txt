@@ -1,0 +1,161 @@
+# Securing Data
+
+    passwords
+
+    hashing = proses menerima kata sandi, convert sandi ke kata string
+
+    Rainbow tables = semua kata sandi yang sudah di coba,
+
+    Salting (menyelesaikan hashing output yang sama)
+
+    One Way hash function = fungsi yang menyimpan hash
+
+    Cryptographic hash function = 
+
+    decode = codetext -> plaintext
+    encode = plaintext -> codetext
+
+    ciphers = decoding yang cenderung ke arah algoritmik
+
+    enchiper = plaintext -> ciphertext 
+
+    encrypt = plaintext -> ciphertext
+    decrypt = ciphertext -> plaintext
+
+    signature 
+
+    End to End Encrytption
+
+    Deletion
+
+    Secure deletion = menghapus file dengan aman
+
+    full disk Encrytption = 
+
+    Encrytption at rest = semua data di enkripsi dengan baik
+
+    Ransomware = mengunci datamu secara ilegal, minta tebusan
+
+    Quantum Computing = 
+
+
+
+
+
+# Securing System
+
+    Wi Fi 
+
+    wifi protected access (WPA)
+    melindungi internet wireless 
+
+    HTTP = protokol komunikasi antar client side ke server side 
+
+    Machine in the middle attacks
+    memanipulasi lalu lintas protokol yang sedang berjalan
+
+    Packet Sniffing
+    Mengendus apa isi paket tersebut
+
+    Cookies
+    server untuk bisa mengingat kamu siapa,
+
+    Session Hijacking
+
+    HTTPS
+    protokol yang lebih aman 
+
+    TLS 
+
+    Certificate = publik key yang sudah di tandai oleh orang lain,
+    X.509
+
+    Certificate Authority (CA)
+    sertifikat yang di isi oleh yang terpercaya
+
+    SSL Stripping
+
+    HSTS
+
+    VPN (Virtual Private Network)
+
+    Port 
+    just a uniqe number that the world has decided on that
+    represents the type of service that envelope is destined for
+
+    Port Scanning
+
+    Penetration testing
+    mencoba memasuki internet seseorang
+    mencari kelemahan dalam jaringan tersebut 
+
+    Ethical Hacking 
+    melakukan hacking dengan aturan etis 
+
+    Firewall
+    Dinding
+
+    Ip adresses
+    alamat rumah
+
+    Deep packet inspection
+    apa yang ada di dalam paket tersebut 
+
+    Proxy
+    s device, a server or piece of software that sits between two other points
+    dengan tujuan baik,
+
+    Malware
+    software yang bisa melakukan hal yang tidak baik 
+
+    Virus
+    virus yang melekat pada hal-hal di gital
+
+    Worm
+    bisa menduplikasi diri secara mandiri
+
+    Botnet
+    software yang terus menerus looping
+
+    DoS
+    membanjiri jaringan 
+
+    DDOS
+    membanjiri jaringan dgn lebih terstruktur
+
+    Antivirus
+
+    Automatic Updates
+    selalu update dengan keamanan yang lebih properly
+
+    Zero Day Attack 
+    serangan yang terjadi dalam satu hari, seketika!
+
+
+
+
+
+# Securing Software 
+
+    Phishing
+    menarik informasi darimu, seperti memancing
+
+    Code Injection
+    injeksikan sesuatu ke aplikasi
+
+    Cross Site Scripting (XSS)
+
+    Reflected
+
+    Stored 
+    
+
+
+
+
+
+
+
+
+
+

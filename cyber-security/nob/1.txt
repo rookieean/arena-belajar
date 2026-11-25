@@ -1,0 +1,67 @@
+- wc command
+
+
+
+
+- output redirection
+
+    mengatur keluaran dari program 
+
+    > = mengarahkan ke dlm file, mengganti yg lama
+    >> = mengarahkan jga, gak hapus yang lama 
+    2> =  mengarahkan pesan error ke dlm file 
+    &> / file 2>&1 mengarahkan pesan ke dlm file yg sama
+
+
+
+
+- grep command 
+
+
+
+
+- Piping 
+
+    pipa berfungsi menghubungkan output command 1 ke command 2
+
+        command 1 | command 2
+
+
+
+    menyaring teks dgn grep 
+    contoh:
+    cat /etc/passwd | grep root 
+
+    cat = baca isi file dan mengeluarkannya, sblm muncul di layar,
+    outputnya akan dikirim ke 'grep' yg kemudian menampilkan
+    kata 'root'
+
+
+
+    menggabungkan bbrpa perintah
+    contoh:
+
+    history | grep sudo | tail -n 10
+
+    Melihat riwayat perintah (history), menyaring yang ada kata sudo (grep),
+    lalu mengambil 10 baris terakhir dari hasil saringan tersebut (tail).
+
+
+
+    memotong/membatasi baris 
+    contoh:
+
+    ls -l | head -n 5
+
+     Perintah ls -l menghasilkan daftar panjang isi direktori. Output tersebut dipotong
+     oleh head -n 5 sehingga hanya 5 baris pertama yang ditampilkan di layar.
+
+
+
+
+
+- copy files
+
+    ls -l = mengeluarkan output list dengan informasi lengkap
+
+- rm - remove

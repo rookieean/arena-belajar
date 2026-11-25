@@ -93,4 +93,16 @@
     request klien bisa di tahan/di cek menggunakan burp Suite
     lalu di teliti/di rubah
 
-    ~
+
+
+##### 8 
+
+    Web exploit 
+    URL Examitation
+
+
+
+
+##### 9
+
+    
